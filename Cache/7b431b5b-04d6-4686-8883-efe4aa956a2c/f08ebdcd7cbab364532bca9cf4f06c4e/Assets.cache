@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    7750c982-5db4-4646-bed5-4522198503a9: 7b431b5b-04d6-4686-8883-efe4aa956a2c/f08ebdcd7cbab364532bca9cf4f06c4e/Data/thesage.png
+  Assets:
+    - !<FileTexture/7750c982-5db4-4646-bed5-4522198503a9>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: f08ebdcd7cbab364532bca9cf4f06c4e
+  FileHash: 70dd1c40b74d32da08be2abace77efd5
+  NativePackageItems:
+    []

@@ -1,0 +1,30 @@
+- !<AssetCache>
+  AssetFiles:
+    2d0cf7c4-26ea-444f-a29e-a5ce6b402712: f548528f-2c4d-402f-f2d4-483c0f935534/7614759613a02b2bcf0a7f7ae9528aa9/Data/halo lines 4.t3d
+    ea06e1de-521a-4227-b423-c3f483f9a49e: f548528f-2c4d-402f-f2d4-483c0f935534/7614759613a02b2bcf0a7f7ae9528aa9/Data/atlas_0.png
+  Assets:
+    - !<AnimatedTexture/2d0cf7c4-26ea-444f-a29e-a5ce6b402712>
+      PackagePath: ""
+      keyFrames:
+        default:
+          - time: 0.000000
+            value: 0
+          - time: 2.000000
+            value: 36
+      ReverseSupported: true
+      FrameSize: {x: 336, y: 341}
+      AnimationSequences:
+        default: 36
+      AutoPlay: true
+      Reversed: false
+      PingPong: true
+      CurrentSequence: default
+    - !<FileTexture/ea06e1de-521a-4227-b423-c3f483f9a49e>
+      PackagePath: atlas_0.png
+      FileInfo: !<FileTextureInfo>
+        Width: 2016
+        Height: 2046
+  SourceHash: 7614759613a02b2bcf0a7f7ae9528aa9
+  FileHash: f3653d61b8d4a8d6b2f4b2ce695c99ca
+  NativePackageItems:
+    []

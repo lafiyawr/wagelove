@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    44262b79-e435-4301-9c13-abbc297a5b67: d45e65da-289b-4511-b8bc-69c74c9215b6/90780092581d80945e6aa41075485d2d/Data/FriendshipBraceletAO.jpg
+  Assets:
+    - !<FileTexture/44262b79-e435-4301-9c13-abbc297a5b67>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 90780092581d80945e6aa41075485d2d
+  FileHash: 2620f92237b334952948733c5281eada
+  NativePackageItems:
+    []

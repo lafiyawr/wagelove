@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    8621f544-a4f4-4321-bc74-bcc7de1ee070: a6cfb972-42d3-413a-bb50-48b68aef131b/85e03ae8e1e96e4d6f0d5036fee786da/Data/lit_default_light.jpg
+  Assets:
+    - !<FileTexture/8621f544-a4f4-4321-bc74-bcc7de1ee070>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 32
+        Height: 32
+  SourceHash: 85e03ae8e1e96e4d6f0d5036fee786da
+  FileHash: dcccc50f2aae004af3cbc3f5dce9b22a
+  NativePackageItems:
+    []

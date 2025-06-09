@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    38312786-ee9b-439d-a30c-1ff0c0432071: 4b71cf5e-f933-3da9-86ca-3b9a9500e9e1/b79f504ee715f36617417f4c8658a07d/Data/Wrist Occluder Shadow Gradient.png
+  Assets:
+    - !<FileTexture/38312786-ee9b-439d-a30c-1ff0c0432071>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: b79f504ee715f36617417f4c8658a07d
+  FileHash: 39c63bd121e0e6e2be5c50e27bcf3427
+  NativePackageItems:
+    []

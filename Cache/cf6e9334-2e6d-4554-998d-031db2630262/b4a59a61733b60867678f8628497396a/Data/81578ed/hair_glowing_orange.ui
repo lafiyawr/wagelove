@@ -1,0 +1,167 @@
+{ 
+	"ui": 
+	[
+		{
+        	"label": "Graph Parameters",
+        	"widget": "group_start"
+        },
+{ 
+                	"bindingName": "hairTex", 
+                	"label":       "Hair Texture", 
+                	"widget":      "texture_group",
+                	"sortIndex":   "0",
+                	"hint":        ""
+                },
+                
+                {
+                	"bindingName": "alphaTestThresh",
+                	"label":       "Alpha Test Threshold",
+                	"widget":      "slider",
+                	"min":         0,
+                	"max":         1,
+                	"step":        "0.01",
+                	"sortIndex":   "1",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+                
+                {
+                	"bindingName": "blurMultiplier",
+                	"label":       "Blur Multiplier",
+                	"widget":      "slider",
+                	"min":         0,
+                	"max":         1,
+                	"step":        "0.01",
+                	"sortIndex":   "2",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+                
+                {
+                	"bindingName": "hairGrowth",
+                	"label":       "Hair Growth",
+                	"widget":      "slider",
+                	"min":         0,
+                	"max":         1,
+                	"step":        "0.01",
+                	"sortIndex":   "3",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+                
+                { 
+                	"bindingName": "LitLookup", 
+                	"label":       "Lit Lookup", 
+                	"widget":      "texture_group",
+                	"sortIndex":   "4",
+                	"hint":        ""
+                },
+                
+                {
+                	"bindingName": "hairTipsColor",
+                	"label":       "Hair Tips Color",
+                	"widget":      "color",
+                	"sortIndex":   "5",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+                
+                {
+                	"bindingName": "hairRootsColor",
+                	"label":       "Hair Roots Color",
+                	"widget":      "color",
+                	"sortIndex":   "6",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+                
+                {
+                	"bindingName": "mixEdge",
+                	"label":       "Mix Edge",
+                	"widget":      "slider",
+                	"min":         0,
+                	"max":         1,
+                	"step":        "0.01",
+                	"sortIndex":   "7",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+                
+                {
+                	"bindingName": "mixSize",
+                	"label":       "Mix Size",
+                	"widget":      "slider",
+                	"min":         0,
+                	"max":         1,
+                	"step":        "0.01",
+                	"sortIndex":   "8",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+                
+                {
+                	"bindingName": "diffuseLightColor",
+                	"label":       "Diffuse Light Color",
+                	"widget":      "color",
+                	"sortIndex":   "9",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+                
+                {
+                	"bindingName": "specularLightColor",
+                	"label":       "Specular Light Color",
+                	"widget":      "color",
+                	"sortIndex":   "10",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+                
+                {
+                	"bindingName": "litOffset",
+                	"label":       "Lit Offset",
+                	"widget":      "slider",
+                	"min":         -1,
+                	"max":         1,
+                	"step":        "0.01",
+                	"sortIndex":   "11",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+                
+                {
+                	"bindingName": "litRotation",
+                	"label":       "Lit Rotation",
+                	"widget":      "slider",
+                	"min":         0,
+                	"max":         3.14,
+                	"step":        "0.01",
+                	"sortIndex":   "12",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+
+        {
+        	"widget": "group_end"
+        },
+        
+		
+	{
+		"bindingName": "alphaTestThreshold",
+		"widget": "slider",
+		"min" : 0.0,
+		"max" : 1.0,
+		"step": 0.001,
+		"default": 0.5,
+		"hint": "When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear."
+	}
+	
+	],
+	
+	"shaderType": "Hair",
+	
+	"extraDefines":
+	[
+		
+	]
+}

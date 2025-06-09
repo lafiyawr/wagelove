@@ -1,0 +1,36 @@
+- !<AssetImportMetadata/80a4e4b9-36a5-420e-b842-d09c51631a6a>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 29463e88-fe97-4ff0-95b1-59012782ec03
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 29463e88-fe97-4ff0-95b1-59012782ec03
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> c2c28a6b-e246-4a73-a4d4-aef31844cc64
+  DependentFiles: []
+  ImporterSettings: !<AssetImporterSettings/6e5aa159-c1fe-4c05-9d6d-ffe8ce57c0dd> {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/c2c28a6b-e246-4a73-a4d4-aef31844cc64>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 0d8f0668-6298-4297-b7a3-ccb7f126cc0b
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    camera: false
+    depthNormalMat: false
+    depthViz: false
+    vfxComponents: false
+  ScriptTypesHidden: {}
+  DefaultScriptInputs:
+    - camera: !<reference.Camera> 00000000-0000-0000-0000-000000000000
+      vfxComponents: !<reference.VFXComponent[]> []
+      depthNormalMat: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      depthViz: !<reference.Material> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    - {}

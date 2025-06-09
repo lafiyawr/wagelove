@@ -1,0 +1,4079 @@
+- !<AssetCache>
+  AssetFiles:
+    f650ecb9-e1cf-4d32-8fb5-8b26d27813d7: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/.hidden/refraction_inverted.ss_graph
+    f1bf378b-8484-4cfb-92be-847d8617a39e: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_0.mesh
+    5466b83f-c724-4356-8fc9-b96454dbf502: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_1.mesh
+    25098de8-b5cc-46e3-8560-3210d93897a6: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_2.mesh
+    3beda023-657c-4374-9521-bb4a410b504c: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_3.mesh
+    6275a931-f95c-42ab-b841-19857ec646d7: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_4.mesh
+    296970a2-44cc-4ded-8e9a-10f22462d211: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_5.mesh
+    824157cd-39fc-4509-a705-97fa96774860: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_6.mesh
+    77bf82b5-29b0-47a2-9dca-cc25ba9aa29a: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_7.mesh
+    27218fa5-c27d-4e54-88ff-a07987a0cbae: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_8.mesh
+    67876699-6277-4188-84ce-2dc1c5e39e9d: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_9.mesh
+    cbac1e98-b2b3-4f7f-adea-d146b44016c3: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_10.mesh
+    c4bcf554-8f4f-46a0-a181-dbd97ee75f2d: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_11.mesh
+    e1aa1579-4f8c-4f8d-855a-b7007d08c72d: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_12.mesh
+    f78a0e53-052e-4448-9a2d-98b7e2d5a7e8: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_13.mesh
+    b2c23e6f-64ba-4491-8540-c1c495b05104: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_14.mesh
+    41e597b2-5277-436c-81bc-91497f6a15a3: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_15.mesh
+    3ca281a2-7de7-4950-9e38-98305c8c31b1: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_16.mesh
+    cf23c891-bc42-498b-92ff-6deb27fd1644: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_17.mesh
+    bafa5fee-de2d-49ca-8ede-7a31fdaac17a: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_18.mesh
+    abfab012-a6c8-41d3-a815-3449a2d5b246: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_19.mesh
+    54553f30-4048-45d7-9a71-a66e6a318948: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_20.mesh
+    f4d5ede9-d4c5-4f17-b847-bee1136b736e: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_21.mesh
+    e053428a-e966-4844-81d1-5d6f9b8378fb: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_22.mesh
+    9ab669fd-3794-4459-a587-87df31a914d2: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_23.mesh
+    2ae2749b-a9e0-439c-a245-90d293a83c53: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_24.mesh
+    d69e796a-1300-4a47-a28e-575c8832b043: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_25.mesh
+    0d9b91de-3640-46e2-b67f-720704e7e2ca: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_26.mesh
+    3594e033-95b4-4a6d-95d5-802ef4d83be8: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_27.mesh
+    482e675e-0c45-4927-8ddc-d4ca39ebf698: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_28.mesh
+    d9ead979-4ddd-4403-bcec-3fba29c727a4: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_29.mesh
+    8c40a4a2-bdf2-45fc-a368-18092481a221: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/donut/Meshes/wrldspace_donut.mesh
+    b2ec0df8-d6aa-4b80-8e67-2dc3517377d0: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape1.mesh
+    066c9741-6328-466a-b783-15b587436d73: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape2.mesh
+    1281f0e8-34fd-4c61-bd68-091333b96bad: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape3.mesh
+    e91bd5b9-bffb-4abb-b695-fc0f10bd2141: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape4.mesh
+    009d2987-a1e5-4339-a630-93306fe1336f: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape5.mesh
+    4a16677e-8b9d-4062-b5ae-a88e79dd5033: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape6.mesh
+    d32d21f4-e545-4ef7-888c-40a7210531db: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape7.mesh
+    743d5432-99d6-4de7-82ff-714cea054f47: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape8.mesh
+    6888be23-1f2a-45c7-82bf-d1f6d736b0a7: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape9.mesh
+    011736d6-ef22-4b22-b35c-3652688fb09d: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape10.mesh
+    da80ac81-6f90-43df-8bba-a38c409c239c: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/urchin/Meshes/wrldspace_urchin.mesh
+    dfbbccac-a0a4-4c35-be35-eec42562d4ce: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/Aqua Terrestrials Pack Resources/Meshes/alien/Meshes/Wrldspace_Alien.mesh
+  Assets:
+    - !<Material/a092e6c4-9177-47a5-9538-3fb7f2bbef32>
+      PackagePath: Aqua Terrestrials Pack Resources/Materials/refraction_inverted
+      PassesInfo:
+        - !<own> e597b5f6-38f4-4eed-b7cb-8867be705e34
+    - !<ShaderGraphPass/f650ecb9-e1cf-4d32-8fb5-8b26d27813d7>
+      PackagePath: .hidden/refraction_inverted
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_AO_N006:
+          typeIdx: 4
+          value: {x: 1.000000, y: 1.000000, z: 1.000000}
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_Emissive_N006:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_GSplatPointSize_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input0_N018:
+          typeIdx: 1
+          value: 1.000100
+        Port_Input0_N025:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input0_N052:
+          typeIdx: 1
+          value: 1.000100
+        Port_Input2_N029:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input2_N045:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input2_N051:
+          typeIdx: 1
+          value: 0.100000
+        Port_Metallic_N006:
+          typeIdx: 1
+          value: 0.000000
+        Port_Normal_N006:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_Opacity_N006:
+          typeIdx: 1
+          value: 1.000000
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Roughness_N006:
+          typeIdx: 1
+          value: 0.000000
+        Port_SpecularAO_N006:
+          typeIdx: 4
+          value: {x: 1.000000, y: 1.000000, z: 1.000000}
+        Port_Value4_N023:
+          typeIdx: 1
+          value: 0.000000
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_WorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 1.000000}
+      PassUiData: !<PassUiData>
+        ExtraDefines:
+          - SC_ENABLE_RT_CASTER
+          - SC_ENABLE_RT_RECEIVER
+        PassBindings:
+          - mLabel: Graph Parameters
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Refraction
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Faceted
+            mType: Define
+            mName: faceted
+            mWidget: checkbox
+            mHint: "Define: faceted"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Background
+            mType: Property
+            mName: background
+            mWidget: texture_group
+            mHint: "Property: background"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Color Tint
+            mType: Property
+            mName: colorTint
+            mWidget: color
+            mHint: "Property: colorTint"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Chromatic Aberration
+            mType: Property
+            mName: chromaticAberration
+            mWidget: slider
+            mHint: "Property: chromaticAberration"
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Intensity
+            mType: Property
+            mName: intensity
+            mWidget: slider
+            mHint: "Property: intensity"
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Thickness
+            mType: Property
+            mName: thickness
+            mWidget: slider
+            mHint: "Property: thickness"
+            mMin: 0.000000
+            mMax: 10.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Fresnel
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Exponent
+            mType: Property
+            mName: exponent
+            mWidget: slider
+            mHint: "Property: exponent"
+            mMin: 0.000000
+            mMax: 10.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Darken
+            mType: Property
+            mName: darken
+            mWidget: slider
+            mHint: "Property: darken"
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: |-
+              Property: alphaTestThreshold
+              
+              When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear.
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.001000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+        ShaderType: Mesh3d
+      ShaderPath: 117dee4d-38b8-40e8-81ef-6a30e8c09137/e923267729635419b3694c476c613e11/Data/.hidden/81578ed/refraction_inverted.glsl
+      Defines:
+        []
+      Properties:
+        {}
+    - !<FileMesh/f1bf378b-8484-4cfb-92be-847d8617a39e>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_0
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 53.798622, y: 113.289291, z: 145.083603}
+    - !<FileMesh/5466b83f-c724-4356-8fc9-b96454dbf502>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_1
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 62.271568, y: 91.689743, z: 162.609619}
+    - !<FileMesh/25098de8-b5cc-46e3-8560-3210d93897a6>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_2
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 45.673470, y: 85.893997, z: 170.007309}
+    - !<FileMesh/3beda023-657c-4374-9521-bb4a410b504c>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_3
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 27.964493, y: 85.320847, z: 176.257751}
+    - !<FileMesh/6275a931-f95c-42ab-b841-19857ec646d7>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_4
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 31.979191, y: 97.579323, z: 164.960526}
+    - !<FileMesh/296970a2-44cc-4ded-8e9a-10f22462d211>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_5
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 45.676361, y: 103.452957, z: 151.247406}
+    - !<FileMesh/824157cd-39fc-4509-a705-97fa96774860>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_6
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 40.001816, y: 98.825600, z: 157.635544}
+    - !<FileMesh/77bf82b5-29b0-47a2-9dca-cc25ba9aa29a>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_7
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 36.543682, y: 75.879005, z: 176.416763}
+    - !<FileMesh/27218fa5-c27d-4e54-88ff-a07987a0cbae>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_8
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 33.032349, y: 39.517517, z: 196.646515}
+    - !<FileMesh/67876699-6277-4188-84ce-2dc1c5e39e9d>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_9
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 27.605923, y: 42.305725, z: 196.970200}
+    - !<FileMesh/cbac1e98-b2b3-4f7f-adea-d146b44016c3>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_10
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 28.051991, y: 78.684189, z: 175.717041}
+    - !<FileMesh/c4bcf554-8f4f-46a0-a181-dbd97ee75f2d>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_11
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 34.050308, y: 86.907486, z: 172.694626}
+    - !<FileMesh/e1aa1579-4f8c-4f8d-855a-b7007d08c72d>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_12
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 48.167824, y: 88.019211, z: 168.045013}
+    - !<FileMesh/f78a0e53-052e-4448-9a2d-98b7e2d5a7e8>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_13
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 29.590309, y: 108.784912, z: 148.548752}
+    - !<FileMesh/b2c23e6f-64ba-4491-8540-c1c495b05104>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_14
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 38.769615, y: 96.567650, z: 162.690231}
+    - !<FileMesh/41e597b2-5277-436c-81bc-91497f6a15a3>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_15
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 35.898247, y: 97.215256, z: 162.821808}
+    - !<FileMesh/3ca281a2-7de7-4950-9e38-98305c8c31b1>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_16
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 34.181450, y: 111.382637, z: 145.787048}
+    - !<FileMesh/cf23c891-bc42-498b-92ff-6deb27fd1644>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_17
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 29.895306, y: 116.045242, z: 134.089218}
+    - !<FileMesh/bafa5fee-de2d-49ca-8ede-7a31fdaac17a>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_18
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 29.598391, y: 117.663857, z: 134.326935}
+    - !<FileMesh/abfab012-a6c8-41d3-a815-3449a2d5b246>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_19
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 27.516205, y: 113.702957, z: 147.709961}
+    - !<FileMesh/54553f30-4048-45d7-9a71-a66e6a318948>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_20
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 32.364883, y: 84.060379, z: 179.474152}
+    - !<FileMesh/f4d5ede9-d4c5-4f17-b847-bee1136b736e>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_21
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 27.868322, y: 84.189758, z: 180.147781}
+    - !<FileMesh/e053428a-e966-4844-81d1-5d6f9b8378fb>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_22
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 36.487152, y: 110.324211, z: 156.207428}
+    - !<FileMesh/9ab669fd-3794-4459-a587-87df31a914d2>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_23
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 27.846769, y: 126.774284, z: 130.174530}
+    - !<FileMesh/2ae2749b-a9e0-439c-a245-90d293a83c53>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_24
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 33.775414, y: 128.088379, z: 126.900238}
+    - !<FileMesh/d69e796a-1300-4a47-a28e-575c8832b043>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_25
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 29.186443, y: 129.210373, z: 134.955566}
+    - !<FileMesh/0d9b91de-3640-46e2-b67f-720704e7e2ca>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_26
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 36.629639, y: 128.153641, z: 134.484863}
+    - !<FileMesh/3594e033-95b4-4a6d-95d5-802ef4d83be8>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_27
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 51.277840, y: 127.465530, z: 126.691269}
+    - !<FileMesh/482e675e-0c45-4927-8ddc-d4ca39ebf698>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_28
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 53.587425, y: 127.321854, z: 120.602661}
+    - !<FileMesh/d9ead979-4ddd-4403-bcec-3fba29c727a4>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Meshes/Sweep_29
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 51.177738, y: 122.625099, z: 126.604805}
+    - !<AnimationLayer/ca928d97-dc12-457b-812c-2e930011a906>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_0
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/3eba21cb-bd1c-4d62-a9a6-8c5ebf118d1b>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_1
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/ec0f1df8-3c5a-4bfc-b4ad-a1a2ed766291>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_2
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/37aa0af0-913d-4d58-9428-2054c90ac39a>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_3
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/862f4156-a52c-47f0-895a-f79575c0f0f2>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_4
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/77cdfe8d-6ae2-45be-b868-ca6f542b3fa4>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_5
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/1ca77286-f6b6-4348-a609-a81838ac1476>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_6
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/2e181ee4-c885-43cd-ae75-cebd9558aa05>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_7
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/c588f235-e6fe-4d88-91cf-95cc383c2182>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_8
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/4ec5c713-0e50-423d-a5c0-b03b4fefecc5>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_9
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/0d3ae891-2372-4720-b8f1-a8a2142fc6b8>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_10
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/a5ea1468-1e1b-4df6-8b16-6166964dd89f>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_11
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/eca6d5d7-d9d5-4fd9-9244-e6a2d3d6b340>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_12
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/e19957ad-ed50-4daf-8d58-6651c3e9a64f>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_13
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/675aadb8-29ce-4f6e-b73d-148b43db8da2>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_14
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/0b1ce4e3-79fc-46b6-b21a-694dc16403ea>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_15
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/2807839f-797e-47e9-8097-2f70574f6e9d>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_16
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/b9321379-7707-4677-a5df-49975dc88159>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_17
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/7232328e-3ae6-4f33-b1a5-67333aa60322>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_18
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/eb89e401-cae4-4817-b46d-324df21982c2>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_19
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/ae2d84cc-77db-4a8b-8681-d0114f8d9a3f>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_20
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/d6811430-d019-4fd0-be13-0d5d5f4898dc>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_21
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/a4bd2198-c362-4470-a3a3-c86e2219eba1>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_22
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/84531589-c828-4dcf-860a-d0852083a945>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_23
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/d33a43ea-00f5-4255-aad2-2205a46dfb6b>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_24
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/779e6538-2d89-4f4d-b01b-918f78461b60>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_25
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/48587638-f677-4da0-851b-257340bb0cff>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_26
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/03827957-6352-4a76-bcab-6152e4267d57>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_27
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/be285eea-26ec-4076-83d4-49b8ae30511a>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_28
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/424623e5-3415-4cad-8936-308aaad6d7aa>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/anenome/Animations/Sweep_29
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<FileMesh/8c40a4a2-bdf2-45fc-a368-18092481a221>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/donut/Meshes/wrldspace_donut
+      Info: !<MeshInfo>
+        Triangles: 3152
+        Vertices: 6209
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 342.950806, y: 129.107407, z: 344.673431}
+    - !<AnimationLayer/ce7b6c42-c133-4557-8025-41162cf53974>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/donut/Animations/wrldspace_donut
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<FileMesh/b2ec0df8-d6aa-4b80-8e67-2dc3517377d0>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape1
+      Info: !<MeshInfo>
+        Triangles: 124
+        Vertices: 151
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 66.994339, y: 164.309677, z: 113.748192}
+    - !<FileMesh/066c9741-6328-466a-b783-15b587436d73>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape2
+      Info: !<MeshInfo>
+        Triangles: 124
+        Vertices: 146
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 84.048477, y: 152.436996, z: 110.955406}
+    - !<FileMesh/1281f0e8-34fd-4c61-bd68-091333b96bad>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape3
+      Info: !<MeshInfo>
+        Triangles: 124
+        Vertices: 146
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 62.744118, y: 165.935608, z: 109.168152}
+    - !<FileMesh/e91bd5b9-bffb-4abb-b695-fc0f10bd2141>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape4
+      Info: !<MeshInfo>
+        Triangles: 124
+        Vertices: 146
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 72.092224, y: 174.135895, z: 103.932182}
+    - !<FileMesh/009d2987-a1e5-4339-a630-93306fe1336f>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape5
+      Info: !<MeshInfo>
+        Triangles: 124
+        Vertices: 147
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 62.957809, y: 164.609146, z: 112.099281}
+    - !<FileMesh/4a16677e-8b9d-4062-b5ae-a88e79dd5033>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape6
+      Info: !<MeshInfo>
+        Triangles: 124
+        Vertices: 144
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 65.640724, y: 159.246475, z: 117.740021}
+    - !<FileMesh/d32d21f4-e545-4ef7-888c-40a7210531db>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape7
+      Info: !<MeshInfo>
+        Triangles: 124
+        Vertices: 148
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 64.451424, y: 160.932205, z: 116.521942}
+    - !<FileMesh/743d5432-99d6-4de7-82ff-714cea054f47>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape8
+      Info: !<MeshInfo>
+        Triangles: 124
+        Vertices: 144
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 76.251526, y: 156.814209, z: 115.106064}
+    - !<FileMesh/6888be23-1f2a-45c7-82bf-d1f6d736b0a7>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape9
+      Info: !<MeshInfo>
+        Triangles: 124
+        Vertices: 146
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 76.080734, y: 155.708633, z: 117.597328}
+    - !<FileMesh/011736d6-ef22-4b22-b35c-3652688fb09d>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Meshes/shape10
+      Info: !<MeshInfo>
+        Triangles: 124
+        Vertices: 146
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 88.268593, y: 152.591873, z: 115.057961}
+    - !<AnimationLayer/703c35d1-6895-480b-ac0a-4eccdd9fb5bd>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Animations/shape1
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 2.000000
+          value: 2.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/f0b57cff-9f6e-43ca-91d6-ad6e034d9790>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Animations/shape2
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 2.000000
+          value: 2.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/68d96889-4ab3-4901-8c2d-cf49bbef22a6>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Animations/shape3
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 2.000000
+          value: 2.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/811a8c6e-c51c-4b8e-95d9-440a9ca23a8e>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Animations/shape4
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 2.000000
+          value: 2.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/e4052d9a-3f00-4b4d-9f79-82df9965c252>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Animations/shape5
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 2.000000
+          value: 2.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/bfacf2e0-0752-4a86-91b4-8ee01be4f296>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Animations/shape6
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 2.000000
+          value: 2.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/1d626e35-19f0-42b0-b905-c414eb0f506d>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Animations/shape7
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 2.000000
+          value: 2.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/dde4c5bf-44b4-472b-a1d2-1770a241a5b4>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Animations/shape8
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 2.000000
+          value: 2.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/39b79731-276c-4fa9-96ee-047e4b0a3d6b>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Animations/shape9
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 2.000000
+          value: 2.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<AnimationLayer/3db87ecd-39a3-474a-8104-ba061605729e>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/jelly/Animations/shape10
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 2.000000
+          value: 2.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<FileMesh/da80ac81-6f90-43df-8bba-a38c409c239c>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/urchin/Meshes/wrldspace_urchin
+      Info: !<MeshInfo>
+        Triangles: 663
+        Vertices: 1326
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 271.790558, y: 272.826172, z: 272.238464}
+    - !<AnimationLayer/a03d246e-f97b-4501-bcf6-a50858168a71>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/urchin/Animations/wrldspace_urchin
+      BlendMode: Additive
+      ScaleMode: Multiply
+      Positions:
+        []
+      Rotations:
+        []
+      Scales:
+        []
+      VertexCacheAnimations:
+        - time: 0.000000
+          value: 0.000000
+        - time: 1.000000
+          value: 1.000000
+      Visibilities:
+        []
+      BlendShapeAnimations:
+        {}
+    - !<FileMesh/dfbbccac-a0a4-4c35-be35-eec42562d4ce>
+      PackagePath: Aqua Terrestrials Pack Resources/Meshes/alien/Meshes/Wrldspace_Alien
+      Info: !<MeshInfo>
+        Triangles: 5766
+        Vertices: 5002
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 57.592056, y: 87.320473, z: 69.763824}
+    - !<ObjectPrefab/0fe705d6-55ed-436f-b4aa-4ea55b397995>
+      PackagePath: Aqua Terrestrials Pack Resources/AquaTerrestrials__PLACE_IN_OBJECTS_PANEL
+      objects:
+        - !<own> 4887540d-acd3-4d09-a6f7-a15760a05d8f
+      LazyLoading: false
+      RetainAssets: true
+    - !<AnimationMixerLayer/eb6c6e95-1f37-41e8-81b5-fd5ddd028319>
+      PackagePath: Layer0
+      Layer: Layer0
+      Name: Layer0
+      Weight: 1.000000
+      SpeedRatio: 0.400000
+      From: 0.000000
+      To: 1.000000
+      Offset: 0.000000
+      FPS: 30.000000
+      NumCycles: -1
+      Reversed: false
+      Disabled: false
+      PostInfinity: Oscillate
+      BlendMode: Additive
+      ScaleMode: Multiply
+      RangeType: TimeInSeconds
+    - !<AnimationMixerLayer/b5be48b7-a888-4815-86b6-7e617fead698>
+      PackagePath: Layer0
+      Layer: Layer0
+      Name: Layer0
+      Weight: 1.000000
+      SpeedRatio: 0.500000
+      From: 0.000000
+      To: 2.000000
+      Offset: 0.000000
+      FPS: 30.000000
+      NumCycles: -1
+      Reversed: false
+      Disabled: false
+      PostInfinity: Oscillate
+      BlendMode: Additive
+      ScaleMode: Multiply
+      RangeType: TimeInSeconds
+    - !<AnimationMixerLayer/71ac7aeb-2f6a-4b02-84a5-e590a99e10d9>
+      PackagePath: Layer0
+      Layer: Layer0
+      Name: Layer0
+      Weight: 1.000000
+      SpeedRatio: 0.500000
+      From: 0.000000
+      To: 1.000000
+      Offset: 0.000000
+      FPS: 30.000000
+      NumCycles: -1
+      Reversed: false
+      Disabled: false
+      PostInfinity: Oscillate
+      BlendMode: Additive
+      ScaleMode: Multiply
+      RangeType: TimeInSeconds
+    - !<AnimationMixerLayer/d80f8ae0-b264-4eab-aa3b-e91b16fd6d84>
+      PackagePath: Layer0
+      Layer: Layer0
+      Name: Layer0
+      Weight: 1.000000
+      SpeedRatio: 0.100000
+      From: 0.000000
+      To: 1.000000
+      Offset: 0.000000
+      FPS: 30.000000
+      NumCycles: -1
+      Reversed: false
+      Disabled: false
+      PostInfinity: Oscillate
+      BlendMode: Additive
+      ScaleMode: Multiply
+      RangeType: TimeInSeconds
+  SourceHash: e923267729635419b3694c476c613e11
+  FileHash: 28c55f314a63b8b52e901f1e9467c378
+  NativePackageItems:
+    []
+- !<Animation/000a3ffb-cfb0-417a-9fe7-77d4c49a10ca>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 703c35d1-6895-480b-ac0a-4eccdd9fb5bd
+- !<RenderMeshVisual/000d1fe5-a444-4272-90d4-1bdb2f7c93fc>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> b2ec0df8-d6aa-4b80-8e67-2dc3517377d0
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/010685e5-8a9c-4d84-8bd8-4fa7fdd80b96>
+  PrefabRemaps:
+    []
+  Name: shape2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -36.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9dbff1ba-ff8e-43e6-a815-921bf32284cb
+    - !<own> c6162628-9103-4cab-a853-19dd21e66213
+    - !<own> 3a4a5a17-741a-461e-aba2-c7c05df72f07
+- !<SceneObject/0129e51b-ba9f-41bd-a921-5e0471620276>
+  PrefabRemaps:
+    []
+  Name: Sweep_28
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 24.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> be5cec86-1b82-4ce7-ba5d-b846dd9157e2
+    - !<own> ae53e785-1d9f-4a74-acb1-f023526137d4
+    - !<own> 84e56dbc-f04f-4fb0-a0c0-cc62aff29532
+- !<VertexCache/0257a972-4b3e-4af8-8bfb-a23583f67543>
+  PrefabRemaps:
+    []
+  Name: component_4
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<VertexCache/032a5468-8080-4dc3-be49-b2637ad54212>
+  PrefabRemaps:
+    []
+  Name: component_13
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/037d20c5-fd6d-45f8-8356-2e3618d8e6b1>
+  PrefabRemaps:
+    []
+  Name: component_47
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 0b1ce4e3-79fc-46b6-b21a-694dc16403ea
+- !<RenderMeshVisual/070d3adc-3ffe-4f0f-ba46-d0467d5b615d>
+  PrefabRemaps:
+    []
+  Name: component_24
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 6888be23-1f2a-45c7-82bf-d1f6d736b0a7
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/0742b832-9352-4a17-857d-4fab1d0797a7>
+  PrefabRemaps:
+    []
+  Name: Anenome
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 5.946924, y: -7.422470, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.692355, y: 0.692355, z: 0.692355}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> d447c643-7b91-4a5f-a70c-97930608df87
+  Components:
+    - !<own> 5a24e17b-6d06-4a81-a8b2-f4d680c8fd0c
+- !<RenderMeshVisual/07f5b0da-f25f-4e60-9c3f-a9d56a404900>
+  PrefabRemaps:
+    []
+  Name: component_72
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 2ae2749b-a9e0-439c-a245-90d293a83c53
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/0a444957-fd97-4fb5-ac85-7648c8575f56>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> f1bf378b-8484-4cfb-92be-847d8617a39e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<Animation/12b970c0-8548-4f06-ac22-ce34a7e9356e>
+  PrefabRemaps:
+    []
+  Name: component_68
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> a4bd2198-c362-4470-a3a3-c86e2219eba1
+- !<RenderMeshVisual/1458806a-cd6d-4527-a35a-ec4f30818225>
+  PrefabRemaps:
+    []
+  Name: component_75
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> d69e796a-1300-4a47-a28e-575c8832b043
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/151cd955-0388-43de-af3f-99b11eb76909>
+  PrefabRemaps:
+    []
+  Name: component_15
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 4a16677e-8b9d-4062-b5ae-a88e79dd5033
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/160296e3-ae61-4d70-8b6d-a4699ef975ee>
+  PrefabRemaps:
+    []
+  Name: component_78
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 0d9b91de-3640-46e2-b67f-720704e7e2ca
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<Animation/16a61147-7743-41e6-bf25-8835b8853b74>
+  PrefabRemaps:
+    []
+  Name: component_26
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 39b79731-276c-4fa9-96ee-047e4b0a3d6b
+- !<RenderMeshVisual/1836c4ed-ca5b-4a0c-8842-2c7980355dd0>
+  PrefabRemaps:
+    []
+  Name: component_69
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 9ab669fd-3794-4459-a587-87df31a914d2
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<VertexCache/189e2863-6fc5-43d0-84ff-032a67d7d209>
+  PrefabRemaps:
+    []
+  Name: component_58
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/18b6e51f-b2ee-403f-9542-ae5d2358ee3f>
+  PrefabRemaps:
+    []
+  Name: component_83
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 03827957-6352-4a76-bcab-6152e4267d57
+- !<SceneObject/1d03e86a-b889-43c0-877a-24a060fb58eb>
+  PrefabRemaps:
+    []
+  Name: Sweep_29
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 12.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 8fd082eb-aa3a-4c53-856f-8b4cfabcd8eb
+    - !<own> 312dee72-0ec9-457f-ae0e-f04e3bafcb44
+    - !<own> f140e99e-4ccc-42dd-b294-7f02a39d942c
+- !<SceneObject/1f955c62-c73b-4f9c-b97c-63141254fa79>
+  PrefabRemaps:
+    []
+  Name: shape4
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: -72.000000, z: -180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c793fbb0-4f38-4ed5-be99-dc9bdf24984b
+    - !<own> a12aed46-94d5-4893-b9ed-4d03f3889408
+    - !<own> 722635ff-9a59-45e8-9585-6e82ed751865
+- !<Animation/2120d103-1d64-4ca5-bde3-abe1afdf68c2>
+  PrefabRemaps:
+    []
+  Name: component_8
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 68d96889-4ab3-4901-8c2d-cf49bbef22a6
+- !<RenderMeshVisual/25847920-eb6c-41cf-ab35-3d9c921c98ca>
+  PrefabRemaps:
+    []
+  Name: component_18
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 824157cd-39fc-4509-a705-97fa96774860
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/26b7f1ca-ee2a-408a-874f-251fa979d31b>
+  PrefabRemaps:
+    []
+  Name: component_33
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> c4bcf554-8f4f-46a0-a181-dbd97ee75f2d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<VertexCache/2979493a-707f-4d2a-b4f9-02facf4beec6>
+  PrefabRemaps:
+    []
+  Name: component_25
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<RenderMeshVisual/2a006674-4e15-40d7-a9fb-f5760e485225>
+  PrefabRemaps:
+    []
+  Name: component_27
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 011736d6-ef22-4b22-b35c-3652688fb09d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/2d44485d-6277-4eba-8a17-8d8ddf5181f4>
+  PrefabRemaps:
+    []
+  Name: wrldspace_urchin
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f58d10a5-1b47-4cc0-a1af-324f1bd4c1ba
+    - !<own> b9e3cbef-8439-475a-a4b2-f539b286484b
+    - !<own> d239cea5-1662-4d52-af86-58172a3ea13a
+- !<SceneObject/301739ee-dcd2-4ab8-ab13-940487cc7ed8>
+  PrefabRemaps:
+    []
+  Name: Sweep_15
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: -0.000000, z: -180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e196f30b-4a64-4432-a396-98cce4b27aa5
+    - !<own> 9b51eff0-4685-4f54-9b2a-e2a11faacac4
+    - !<own> 037d20c5-fd6d-45f8-8356-2e3618d8e6b1
+- !<VertexCache/312dee72-0ec9-457f-ae0e-f04e3bafcb44>
+  PrefabRemaps:
+    []
+  Name: component_88
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<RenderMeshVisual/34a538fa-11b0-4e2f-8717-c9dde89978e8>
+  PrefabRemaps:
+    []
+  Name: component_54
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> bafa5fee-de2d-49ca-8ede-7a31fdaac17a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<Animation/39573cec-2bed-49cc-b600-a9348501c533>
+  PrefabRemaps:
+    []
+  Name: component_26
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> c588f235-e6fe-4d88-91cf-95cc383c2182
+- !<SceneObject/3959f817-6988-4605-967b-41c04a904cf9>
+  PrefabRemaps:
+    []
+  Name: shape5
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: -36.000000, z: -180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ffff5107-3bce-439a-b223-b63a64c2ae44
+    - !<own> 032a5468-8080-4dc3-be49-b2637ad54212
+    - !<own> c88bffce-d82f-4f67-8846-e4dcd23f99c9
+- !<Animation/3a4a5a17-741a-461e-aba2-c7c05df72f07>
+  PrefabRemaps:
+    []
+  Name: component_5
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> f0b57cff-9f6e-43ca-91d6-ad6e034d9790
+- !<RenderMeshVisual/3a73004e-98be-49ad-adcc-a8a8ebfbaf04>
+  PrefabRemaps:
+    []
+  Name: component_30
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> cbac1e98-b2b3-4f7f-adea-d146b44016c3
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/3bc6700a-a2d2-45e0-bc1b-b7bd4c7f1a3c>
+  PrefabRemaps:
+    []
+  Name: Sweep_6
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -72.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 25847920-eb6c-41cf-ab35-3d9c921c98ca
+    - !<own> 61e8c634-39e1-49c0-92ab-4a8f7c72bcef
+    - !<own> 73ba884c-9680-4d1b-8198-a60da44ec4a0
+- !<VertexCache/3c09ccb1-3df3-4668-a361-b6736591f9b9>
+  PrefabRemaps:
+    []
+  Name: component_82
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<SceneObject/3c823ae2-2828-4a15-9c66-b14a221d022b>
+  PrefabRemaps:
+    []
+  Name: Sweep_19
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: 48.000000, z: 180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9d7e131d-93ae-4160-b4d3-18b5c63eb2b7
+    - !<own> 189e2863-6fc5-43d0-84ff-032a67d7d209
+    - !<own> 468b8e02-247c-4877-b93e-ae9998c7dc4b
+- !<SceneObject/3f87c635-a113-4804-a9bb-d300c626d5d4>
+  PrefabRemaps:
+    []
+  Name: Sweep_4
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -48.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e8ea5966-e264-4d7d-a719-1ebdbefa67de
+    - !<own> d0e50a35-aa87-4912-991c-ed32dbcf1994
+    - !<own> 9bc6388f-d796-4565-8453-dc4184ec9a09
+- !<SceneObject/4225e478-0e32-479e-83a2-baa7785f9cb0>
+  PrefabRemaps:
+    []
+  Name: Jelly
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 11.261814, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.047221, y: 0.047221, z: 0.047221}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6abd8ec7-a686-4b16-a4e3-00c1d0dc5701
+  Components:
+    - !<own> 8f648cc3-dfb3-4bcc-950c-b3a84b92bde0
+- !<SceneObject/45562010-ae9d-415f-b20a-cb33fa5599be>
+  PrefabRemaps:
+    []
+  Name: Sweep_1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -12.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ee47c69f-ca5a-4597-b642-a860dcc191ce
+    - !<own> 0257a972-4b3e-4af8-8bfb-a23583f67543
+    - !<own> 5a5b25aa-98a6-48bd-aebe-0542d353d26c
+- !<VertexCache/459c6eb5-0bae-4478-af50-dadb526f6997>
+  PrefabRemaps:
+    []
+  Name: component_76
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/468b8e02-247c-4877-b93e-ae9998c7dc4b>
+  PrefabRemaps:
+    []
+  Name: component_59
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> eb89e401-cae4-4817-b46d-324df21982c2
+- !<RenderMeshVisual/47be5a9c-c1b3-4abb-bba1-38e89369ca7a>
+  PrefabRemaps:
+    []
+  Name: component_18
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> d32d21f4-e545-4ef7-888c-40a7210531db
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/4887540d-acd3-4d09-a6f7-a15760a05d8f>
+  PrefabRemaps:
+    []
+  Name: Extraterrestrial__PLACE_IN_OBJECTS_PANEL
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 60749a3e-e25f-49ae-b42f-4b087aaa5f01
+    - !<own> 4225e478-0e32-479e-83a2-baa7785f9cb0
+    - !<own> 69ffbd04-5e86-4fa9-a8a9-8a7c97bbe8e4
+    - !<own> abf65ccc-6a5a-4315-927d-c22dc98f10da
+    - !<own> 0742b832-9352-4a17-857d-4fab1d0797a7
+  Components:
+    []
+- !<Animation/4930d3ee-af7a-4d3a-863e-2212f97ce57d>
+  PrefabRemaps:
+    []
+  Name: component_77
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 779e6538-2d89-4f4d-b01b-918f78461b60
+- !<VertexCache/4dc96fad-35f3-4672-b5c7-224f23e9c889>
+  PrefabRemaps:
+    []
+  Name: component_19
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<RenderMeshVisual/4f957973-0434-4c8d-927c-01bb9c9bc6fb>
+  PrefabRemaps:
+    []
+  Name: component_51
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> cf23c891-bc42-498b-92ff-6deb27fd1644
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<VertexCache/4fa3bcaa-74a8-42e5-b5a4-0781f39a6a46>
+  PrefabRemaps:
+    []
+  Name: component_52
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/50f79954-8f74-413b-b969-002888bd636a>
+  PrefabRemaps:
+    []
+  Name: component_8
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> ec0f1df8-3c5a-4bfc-b4ad-a1a2ed766291
+- !<Animation/51cc9338-dd80-43e2-9295-f82bb0a1a637>
+  PrefabRemaps:
+    []
+  Name: component_44
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 675aadb8-29ce-4f6e-b73d-148b43db8da2
+- !<SceneObject/520ed79c-1db0-409e-86fa-3fb08bd945e2>
+  PrefabRemaps:
+    []
+  Name: Wrldspace_Alien
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> bdb067e4-da4c-4582-8409-822180021316
+- !<SceneObject/5342605f-8e77-4f86-ae24-f7773a7192e9>
+  PrefabRemaps:
+    []
+  Name: Sweep_16
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: 12.000000, z: 180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> fa987ff2-9e91-45df-b06d-76fb761bedfb
+    - !<own> 706a3234-c395-414f-9b07-cbd51dc0e58e
+    - !<own> f004615a-afd5-47a6-9d0e-d4f7fb45b2c3
+- !<RenderMeshVisual/535ff2bb-8d88-459b-ab0b-12448b57523c>
+  PrefabRemaps:
+    []
+  Name: component_27
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 67876699-6277-4188-84ce-2dc1c5e39e9d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<VertexCache/55aa628f-aff9-43ad-a718-c0fc367faa35>
+  PrefabRemaps:
+    []
+  Name: component_25
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<VertexCache/55fdbd91-ffa0-443f-a646-969e4381ff77>
+  PrefabRemaps:
+    []
+  Name: component_22
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<VertexCache/57bfff1e-fc89-40c8-ae1e-4071c5382470>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<VertexCache/583b3335-af74-41ba-a2fc-50b6d646f920>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<VertexCache/59b5e684-e4cc-42e5-9c47-cef9047a2300>
+  PrefabRemaps:
+    []
+  Name: component_67
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<AnimationMixer/5a24e17b-6d06-4a81-a8b2-f4d680c8fd0c>
+  PrefabRemaps:
+    []
+  Name: component_90
+  Enabled: true
+  Layers:
+    - !<reference> d80f8ae0-b264-4eab-aa3b-e91b16fd6d84
+  Autoplay: true
+  Version: FBX
+- !<Animation/5a5b25aa-98a6-48bd-aebe-0542d353d26c>
+  PrefabRemaps:
+    []
+  Name: component_5
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 3eba21cb-bd1c-4d62-a9a6-8c5ebf118d1b
+- !<RenderMeshVisual/5bf3b43d-beb2-4bea-bdbe-2135c0596ab3>
+  PrefabRemaps:
+    []
+  Name: component_6
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 1281f0e8-34fd-4c61-bd68-091333b96bad
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/5c3e4583-337b-49cc-aec7-22dd522a04d4>
+  PrefabRemaps:
+    []
+  Name: shape9
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 72.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 070d3adc-3ffe-4f0f-ba46-d0467d5b615d
+    - !<own> 55aa628f-aff9-43ad-a718-c0fc367faa35
+    - !<own> 16a61147-7743-41e6-bf25-8835b8853b74
+- !<VertexCache/603ca56b-2cc2-4402-b2ef-e608f8231635>
+  PrefabRemaps:
+    []
+  Name: component_55
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<SceneObject/60749a3e-e25f-49ae-b42f-4b087aaa5f01>
+  PrefabRemaps:
+    []
+  Name: Urchin
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -13.000000, y: 7.996689, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.031476, y: 0.031476, z: 0.031476}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2d44485d-6277-4eba-8a17-8d8ddf5181f4
+  Components:
+    - !<own> 98a8b7b6-002c-4807-aaf0-07e8b1895b30
+- !<VertexCache/61e8c634-39e1-49c0-92ab-4a8f7c72bcef>
+  PrefabRemaps:
+    []
+  Name: component_19
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/61eed56a-f8a0-42cd-a565-86299466da98>
+  PrefabRemaps:
+    []
+  Name: component_23
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> dde4c5bf-44b4-472b-a1d2-1770a241a5b4
+- !<VertexCache/62131161-c504-461d-8741-b7cf4f4c4293>
+  PrefabRemaps:
+    []
+  Name: component_73
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/68f43998-cb8e-4197-af57-1002a89e60b1>
+  PrefabRemaps:
+    []
+  Name: component_23
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 2e181ee4-c885-43cd-ae75-cebd9558aa05
+- !<SceneObject/69ffbd04-5e86-4fa9-a8a9-8a7c97bbe8e4>
+  PrefabRemaps:
+    []
+  Name: Alien
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 10.310801, y: 1.040001, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.132616, y: 0.132616, z: 0.132616}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 520ed79c-1db0-409e-86fa-3fb08bd945e2
+  Components:
+    []
+- !<SceneObject/6abd8ec7-a686-4b16-a4e3-00c1d0dc5701>
+  PrefabRemaps:
+    []
+  Name: wrldspace_jelly
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e39ca9bb-578e-450d-af8a-ae19da2bce2a
+    - !<own> 010685e5-8a9c-4d84-8bd8-4fa7fdd80b96
+    - !<own> 7fee6c6d-3253-43dc-88b1-694da541c9ab
+    - !<own> 1f955c62-c73b-4f9c-b97c-63141254fa79
+    - !<own> 3959f817-6988-4605-967b-41c04a904cf9
+    - !<own> 76ef1c3d-8cb7-4f0d-a481-5041870374ae
+    - !<own> fa7b0522-0264-499b-b1f2-279db440841d
+    - !<own> ca277485-393c-44f4-ad52-b020cd58d96d
+    - !<own> 5c3e4583-337b-49cc-aec7-22dd522a04d4
+    - !<own> fcdf229b-20f0-4531-8474-4fadafe50ec1
+  Components:
+    []
+- !<SceneObject/6b2173c3-fe88-4f5f-aa9b-679860b4e34d>
+  PrefabRemaps:
+    []
+  Name: Sweep_13
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: -24.000000, z: -180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> db8aa900-68a8-4232-a290-f697bbc78266
+    - !<own> 7c01a8b3-1b6e-4110-9bb4-111e7102ff1f
+    - !<own> aa907743-ef69-433b-8b4d-10a75c2b7ec1
+- !<RenderMeshVisual/6ce978e1-e253-4cde-bc8a-9a5de8e16f75>
+  PrefabRemaps:
+    []
+  Name: component_9
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 3beda023-657c-4374-9521-bb4a410b504c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<VertexCache/6cfea5c9-2493-49ce-9531-c1834e3ca2ed>
+  PrefabRemaps:
+    []
+  Name: component_28
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<SceneObject/705813ad-7448-4a6f-8a8e-9eb9493c2be3>
+  PrefabRemaps:
+    []
+  Name: Sweep_3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -36.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6ce978e1-e253-4cde-bc8a-9a5de8e16f75
+    - !<own> bcdcd776-b11b-476b-ac79-6a6e02397627
+    - !<own> 838d701c-1010-4cc2-bbd2-95dbf22549ff
+- !<VertexCache/706a3234-c395-414f-9b07-cbd51dc0e58e>
+  PrefabRemaps:
+    []
+  Name: component_49
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<VertexCache/709d04fe-8581-4ee6-a53f-6a6a8dd2b7ae>
+  PrefabRemaps:
+    []
+  Name: component_7
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/722635ff-9a59-45e8-9585-6e82ed751865>
+  PrefabRemaps:
+    []
+  Name: component_11
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 811a8c6e-c51c-4b8e-95d9-440a9ca23a8e
+- !<SceneObject/72471c83-c6b9-48e8-948b-8a8f4a85522b>
+  PrefabRemaps:
+    []
+  Name: Sweep_20
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: 60.000000, z: 180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e7a5f67f-a380-4e72-80a1-e2ff05136fe7
+    - !<own> 807d0660-d675-4f0a-b57b-45b85de73cdb
+    - !<own> b5d5a554-851d-4979-96d2-94183cf1ec63
+- !<Animation/727986fe-f3fb-4dcc-9b4c-cf6cde258a54>
+  PrefabRemaps:
+    []
+  Name: component_65
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> d6811430-d019-4fd0-be13-0d5d5f4898dc
+- !<VertexCache/73768d08-3cef-4043-bb0d-c4633cf7ffd6>
+  PrefabRemaps:
+    []
+  Name: component_31
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/73ba884c-9680-4d1b-8198-a60da44ec4a0>
+  PrefabRemaps:
+    []
+  Name: component_20
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 1ca77286-f6b6-4348-a609-a81838ac1476
+- !<SceneObject/76ef1c3d-8cb7-4f0d-a481-5041870374ae>
+  PrefabRemaps:
+    []
+  Name: shape6
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: -0.000000, z: -180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 151cd955-0388-43de-af3f-99b11eb76909
+    - !<own> f5e8aeec-6da8-472f-8d33-917e0f0fbf29
+    - !<own> dd1a567a-701e-4594-84aa-cf08ed1f659d
+- !<Animation/787d2f50-eac0-407e-a735-b1e68cf8c364>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> ca928d97-dc12-457b-812c-2e930011a906
+- !<SceneObject/78ff1280-3892-4be1-a63d-44b7abb7a1e2>
+  PrefabRemaps:
+    []
+  Name: wrldspace_donut
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e10f7aa4-edbc-4796-a9f3-861dc0f05093
+    - !<own> ec719cfb-d462-4b6b-a486-1598f1ce3a67
+    - !<own> bf4dae4a-4d82-4354-b977-23f1f6f15721
+- !<VertexCache/7b3cc2ac-745f-4f09-8279-c583c253950f>
+  PrefabRemaps:
+    []
+  Name: component_37
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/7b7cbf11-918f-4c4a-ab1a-50d1e15af409>
+  PrefabRemaps:
+    []
+  Name: component_29
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 4ec5c713-0e50-423d-a5c0-b03b4fefecc5
+- !<VertexCache/7c01a8b3-1b6e-4110-9bb4-111e7102ff1f>
+  PrefabRemaps:
+    []
+  Name: component_40
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<VertexCache/7c97f4b9-4558-4a43-ad01-8c76f4ef8e79>
+  PrefabRemaps:
+    []
+  Name: component_34
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<SceneObject/7fee6c6d-3253-43dc-88b1-694da541c9ab>
+  PrefabRemaps:
+    []
+  Name: shape3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -72.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5bf3b43d-beb2-4bea-bdbe-2135c0596ab3
+    - !<own> 709d04fe-8581-4ee6-a53f-6a6a8dd2b7ae
+    - !<own> 2120d103-1d64-4ca5-bde3-abe1afdf68c2
+- !<VertexCache/807d0660-d675-4f0a-b57b-45b85de73cdb>
+  PrefabRemaps:
+    []
+  Name: component_61
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<SceneObject/827a9d15-48c5-4b37-90a5-43b6fcdf9c18>
+  PrefabRemaps:
+    []
+  Name: Sweep_17
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: 24.000000, z: 180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4f957973-0434-4c8d-927c-01bb9c9bc6fb
+    - !<own> 4fa3bcaa-74a8-42e5-b5a4-0781f39a6a46
+    - !<own> d45b9e59-4a65-48b3-9e37-c716d659f1b3
+- !<Animation/838d701c-1010-4cc2-bbd2-95dbf22549ff>
+  PrefabRemaps:
+    []
+  Name: component_11
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 37aa0af0-913d-4d58-9428-2054c90ac39a
+- !<Animation/84e56dbc-f04f-4fb0-a0c0-cc62aff29532>
+  PrefabRemaps:
+    []
+  Name: component_86
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> be285eea-26ec-4076-83d4-49b8ae30511a
+- !<RenderMeshVisual/8a6b6629-4857-4a2f-8a59-57c6f1bae583>
+  PrefabRemaps:
+    []
+  Name: component_81
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 3594e033-95b4-4a6d-95d5-802ef4d83be8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/8b327597-4513-46fa-acf0-955d503767cc>
+  PrefabRemaps:
+    []
+  Name: Sweep_9
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: -72.000000, z: -180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 535ff2bb-8d88-459b-ab0b-12448b57523c
+    - !<own> b1554228-6ae1-437d-ba7f-8f596864a2f8
+    - !<own> 7b7cbf11-918f-4c4a-ab1a-50d1e15af409
+- !<AnimationMixer/8f648cc3-dfb3-4bcc-950c-b3a84b92bde0>
+  PrefabRemaps:
+    []
+  Name: component_30
+  Enabled: true
+  Layers:
+    - !<reference> b5be48b7-a888-4815-86b6-7e617fead698
+  Autoplay: true
+  Version: FBX
+- !<RenderMeshVisual/8fd082eb-aa3a-4c53-856f-8b4cfabcd8eb>
+  PrefabRemaps:
+    []
+  Name: component_87
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> d9ead979-4ddd-4403-bcec-3fba29c727a4
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/93737d0b-ed4b-4301-9390-49aab69cd484>
+  PrefabRemaps:
+    []
+  Name: Sweep_11
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 180.000000, y: -48.000000, z: -180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 26b7f1ca-ee2a-408a-874f-251fa979d31b
+    - !<own> 7c97f4b9-4558-4a43-ad01-8c76f4ef8e79
+    - !<own> ca235d2b-a9d9-4cb3-90e6-2371b64ffb94
+- !<Animation/953d1e7a-9add-4697-b0d8-912a99e96235>
+  PrefabRemaps:
+    []
+  Name: component_17
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 77cdfe8d-6ae2-45be-b868-ca6f542b3fa4
+- !<VertexCache/95b60488-0998-4b3a-a6cc-2c0eff81d6bd>
+  PrefabRemaps:
+    []
+  Name: component_16
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<AnimationMixer/98a8b7b6-002c-4807-aaf0-07e8b1895b30>
+  PrefabRemaps:
+    []
+  Name: component_3
+  Enabled: true
+  Layers:
+    - !<reference> eb6c6e95-1f37-41e8-81b5-fd5ddd028319
+  Autoplay: true
+  Version: FBX
+- !<Animation/9ad299f6-ffc3-46e9-bfcc-0a3aaf86fbbc>
+  PrefabRemaps:
+    []
+  Name: component_32
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 0d3ae891-2372-4720-b8f1-a8a2142fc6b8
+- !<VertexCache/9b51eff0-4685-4f54-9b2a-e2a11faacac4>
+  PrefabRemaps:
+    []
+  Name: component_46
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/9bc6388f-d796-4565-8453-dc4184ec9a09>
+  PrefabRemaps:
+    []
+  Name: component_14
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 862f4156-a52c-47f0-895a-f79575c0f0f2
+- !<Animation/9caeaf50-f677-44cc-9fdc-a3abc382f770>
+  PrefabRemaps:
+    []
+  Name: component_74
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> d33a43ea-00f5-4255-aad2-2205a46dfb6b
+- !<RenderMeshVisual/9d7e131d-93ae-4160-b4d3-18b5c63eb2b7>
+  PrefabRemaps:
+    []
+  Name: component_57
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> abfab012-a6c8-41d3-a815-3449a2d5b246
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/9dbff1ba-ff8e-43e6-a815-921bf32284cb>
+  PrefabRemaps:
+    []
+  Name: component_3
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 066c9741-6328-466a-b783-15b587436d73
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<VertexCache/a12aed46-94d5-4893-b9ed-4d03f3889408>
+  PrefabRemaps:
+    []
+  Name: component_10
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<SceneObject/a1afeb23-a4aa-4f93-9b77-b8b819fd6f61>
+  PrefabRemaps:
+    []
+  Name: Sweep_27
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 36.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 8a6b6629-4857-4a2f-8a59-57c6f1bae583
+    - !<own> 3c09ccb1-3df3-4668-a361-b6736591f9b9
+    - !<own> 18b6e51f-b2ee-403f-9542-ae5d2358ee3f
+- !<Animation/a5e0fed8-c2dc-498c-8fad-22f7d0a59832>
+  PrefabRemaps:
+    []
+  Name: component_71
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 84531589-c828-4dcf-860a-d0852083a945
+- !<VertexCache/a72e25a5-e56a-4635-b96c-6e306cf84dcc>
+  PrefabRemaps:
+    []
+  Name: component_7
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/aa907743-ef69-433b-8b4d-10a75c2b7ec1>
+  PrefabRemaps:
+    []
+  Name: component_41
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> e19957ad-ed50-4daf-8d58-6651c3e9a64f
+- !<SceneObject/abf65ccc-6a5a-4315-927d-c22dc98f10da>
+  PrefabRemaps:
+    []
+  Name: Donut
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -9.125921, y: -4.668182, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.032686, y: 0.032686, z: 0.032686}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 78ff1280-3892-4be1-a63d-44b7abb7a1e2
+  Components:
+    - !<own> ba081f6c-abd5-4c19-9d7d-60fb7627acfe
+- !<VertexCache/ae53e785-1d9f-4a74-acb1-f023526137d4>
+  PrefabRemaps:
+    []
+  Name: component_85
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<VertexCache/b1554228-6ae1-437d-ba7f-8f596864a2f8>
+  PrefabRemaps:
+    []
+  Name: component_28
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/b5d5a554-851d-4979-96d2-94183cf1ec63>
+  PrefabRemaps:
+    []
+  Name: component_62
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> ae2d84cc-77db-4a8b-8681-d0114f8d9a3f
+- !<VertexCache/b9e3cbef-8439-475a-a4b2-f539b286484b>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<AnimationMixer/ba081f6c-abd5-4c19-9d7d-60fb7627acfe>
+  PrefabRemaps:
+    []
+  Name: component_3
+  Enabled: true
+  Layers:
+    - !<reference> 71ac7aeb-2f6a-4b02-84a5-e590a99e10d9
+  Autoplay: true
+  Version: FBX
+- !<VertexCache/bcdcd776-b11b-476b-ac79-6a6e02397627>
+  PrefabRemaps:
+    []
+  Name: component_10
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<RenderMeshVisual/bdb067e4-da4c-4582-8409-822180021316>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> dfbbccac-a0a4-4c35-be35-eec42562d4ce
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/be5cec86-1b82-4ce7-ba5d-b846dd9157e2>
+  PrefabRemaps:
+    []
+  Name: component_84
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 482e675e-0c45-4927-8ddc-d4ca39ebf698
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<VertexCache/bef3cef5-eb96-49ec-8b49-601dee77744e>
+  PrefabRemaps:
+    []
+  Name: component_43
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<RenderMeshVisual/bf33c7e3-7134-4d24-8e69-0de268f879c4>
+  PrefabRemaps:
+    []
+  Name: component_24
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 27218fa5-c27d-4e54-88ff-a07987a0cbae
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<Animation/bf4dae4a-4d82-4354-b977-23f1f6f15721>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> ce7b6c42-c133-4557-8025-41162cf53974
+- !<RenderMeshVisual/c085514b-ac62-4fa7-a9bb-a8d3d9f614e8>
+  PrefabRemaps:
+    []
+  Name: component_6
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 25098de8-b5cc-46e3-8560-3210d93897a6
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/c142435d-b72f-4512-91c7-825222700339>
+  PrefabRemaps:
+    []
+  Name: component_42
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> b2c23e6f-64ba-4491-8540-c1c495b05104
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/c1951332-d2fc-4103-938a-0910af0adcc6>
+  PrefabRemaps:
+    []
+  Name: component_63
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> f4d5ede9-d4c5-4f17-b847-bee1136b736e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/c317919b-4d20-430b-848a-4016e6e6ebac>
+  PrefabRemaps:
+    []
+  Name: Sweep_22
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: 84.000015, z: 180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d5e8ec7d-abd9-4d2c-872a-df818dc7ab2d
+    - !<own> 59b5e684-e4cc-42e5-9c47-cef9047a2300
+    - !<own> 12b970c0-8548-4f06-ac22-ce34a7e9356e
+- !<RenderMeshVisual/c4c11141-58c6-4103-aa1d-e0dc33dc3c5f>
+  PrefabRemaps:
+    []
+  Name: component_15
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 296970a2-44cc-4ded-8e9a-10f22462d211
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/c5eabeb5-ef83-4948-b14a-533981891073>
+  PrefabRemaps:
+    []
+  Name: Sweep_8
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: -84.000015, z: -180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> bf33c7e3-7134-4d24-8e69-0de268f879c4
+    - !<own> 2979493a-707f-4d2a-b4f9-02facf4beec6
+    - !<own> 39573cec-2bed-49cc-b600-a9348501c533
+- !<VertexCache/c6162628-9103-4cab-a853-19dd21e66213>
+  PrefabRemaps:
+    []
+  Name: component_4
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<VertexCache/c62ef92c-3f14-43bc-8ee5-cc8a65d05d63>
+  PrefabRemaps:
+    []
+  Name: component_70
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<SceneObject/c67bef00-6169-4671-8432-fdf7d735844e>
+  PrefabRemaps:
+    []
+  Name: Sweep_10
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: -60.000000, z: -180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3a73004e-98be-49ad-adcc-a8a8ebfbaf04
+    - !<own> 73768d08-3cef-4043-bb0d-c4633cf7ffd6
+    - !<own> 9ad299f6-ffc3-46e9-bfcc-0a3aaf86fbbc
+- !<RenderMeshVisual/c793fbb0-4f38-4ed5-be99-dc9bdf24984b>
+  PrefabRemaps:
+    []
+  Name: component_9
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> e91bd5b9-bffb-4abb-b695-fc0f10bd2141
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<Animation/c88bffce-d82f-4f67-8846-e4dcd23f99c9>
+  PrefabRemaps:
+    []
+  Name: component_14
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> e4052d9a-3f00-4b4d-9f79-82df9965c252
+- !<RenderMeshVisual/c8a4febb-fe7c-4acf-96ef-82d8136ae0c7>
+  PrefabRemaps:
+    []
+  Name: component_21
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 77bf82b5-29b0-47a2-9dca-cc25ba9aa29a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/c8a99da8-646c-4baf-9058-a9b672cdc7a6>
+  PrefabRemaps:
+    []
+  Name: Sweep_18
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: 36.000000, z: 180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 34a538fa-11b0-4e2f-8717-c9dde89978e8
+    - !<own> 603ca56b-2cc2-4402-b2ef-e608f8231635
+    - !<own> dbf19291-7d66-4cdc-9492-66f2408a8fac
+- !<Animation/ca235d2b-a9d9-4cb3-90e6-2371b64ffb94>
+  PrefabRemaps:
+    []
+  Name: component_35
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> a5ea1468-1e1b-4df6-8b16-6166964dd89f
+- !<SceneObject/ca277485-393c-44f4-ad52-b020cd58d96d>
+  PrefabRemaps:
+    []
+  Name: shape8
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: 72.000000, z: 180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> cc9d20bd-464b-4a46-8ed4-f958e88fc1a5
+    - !<own> d1b0f296-2020-4629-a57f-a6618586cec9
+    - !<own> 61eed56a-f8a0-42cd-a565-86299466da98
+- !<SceneObject/cb7c8c24-c336-428a-a389-fdb94f87897c>
+  PrefabRemaps:
+    []
+  Name: Sweep_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 0a444957-fd97-4fb5-ac85-7648c8575f56
+    - !<own> 583b3335-af74-41ba-a2fc-50b6d646f920
+    - !<own> 787d2f50-eac0-407e-a735-b1e68cf8c364
+- !<RenderMeshVisual/cc9d20bd-464b-4a46-8ed4-f958e88fc1a5>
+  PrefabRemaps:
+    []
+  Name: component_21
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 743d5432-99d6-4de7-82ff-714cea054f47
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/ccdaaa11-3076-4eda-856f-c69e0462ad29>
+  PrefabRemaps:
+    []
+  Name: Sweep_5
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -60.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c4c11141-58c6-4103-aa1d-e0dc33dc3c5f
+    - !<own> 95b60488-0998-4b3a-a6cc-2c0eff81d6bd
+    - !<own> 953d1e7a-9add-4697-b0d8-912a99e96235
+- !<VertexCache/d0e50a35-aa87-4912-991c-ed32dbcf1994>
+  PrefabRemaps:
+    []
+  Name: component_13
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<VertexCache/d1b0f296-2020-4629-a57f-a6618586cec9>
+  PrefabRemaps:
+    []
+  Name: component_22
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/d239cea5-1662-4d52-af86-58172a3ea13a>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> a03d246e-f97b-4501-bcf6-a50858168a71
+- !<Animation/d2bed864-126e-4df3-adce-b5e7d4ea9a42>
+  PrefabRemaps:
+    []
+  Name: component_80
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 48587638-f677-4da0-851b-257340bb0cff
+- !<SceneObject/d350ea6c-dc23-4a71-ba96-1483858459a1>
+  PrefabRemaps:
+    []
+  Name: Sweep_23
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 84.000015, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1836c4ed-ca5b-4a0c-8842-2c7980355dd0
+    - !<own> c62ef92c-3f14-43bc-8ee5-cc8a65d05d63
+    - !<own> a5e0fed8-c2dc-498c-8fad-22f7d0a59832
+- !<SceneObject/d447c643-7b91-4a5f-a70c-97930608df87>
+  PrefabRemaps:
+    []
+  Name: anenome
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.057255, y: 0.057255, z: 0.057255}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> cb7c8c24-c336-428a-a389-fdb94f87897c
+    - !<own> 45562010-ae9d-415f-b20a-cb33fa5599be
+    - !<own> dc4dc0e2-4b67-4912-9947-14bcccd25c46
+    - !<own> 705813ad-7448-4a6f-8a8e-9eb9493c2be3
+    - !<own> 3f87c635-a113-4804-a9bb-d300c626d5d4
+    - !<own> ccdaaa11-3076-4eda-856f-c69e0462ad29
+    - !<own> 3bc6700a-a2d2-45e0-bc1b-b7bd4c7f1a3c
+    - !<own> e6b7aac4-2588-4d0f-ba4a-a8696cf99938
+    - !<own> c5eabeb5-ef83-4948-b14a-533981891073
+    - !<own> 8b327597-4513-46fa-acf0-955d503767cc
+    - !<own> c67bef00-6169-4671-8432-fdf7d735844e
+    - !<own> 93737d0b-ed4b-4301-9390-49aab69cd484
+    - !<own> e1359ca2-64e9-42b0-b820-85a653e25615
+    - !<own> 6b2173c3-fe88-4f5f-aa9b-679860b4e34d
+    - !<own> e86ec7e7-debb-485b-8b47-71279356977d
+    - !<own> 301739ee-dcd2-4ab8-ab13-940487cc7ed8
+    - !<own> 5342605f-8e77-4f86-ae24-f7773a7192e9
+    - !<own> 827a9d15-48c5-4b37-90a5-43b6fcdf9c18
+    - !<own> c8a99da8-646c-4baf-9058-a9b672cdc7a6
+    - !<own> 3c823ae2-2828-4a15-9c66-b14a221d022b
+    - !<own> 72471c83-c6b9-48e8-948b-8a8f4a85522b
+    - !<own> edde132a-b53f-4418-b68d-a9611e228f79
+    - !<own> c317919b-4d20-430b-848a-4016e6e6ebac
+    - !<own> d350ea6c-dc23-4a71-ba96-1483858459a1
+    - !<own> f08c6f6c-adea-423e-9b09-13aad02a36db
+    - !<own> f3a03ba0-7488-49df-b011-3d3f9d5ef5a4
+    - !<own> e3e67967-f1bd-437d-9e77-cd2591914a18
+    - !<own> a1afeb23-a4aa-4f93-9b77-b8b819fd6f61
+    - !<own> 0129e51b-ba9f-41bd-a921-5e0471620276
+    - !<own> 1d03e86a-b889-43c0-877a-24a060fb58eb
+  Components:
+    []
+- !<Animation/d45b9e59-4a65-48b3-9e37-c716d659f1b3>
+  PrefabRemaps:
+    []
+  Name: component_53
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> b9321379-7707-4677-a5df-49975dc88159
+- !<RenderMeshVisual/d5e8ec7d-abd9-4d2c-872a-df818dc7ab2d>
+  PrefabRemaps:
+    []
+  Name: component_66
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> e053428a-e966-4844-81d1-5d6f9b8378fb
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/db8aa900-68a8-4232-a290-f697bbc78266>
+  PrefabRemaps:
+    []
+  Name: component_39
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> f78a0e53-052e-4448-9a2d-98b7e2d5a7e8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<Animation/dbf19291-7d66-4cdc-9492-66f2408a8fac>
+  PrefabRemaps:
+    []
+  Name: component_56
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 7232328e-3ae6-4f33-b1a5-67333aa60322
+- !<SceneObject/dc4dc0e2-4b67-4912-9947-14bcccd25c46>
+  PrefabRemaps:
+    []
+  Name: Sweep_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -24.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c085514b-ac62-4fa7-a9bb-a8d3d9f614e8
+    - !<own> a72e25a5-e56a-4635-b96c-6e306cf84dcc
+    - !<own> 50f79954-8f74-413b-b969-002888bd636a
+- !<Animation/dd1a567a-701e-4594-84aa-cf08ed1f659d>
+  PrefabRemaps:
+    []
+  Name: component_17
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> bfacf2e0-0752-4a86-91b4-8ee01be4f296
+- !<VertexCache/df2358eb-f8f8-4578-9561-2e40e16821eb>
+  PrefabRemaps:
+    []
+  Name: component_64
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<Animation/e001d599-63d8-4b1f-99e7-61178b884cf4>
+  PrefabRemaps:
+    []
+  Name: component_38
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> eca6d5d7-d9d5-4fd9-9244-e6a2d3d6b340
+- !<RenderMeshVisual/e10f7aa4-edbc-4796-a9f3-861dc0f05093>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 8c40a4a2-bdf2-45fc-a368-18092481a221
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e1359ca2-64e9-42b0-b820-85a653e25615>
+  PrefabRemaps:
+    []
+  Name: Sweep_12
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: -36.000000, z: -180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e627faaa-ca7e-4613-b1bb-48bdd567efaf
+    - !<own> 7b3cc2ac-745f-4f09-8279-c583c253950f
+    - !<own> e001d599-63d8-4b1f-99e7-61178b884cf4
+- !<RenderMeshVisual/e196f30b-4a64-4432-a396-98cce4b27aa5>
+  PrefabRemaps:
+    []
+  Name: component_45
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 41e597b2-5277-436c-81bc-91497f6a15a3
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e39ca9bb-578e-450d-af8a-ae19da2bce2a>
+  PrefabRemaps:
+    []
+  Name: shape1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 000d1fe5-a444-4272-90d4-1bdb2f7c93fc
+    - !<own> 57bfff1e-fc89-40c8-ae1e-4071c5382470
+    - !<own> 000a3ffb-cfb0-417a-9fe7-77d4c49a10ca
+- !<SceneObject/e3e67967-f1bd-437d-9e77-cd2591914a18>
+  PrefabRemaps:
+    []
+  Name: Sweep_26
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 48.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 160296e3-ae61-4d70-8b6d-a4699ef975ee
+    - !<own> ea0334da-4df2-4baf-a800-659be4693480
+    - !<own> d2bed864-126e-4df3-adce-b5e7d4ea9a42
+- !<PassInfo/e597b5f6-38f4-4eed-b7cb-8867be705e34>
+  CachedProperties:
+    - Port_Depth_N004:
+        typeIdx: 1
+        value: 0.000000
+    - Port_FinalColor1_N004:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - Port_FinalColor2_N004:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - Port_FinalColor3_N004:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - Port_GSplatPointSize_N004:
+        typeIdx: 1
+        value: 0.000000
+    - Port_Normal_N006:
+        typeIdx: 4
+        value: {x: 0.000000, y: 1.000000, z: 0.000000}
+    - Port_RayDirection_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 1.000000, z: 0.000000}
+    - Port_RayOrigin_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_Value4_N023:
+        typeIdx: 1
+        value: 0.000000
+    - Port_WorldNormal_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 1.000000, z: 0.000000}
+    - Port_WorldPosition_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    - Port_WorldTangent_N004:
+        typeIdx: 4
+        value: {x: 0.000000, y: 0.000000, z: 1.000000}
+    - backgroundSize:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - backgroundTransform:
+        typeIdx: 7
+        value:
+          0: {x: 1.000000, y: 0.000000, z: 0.000000}
+          1: {x: 0.000000, y: 1.000000, z: 0.000000}
+          2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    - mainColor:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  DepthWrite: true
+  DepthTest: true
+  DepthFunction: LessEqual
+  TwoSided: true
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    []
+  BlendMode: Disabled
+  Properties:
+    Port_AO_N006:
+      typeIdx: 4
+      value: {x: 1.000000, y: 1.000000, z: 1.000000}
+    Port_Emissive_N006:
+      typeIdx: 4
+      value: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Port_Input0_N018:
+      typeIdx: 1
+      value: 1.000100
+    Port_Input0_N025:
+      typeIdx: 1
+      value: 1.000000
+    Port_Input0_N052:
+      typeIdx: 1
+      value: 1.000100
+    Port_Input2_N029:
+      typeIdx: 1
+      value: 1.000000
+    Port_Input2_N045:
+      typeIdx: 1
+      value: 1.000000
+    Port_Input2_N051:
+      typeIdx: 1
+      value: 0.100000
+    Port_Metallic_N006:
+      typeIdx: 1
+      value: 0.000000
+    Port_Opacity_N006:
+      typeIdx: 1
+      value: 1.000000
+    Port_Roughness_N006:
+      typeIdx: 1
+      value: 0.000000
+    Port_SpecularAO_N006:
+      typeIdx: 4
+      value: {x: 1.000000, y: 1.000000, z: 1.000000}
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    background:
+      typeIdx: 9
+      value:
+        id: 996c6f4e-b2ad-4117-9e3e-3db82e6e97f5
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: MirroredRepeat
+          wrapModeV: MirroredRepeat
+          wrapModeW: MirroredRepeat
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}
+          mipmaps: true
+        type: Texture2D
+    chromaticAberration:
+      typeIdx: 1
+      value: 1.000000
+    colorTint:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    darken:
+      typeIdx: 1
+      value: 0.200000
+    exponent:
+      typeIdx: 1
+      value: 10.000000
+    intensity:
+      typeIdx: 1
+      value: 0.360000
+    thickness:
+      typeIdx: 1
+      value: 0.000000
+  Pass: !<reference> f650ecb9-e1cf-4d32-8fb5-8b26d27813d7
+- !<RenderMeshVisual/e627faaa-ca7e-4613-b1bb-48bdd567efaf>
+  PrefabRemaps:
+    []
+  Name: component_36
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> e1aa1579-4f8c-4f8d-855a-b7007d08c72d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e6b7aac4-2588-4d0f-ba4a-a8696cf99938>
+  PrefabRemaps:
+    []
+  Name: Sweep_7
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -84.000015, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c8a4febb-fe7c-4acf-96ef-82d8136ae0c7
+    - !<own> 55fdbd91-ffa0-443f-a646-969e4381ff77
+    - !<own> 68f43998-cb8e-4197-af57-1002a89e60b1
+- !<RenderMeshVisual/e7a5f67f-a380-4e72-80a1-e2ff05136fe7>
+  PrefabRemaps:
+    []
+  Name: component_60
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 54553f30-4048-45d7-9a71-a66e6a318948
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e86ec7e7-debb-485b-8b47-71279356977d>
+  PrefabRemaps:
+    []
+  Name: Sweep_14
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: -12.000000, z: -180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c142435d-b72f-4512-91c7-825222700339
+    - !<own> bef3cef5-eb96-49ec-8b49-601dee77744e
+    - !<own> 51cc9338-dd80-43e2-9295-f82bb0a1a637
+- !<RenderMeshVisual/e8ea5966-e264-4d7d-a719-1ebdbefa67de>
+  PrefabRemaps:
+    []
+  Name: component_12
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 6275a931-f95c-42ab-b841-19857ec646d7
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<VertexCache/ea0334da-4df2-4baf-a800-659be4693480>
+  PrefabRemaps:
+    []
+  Name: component_79
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<VertexCache/ec719cfb-d462-4b6b-a486-1598f1ce3a67>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<SceneObject/edde132a-b53f-4418-b68d-a9611e228f79>
+  PrefabRemaps:
+    []
+  Name: Sweep_21
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: 72.000000, z: 180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c1951332-d2fc-4103-938a-0910af0adcc6
+    - !<own> df2358eb-f8f8-4578-9561-2e40e16821eb
+    - !<own> 727986fe-f3fb-4dcc-9b4c-cf6cde258a54
+- !<RenderMeshVisual/ee47c69f-ca5a-4597-b642-a860dcc191ce>
+  PrefabRemaps:
+    []
+  Name: component_3
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 5466b83f-c724-4356-8fc9-b96454dbf502
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<Animation/f004615a-afd5-47a6-9d0e-d4f7fb45b2c3>
+  PrefabRemaps:
+    []
+  Name: component_50
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 2807839f-797e-47e9-8097-2f70574f6e9d
+- !<SceneObject/f08c6f6c-adea-423e-9b09-13aad02a36db>
+  PrefabRemaps:
+    []
+  Name: Sweep_24
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 72.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 07f5b0da-f25f-4e60-9c3f-a9d56a404900
+    - !<own> 62131161-c504-461d-8741-b7cf4f4c4293
+    - !<own> 9caeaf50-f677-44cc-9fdc-a3abc382f770
+- !<Animation/f140e99e-4ccc-42dd-b294-7f02a39d942c>
+  PrefabRemaps:
+    []
+  Name: component_89
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 424623e5-3415-4cad-8936-308aaad6d7aa
+- !<SceneObject/f3a03ba0-7488-49df-b011-3d3f9d5ef5a4>
+  PrefabRemaps:
+    []
+  Name: Sweep_25
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 60.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1458806a-cd6d-4527-a35a-ec4f30818225
+    - !<own> 459c6eb5-0bae-4478-af50-dadb526f6997
+    - !<own> 4930d3ee-af7a-4d3a-863e-2212f97ce57d
+- !<Animation/f480a2a4-e031-468f-8b81-13de846aa3ff>
+  PrefabRemaps:
+    []
+  Name: component_20
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 1d626e35-19f0-42b0-b905-c414eb0f506d
+- !<RenderMeshVisual/f58d10a5-1b47-4cc0-a1af-324f1bd4c1ba>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> da80ac81-6f90-43df-8bba-a38c409c239c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<Animation/f5b47a45-a32d-452b-8ad2-0ca91def9d55>
+  PrefabRemaps:
+    []
+  Name: component_29
+  Enabled: true
+  AnimationLayers:
+    Layer0: !<reference> 3db87ecd-39a3-474a-8104-ba061605729e
+- !<VertexCache/f5e8aeec-6da8-472f-8d33-917e0f0fbf29>
+  PrefabRemaps:
+    []
+  Name: component_16
+  Enabled: true
+  CurrentTime: 0.000000
+  Weight: 1.000000
+- !<SceneObject/fa7b0522-0264-499b-b1f2-279db440841d>
+  PrefabRemaps:
+    []
+  Name: shape7
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -180.000000, y: 36.000000, z: 180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 47be5a9c-c1b3-4abb-bba1-38e89369ca7a
+    - !<own> 4dc96fad-35f3-4672-b5c7-224f23e9c889
+    - !<own> f480a2a4-e031-468f-8b81-13de846aa3ff
+- !<RenderMeshVisual/fa987ff2-9e91-45df-b06d-76fb761bedfb>
+  PrefabRemaps:
+    []
+  Name: component_48
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 3ca281a2-7de7-4950-9e38-98305c8c31b1
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/fcdf229b-20f0-4531-8474-4fadafe50ec1>
+  PrefabRemaps:
+    []
+  Name: shape10
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 36.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2a006674-4e15-40d7-a9fb-f5760e485225
+    - !<own> 6cfea5c9-2493-49ce-9531-c1834e3ca2ed
+    - !<own> f5b47a45-a32d-452b-8ad2-0ca91def9d55
+- !<RenderMeshVisual/ffff5107-3bce-439a-b223-b63a64c2ae44>
+  PrefabRemaps:
+    []
+  Name: component_12
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a092e6c4-9177-47a5-9538-3fb7f2bbef32
+  Mesh: !<reference> 009d2987-a1e5-4339-a630-93306fe1336f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}

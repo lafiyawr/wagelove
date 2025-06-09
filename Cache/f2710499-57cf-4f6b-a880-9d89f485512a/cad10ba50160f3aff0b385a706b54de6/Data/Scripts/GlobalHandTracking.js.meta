@@ -1,0 +1,42 @@
+- !<AssetImportMetadata/efc76763-55a8-4165-b241-e9b9f5a73168>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 7f623340-cd91-409c-b778-a79f3281a1d1
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 7f623340-cd91-409c-b778-a79f3281a1d1
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 40b298e8-2a6e-420a-8512-c85a56283578
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  ExtraData:
+    {}
+- !<ScriptAssetData/40b298e8-2a6e-420a-8512-c85a56283578>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: caf56a6b-d18c-4c00-99a6-4eb720adc981
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    leftHand: false
+    rightHand: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - leftHand: !<reference.ObjectTracking3D> 00000000-0000-0000-0000-000000000000
+      rightHand: !<reference.ObjectTracking3D> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  SetupScript:
+    code: ""
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

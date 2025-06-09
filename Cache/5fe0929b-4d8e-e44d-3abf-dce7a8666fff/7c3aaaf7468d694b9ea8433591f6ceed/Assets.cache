@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    8bb6a5fa-0e8c-4271-83af-c4b6feb3c1ca: 5fe0929b-4d8e-e44d-3abf-dce7a8666fff/7c3aaaf7468d694b9ea8433591f6ceed/Data/ancestor3.jpg
+  Assets:
+    - !<FileTexture/8bb6a5fa-0e8c-4271-83af-c4b6feb3c1ca>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 7c3aaaf7468d694b9ea8433591f6ceed
+  FileHash: 10cdcb91667cd6b76c9b4ff510b37129
+  NativePackageItems:
+    []

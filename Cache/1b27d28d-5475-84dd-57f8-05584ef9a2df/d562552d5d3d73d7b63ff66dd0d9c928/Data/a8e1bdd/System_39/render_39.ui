@@ -1,0 +1,167 @@
+{ 
+	"ui": 
+	[
+		{
+        	"label": "Graph Parameters",
+        	"widget": "group_start"
+        },
+{ 
+                	"bindingName": "flipbookTex", 
+                	"label":       "Flipbook Texture", 
+                	"widget":      "texture_group",
+                	"sortIndex":   "-2",
+                	"hint":        ""
+                },
+                
+                {
+                	"bindingName": "velocityStretch",
+                	"label":       "Velocity Stretch",
+                	"widget":      "slider",
+                	"min":         0.01,
+                	"max":         1,
+                	"step":        "0.01",
+                	"sortIndex":   "-1",
+                	"hint":        "",
+                	"default":     "1.0"
+                },
+                
+                {
+                	"label": "Repel",
+                	"widget": "group_start"
+                },                    
+                    {
+                    	"bindingName": "Tweak_N248",
+                    	"bindingType": "define",
+                    	"optimize":    true,
+                    	"label":       "Use Same Texture",
+                    	"widget":      "checkbox",
+                    	"sortIndex":   "20",
+                    	"hint":        ""
+                    },
+                    
+                    { 
+                    	"bindingName": "repelflipbookTex", 
+                    	"label":       "Repel Flipbook Texture", 
+                    	"widget":      "texture_group",
+                    	"sortIndex":   "20",
+                    	"hint":        ""
+                    },
+                    
+                    {
+                    	"label": "Color Mix",
+                    	"widget": "group_start"
+                    },                        
+                        {
+                        	"bindingName": "TintColor",
+                        	"label":       "Tint Color",
+                        	"widget":      "color",
+                        	"sortIndex":   "21",
+                        	"hint":        "",
+                        	"default":     "1.0"
+                        },
+                        
+                        {
+                        	"label":       "Color Channel",
+                        	"bindingType": "defineSelect",
+                        	"values":      
+                        	[
+                        		
+                        		{
+                        			"value": "NODE_243_DROPLIST_ITEM 0",
+                        			"label": "R"
+                        		},
+                        		
+                        		{
+                        			"value": "NODE_243_DROPLIST_ITEM 1",
+                        			"label": "G"
+                        		},
+                        		
+                        		{
+                        			"value": "NODE_243_DROPLIST_ITEM 2",
+                        			"label": "B"
+                        		},
+                        		
+                        		{
+                        			"value": "NODE_243_DROPLIST_ITEM 3",
+                        			"label": "A"
+                        		}
+                        	],
+                        	"sortIndex":   "21",
+                        	"hint":        ""
+                        },
+                        
+                        {
+                        	"bindingName": "Tweak_N261",
+                        	"bindingType": "define",
+                        	"optimize":    true,
+                        	"label":       "Invert",
+                        	"widget":      "checkbox",
+                        	"sortIndex":   "22",
+                        	"hint":        ""
+                        },
+                        
+                        {
+                        	"bindingName": "intensity",
+                        	"label":       "Color Intensity",
+                        	"widget":      "slider",
+                        	"min":         0,
+                        	"max":         10,
+                        	"step":        "0.01",
+                        	"sortIndex":   "23",
+                        	"hint":        "",
+                        	"default":     "1.0"
+                        },
+                    {
+                    	"widget": "group_end"
+                    },
+                {
+                	"widget": "group_end"
+                },
+                
+                {
+                	"label": "Data from Script",
+                	"widget": "group_start"
+                },                    
+                    {
+                    	"bindingName": "isIdle",
+                    	"label":       "Is Idle",
+                    	"widget":      "checkbox",
+                    	"sortIndex":   "50",
+                    	"hint":        ""
+                    },
+                    
+                    {
+                    	"bindingName": "isAttracting",
+                    	"label":       "Is Attracting",
+                    	"widget":      "checkbox",
+                    	"sortIndex":   "50",
+                    	"hint":        ""
+                    },
+                {
+                	"widget": "group_end"
+                },
+
+        {
+        	"widget": "group_end"
+        },
+        
+		
+	{
+		"bindingName": "alphaTestThreshold",
+		"widget": "slider",
+		"min" : 0.0,
+		"max" : 1.0,
+		"step": 0.001,
+		"default": 0.5,
+		"hint": "When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear."
+	}
+	
+	],
+	
+	"shaderType": "PostProcessing",
+	
+	"extraDefines":
+	[
+		"SC_ENABLE_RT_RECEIVER"
+	]
+}

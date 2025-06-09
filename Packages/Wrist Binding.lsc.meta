@@ -1,0 +1,28 @@
+- !<AssetImportMetadata/a081375e-595a-44a3-bca5-895784f0f68b>
+  ImportedAssetIds:
+    Textures/Device Camera Texture: !<reference> ba7ddb51-e566-481d-998b-024cbb564182
+    Wrist Binding/Annotator_002: !<reference> 3eda262d-b8ab-4637-87e1-62d5ec570210
+    Wrist Binding/EventModule_101: !<reference> 923a6711-b307-499a-b2a2-2b20a15158cd
+    Wrist Binding/GenericDecoders_002: !<reference> 1a40983f-0895-41c1-97a9-53f4b311703b
+    Wrist Binding/GenericHelperScript_001: !<reference> 241986ce-b5ba-42d2-a5f2-2ec7d47b127c
+    Wrist Binding/NewJSMathLibrary_102: !<reference> 8f90d66a-d840-4939-a328-80736ff51fb8
+    Wrist Binding/ObjectBinding_002: !<reference> a99a85c1-c09f-478f-b423-228b7d762f6b
+    Wrist Binding/OpticalFlow_100: !<reference> d5634420-75a8-485b-8ab6-87453d6d6c01
+    Wrist Binding/Remote ML Asset: !<reference> e545402f-6247-4dae-9822-57e5df69f362
+    Wrist Binding/SceneObjectHelpersModule_110: !<reference> 6c22eb52-a389-431a-9078-b112a027c5e7
+    Wrist Binding/Solver_101: !<reference> b2a153e2-c245-411c-b43a-c513c730c24f
+    Wrist Binding/Wrist Binding: !<reference> b30ed7b4-2f73-4e41-a20b-0c1f859dd610
+    Wrist Binding/WristKeypointConfig_HE: !<reference> 7488d618-5b7d-4515-b2eb-b46ab1c1f6db
+  ImporterName: LensCoreImporter
+  PrimaryAsset: !<reference> b30ed7b4-2f73-4e41-a20b-0c1f859dd610
+  PackageType: LegacyPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<LensCoreImporterSettings>
+    PersistentIdGenerationAlgorithm: DescriptorBased
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

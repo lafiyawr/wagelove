@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    db780fb9-3bf7-4cb1-b318-e2e4afa295cf: 962038c6-35a6-455b-b18b-fbcd726bec23/da7e738a0b65eeb73b1c0b04d877c722/Data/Gold base texture.png
+  Assets:
+    - !<FileTexture/db780fb9-3bf7-4cb1-b318-e2e4afa295cf>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1
+        Height: 1
+  SourceHash: da7e738a0b65eeb73b1c0b04d877c722
+  FileHash: f0da5fffe56ceaa61cf9cd228e72adfb
+  NativePackageItems:
+    []

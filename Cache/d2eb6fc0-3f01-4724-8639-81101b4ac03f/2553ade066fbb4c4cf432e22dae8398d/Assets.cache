@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    2f8c837e-3b2a-4dbb-9b09-a1f7b2ea07e8: d2eb6fc0-3f01-4724-8639-81101b4ac03f/2553ade066fbb4c4cf432e22dae8398d/Data/Cylinder.mesh
+  Assets:
+    - !<FileMesh/2f8c837e-3b2a-4dbb-9b09-a1f7b2ea07e8>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 24576
+        Vertices: 47716
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.040000, y: 2.000000, z: 0.040000}
+  SourceHash: 2553ade066fbb4c4cf432e22dae8398d
+  FileHash: 450443d14916af599b772b002cb255c0
+  NativePackageItems:
+    []

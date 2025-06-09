@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    28bd5599-b6f7-4f17-8dda-5beaae45978b: 19de90a6-4099-403f-886e-f11d7b9a6392/d20fc9d018a718f097a5bc8be6d22964/Data/ring-UI-rise.png
+  Assets:
+    - !<FileTexture/28bd5599-b6f7-4f17-8dda-5beaae45978b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 883
+        Height: 140
+  SourceHash: d20fc9d018a718f097a5bc8be6d22964
+  FileHash: 62b098dc43187199ffef387d8c2780ec
+  NativePackageItems:
+    []

@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    cf23c891-bc42-498b-92ff-6deb27fd1644: 75c5b4d4-9b53-43a3-90c5-c2631f23780a/6d96be2bf4361b6f5d179578310c0bff/Data/Sweep_17.mesh
+  Assets:
+    - !<FileMesh/cf23c891-bc42-498b-92ff-6deb27fd1644>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 84
+        Vertices: 95
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 29.895306, y: 116.045242, z: 134.089218}
+  SourceHash: 6d96be2bf4361b6f5d179578310c0bff
+  FileHash: d0a3bcb2e4b9cc55bc3a917bb3628565
+  NativePackageItems:
+    []

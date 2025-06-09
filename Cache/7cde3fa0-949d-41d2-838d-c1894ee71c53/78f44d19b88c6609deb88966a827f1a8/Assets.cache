@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    9e46d6fe-d38a-4de7-9e65-3149fce589a5: 7cde3fa0-949d-41d2-838d-c1894ee71c53/78f44d19b88c6609deb88966a827f1a8/Data/ending.mp3
+  Assets:
+    - !<FileAudioTrack/9e46d6fe-d38a-4de7-9e65-3149fce589a5>
+      PackagePath: ""
+  SourceHash: 78f44d19b88c6609deb88966a827f1a8
+  FileHash: 172a11a5c90e307d59d18ee8b0b92d49
+  NativePackageItems:
+    []

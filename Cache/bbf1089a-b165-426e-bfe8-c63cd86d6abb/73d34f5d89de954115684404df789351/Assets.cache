@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    8d85b56c-4e42-4476-9c27-b80825c6d8ee: bbf1089a-b165-426e-bfe8-c63cd86d6abb/73d34f5d89de954115684404df789351/Data/WageLoveVO5.mp3
+  Assets:
+    - !<FileAudioTrack/8d85b56c-4e42-4476-9c27-b80825c6d8ee>
+      PackagePath: ""
+  SourceHash: 73d34f5d89de954115684404df789351
+  FileHash: d8f58f3d7737d5219c81ef418db41fb7
+  NativePackageItems:
+    []

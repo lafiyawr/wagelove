@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    fda6d3ce-f489-41bd-9c9c-013f06db9eeb: 2d0a32aa-f7d7-c5e6-a248-391aec012781/c4f6019302b64b5f2890d789eaa0f268/Data/UI-Rise-Text.png
+  Assets:
+    - !<FileTexture/fda6d3ce-f489-41bd-9c9c-013f06db9eeb>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 421
+        Height: 346
+  SourceHash: c4f6019302b64b5f2890d789eaa0f268
+  FileHash: 44dc8b89fcc1add641802bd27ca8e668
+  NativePackageItems:
+    []

@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    dd68e01f-898c-49cb-953f-4a21f15d5682: ba7eb5f8-ba19-4877-b7a8-f7dfbc73fd41/f39a58803801e3d16c33661738c37936/Data/WatchHourHand.mesh
+  Assets:
+    - !<FileMesh/dd68e01f-898c-49cb-953f-4a21f15d5682>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 1036
+        Vertices: 459
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.011809, y: 0.002768, z: 0.063757}
+  SourceHash: f39a58803801e3d16c33661738c37936
+  FileHash: c5117b47d2b5027e17977d0c63307638
+  NativePackageItems:
+    []

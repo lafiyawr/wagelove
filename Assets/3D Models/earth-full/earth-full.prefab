@@ -1,0 +1,56 @@
+- !<ObjectPrefab/bc5ff064-f40a-4bf2-876c-1881a47adbf0>
+  PackagePath: ""
+  objects:
+    - !<own> d79044b4-6398-47e1-b7b1-6ed6458fbcc8
+  LazyLoading: false
+  RetainAssets: true
+- !<RenderMeshVisual/09d33459-2bcd-4d02-8d92-e4e48dbb63d5>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> aaa1b469-5ec9-417a-8ddc-af032c80e10d
+  Mesh: !<reference> 15d91915-437c-4ff1-8c2a-844f76432f4f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/d79044b4-6398-47e1-b7b1-6ed6458fbcc8>
+  PrefabRemaps:
+    []
+  Name: earth-full
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e2d9c513-73ed-4049-a205-fd444e2278f2
+  Components:
+    []
+- !<SceneObject/e2d9c513-73ed-4049-a205-fd444e2278f2>
+  PrefabRemaps:
+    []
+  Name: Sphere
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 270.000000, y: -90.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 09d33459-2bcd-4d02-8d92-e4e48dbb63d5

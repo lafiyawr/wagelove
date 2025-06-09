@@ -1,0 +1,216 @@
+{ 
+	"ui": 
+	[
+		{
+        	"label": "Graph Parameters",
+        	"widget": "group_start"
+        },
+{
+                	"label": "Edit mode",
+                	"widget": "group_start"
+                },                    
+                    {
+                    	"bindingName": "Tweak_N94",
+                    	"bindingType": "define",
+                    	"optimize":    true,
+                    	"label":       "Turn on/off",
+                    	"widget":      "checkbox",
+                    	"sortIndex":   "0",
+                    	"hint":        ""
+                    },
+                {
+                	"widget": "group_end"
+                },
+                
+                {
+                	"label": "Settings",
+                	"widget": "group_start"
+                },                    
+                    {
+                    	"bindingName": "Tweak_N88",
+                    	"label":       "Radius",
+                    	"widget":      "slider",
+                    	"min":         0,
+                    	"max":         1,
+                    	"step":        "0.01",
+                    	"sortIndex":   "1",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N87",
+                    	"label":       "Twist angle",
+                    	"widget":      "slider",
+                    	"min":         0,
+                    	"max":         1440,
+                    	"step":        "1",
+                    	"sortIndex":   "1",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N72",
+                    	"label":       "Displace speed",
+                    	"widget":      "slider",
+                    	"min":         0,
+                    	"max":         1,
+                    	"step":        "0.01",
+                    	"sortIndex":   "1",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N60",
+                    	"label":       "Displace size X",
+                    	"widget":      "slider",
+                    	"min":         0,
+                    	"max":         10,
+                    	"step":        "0.01",
+                    	"sortIndex":   "1",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N91",
+                    	"label":       "Displace size Y",
+                    	"widget":      "slider",
+                    	"min":         0,
+                    	"max":         10,
+                    	"step":        "0.01",
+                    	"sortIndex":   "1",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N92",
+                    	"label":       "Displace size Z",
+                    	"widget":      "slider",
+                    	"min":         0,
+                    	"max":         10,
+                    	"step":        "0.01",
+                    	"sortIndex":   "1",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N71",
+                    	"label":       "Trail spread",
+                    	"widget":      "slider",
+                    	"min":         0,
+                    	"max":         10,
+                    	"step":        "0.5",
+                    	"sortIndex":   "1",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N68",
+                    	"label":       "Spiral length",
+                    	"widget":      "slider",
+                    	"min":         0.1,
+                    	"max":         1,
+                    	"step":        "0.01",
+                    	"sortIndex":   "1",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N65",
+                    	"label":       "Brightness",
+                    	"widget":      "slider",
+                    	"min":         0.1,
+                    	"max":         2,
+                    	"step":        "0.01",
+                    	"sortIndex":   "1",
+                    	"hint":        "",
+                    	"default":     "2.0"
+                    },
+                {
+                	"widget": "group_end"
+                },
+                
+                {
+                	"label": "Color",
+                	"widget": "group_start"
+                },                    
+                    {
+                    	"bindingName": "Tweak_N0",
+                    	"label":       "Color gradient 1",
+                    	"widget":      "color",
+                    	"sortIndex":   "2",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N1",
+                    	"label":       "Color gradient 2",
+                    	"widget":      "color",
+                    	"sortIndex":   "2",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N2",
+                    	"label":       "Color gradient 3",
+                    	"widget":      "color",
+                    	"sortIndex":   "2",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                {
+                	"widget": "group_end"
+                },
+                
+                {
+                	"label": "Advanced settings",
+                	"widget": "group_start"
+                },                    
+                    {
+                    	"bindingName": "Tweak_N26",
+                    	"label":       "Trail UV anim",
+                    	"widget":      "slider",
+                    	"min":         0,
+                    	"max":         1,
+                    	"step":        "0.01",
+                    	"sortIndex":   "3",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                {
+                	"widget": "group_end"
+                },
+
+        {
+        	"widget": "group_end"
+        },
+        
+		
+	{
+		"bindingName": "alphaTestThreshold",
+		"widget": "slider",
+		"min" : 0.0,
+		"max" : 1.0,
+		"step": 0.001,
+		"default": 0.5,
+		"hint": "When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear."
+	}
+	
+	],
+	
+	"shaderType": "Mesh3d",
+	
+	"extraDefines":
+	[
+		
+	]
+}

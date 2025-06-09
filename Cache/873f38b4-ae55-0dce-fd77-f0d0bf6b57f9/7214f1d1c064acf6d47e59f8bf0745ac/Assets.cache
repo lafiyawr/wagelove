@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    fae7912b-4c55-416f-af2f-5b42fab10c33: 873f38b4-ae55-0dce-fd77-f0d0bf6b57f9/7214f1d1c064acf6d47e59f8bf0745ac/Data/GPUParticlesTrailsColorRamp.png
+  Assets:
+    - !<FileTexture/fae7912b-4c55-416f-af2f-5b42fab10c33>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 2
+  SourceHash: 7214f1d1c064acf6d47e59f8bf0745ac
+  FileHash: 41f17247564050af17049c187fe3ff39
+  NativePackageItems:
+    []

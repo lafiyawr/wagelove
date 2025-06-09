@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    fd41e357-10cc-415a-9f27-d9521765c95e: 82a95a21-5b0f-0ee7-f80e-d981f4cb3d7b/e980341f7c514c7cfb4c1d32278055ae/Data/pCylinder6_lambert1_0.mesh
+  Assets:
+    - !<FileMesh/fd41e357-10cc-415a-9f27-d9521765c95e>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 468
+        Vertices: 303
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 43.988674, y: 85.165802, z: 16.020405}
+  SourceHash: e980341f7c514c7cfb4c1d32278055ae
+  FileHash: c78c4c431f6e3c6cacde8c2c41f98106
+  NativePackageItems:
+    []

@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    8fc4654a-a722-4e3d-9847-c750d3c0dbfb: 0679a16e-0ece-4a43-a71d-92c2f95e73af/b259ea301b5f39d7b69f9423e9b7b1ff/Data/mothernaturecropped.mp3
+  Assets:
+    - !<FileAudioTrack/8fc4654a-a722-4e3d-9847-c750d3c0dbfb>
+      PackagePath: ""
+  SourceHash: b259ea301b5f39d7b69f9423e9b7b1ff
+  FileHash: 6c15b83294d4113c095ca2c0c3471452
+  NativePackageItems:
+    []

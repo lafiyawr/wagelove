@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f597453d-a317-49d2-96f2-1c8689295023: ac98c201-5003-2454-3969-914cd5e08ad0/386c78a9826135db016fd858b32b16fe/Data/Rocket Tail Base Tex.png
+  Assets:
+    - !<FileTexture/f597453d-a317-49d2-96f2-1c8689295023>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 386c78a9826135db016fd858b32b16fe
+  FileHash: 640a48e03c1e082c3390ca4b23d28368
+  NativePackageItems:
+    []

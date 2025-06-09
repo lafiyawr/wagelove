@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    3ebd9c01-1444-418d-8e09-222f4a7a823a: bb0b498d-4c4d-6ffd-fb3e-970eede9ad74/393c6511fba6de03973d3aad7d341e45/Data/GPUParticlesTrailsBaseTexure.png
+  Assets:
+    - !<FileTexture/3ebd9c01-1444-418d-8e09-222f4a7a823a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 128
+        Height: 128
+  SourceHash: 393c6511fba6de03973d3aad7d341e45
+  FileHash: 248602a76c4dcf91a19349d9d9516709
+  NativePackageItems:
+    []

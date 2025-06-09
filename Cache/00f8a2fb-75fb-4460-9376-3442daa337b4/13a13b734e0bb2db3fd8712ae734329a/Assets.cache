@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    f09e26a3-2e35-465f-9371-e4ba0e603650: 00f8a2fb-75fb-4460-9376-3442daa337b4/13a13b734e0bb2db3fd8712ae734329a/Data/Pacifico.ttf
+  Assets:
+    - !<Font/f09e26a3-2e35-465f-9371-e4ba0e603650>
+      PackagePath: ""
+  SourceHash: 13a13b734e0bb2db3fd8712ae734329a
+  FileHash: 473cdb60b0f2a720221f42c4087b3fe5
+  NativePackageItems:
+    []

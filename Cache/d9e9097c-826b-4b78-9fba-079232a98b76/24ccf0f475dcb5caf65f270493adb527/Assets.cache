@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    34333082-3882-4275-853e-d86ced19d99c: d9e9097c-826b-4b78-9fba-079232a98b76/24ccf0f475dcb5caf65f270493adb527/Data/Dance Yr Feeties Into Little Nubz.mp3
+  Assets:
+    - !<FileAudioTrack/34333082-3882-4275-853e-d86ced19d99c>
+      PackagePath: ""
+  SourceHash: 24ccf0f475dcb5caf65f270493adb527
+  FileHash: e2654ae9b71b185203bbe9c195cff4b6
+  NativePackageItems:
+    []

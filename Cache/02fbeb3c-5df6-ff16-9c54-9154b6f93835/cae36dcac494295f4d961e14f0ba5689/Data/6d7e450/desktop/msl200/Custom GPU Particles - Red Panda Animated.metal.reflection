@@ -1,0 +1,461 @@
+//SG_REFLECTION_BEGIN(200)
+//attribute vec4 boneData 5
+//attribute vec3 blendShape0Pos 6
+//attribute vec3 blendShape0Normal 12
+//attribute vec3 blendShape1Pos 7
+//attribute vec3 blendShape1Normal 13
+//attribute vec3 blendShape2Pos 8
+//attribute vec3 blendShape2Normal 14
+//attribute vec3 blendShape3Pos 9
+//attribute vec3 blendShape4Pos 10
+//attribute vec3 blendShape5Pos 11
+//attribute vec4 position 0
+//attribute vec3 normal 1
+//attribute vec4 tangent 2
+//attribute vec2 texture0 3
+//attribute vec2 texture1 4
+//attribute vec4 color 18
+//attribute vec3 positionNext 15
+//attribute vec3 positionPrevious 16
+//attribute vec4 strandProperties 17
+//output vec4 FragColor0 0
+//output vec4 FragColor1 1
+//output vec4 FragColor2 2
+//output vec4 FragColor3 3
+//output uvec4 position_and_mask 0
+//output uvec4 normal_and_more 1
+//sampler sampler colorRampTextureSmpSC 0:29
+//sampler sampler intensityTextureSmpSC 0:30
+//sampler sampler mainTextureSmpSC 0:31
+//sampler sampler materialParamsTexSmpSC 0:32
+//sampler sampler normalTexSmpSC 0:33
+//sampler sampler sc_EnvmapDiffuseSmpSC 0:34
+//sampler sampler sc_EnvmapSpecularSmpSC 0:35
+//sampler sampler sc_RayTracedAoTextureSmpSC 0:37
+//sampler sampler sc_RayTracedDiffIndTextureSmpSC 0:38
+//sampler sampler sc_RayTracedReflectionTextureSmpSC 0:39
+//sampler sampler sc_RayTracedShadowTextureSmpSC 0:40
+//sampler sampler sc_SSAOTextureSmpSC 0:41
+//sampler sampler sc_ScreenTextureSmpSC 0:42
+//sampler sampler sc_ShadowTextureSmpSC 0:43
+//sampler sampler sizeRampTextureSmpSC 0:45
+//sampler sampler trailColorRampTexSmpSC 0:46
+//sampler sampler trailSizeRampTexSmpSC 0:47
+//sampler sampler trailTexSmpSC 0:48
+//sampler sampler velRampTextureSmpSC 0:49
+//texture texture2D colorRampTexture 0:1:0:29
+//texture texture2D intensityTexture 0:2:0:30
+//texture texture2D mainTexture 0:3:0:31
+//texture texture2D materialParamsTex 0:4:0:32
+//texture texture2D normalTex 0:5:0:33
+//texture texture2D sc_EnvmapDiffuse 0:6:0:34
+//texture texture2D sc_EnvmapSpecular 0:7:0:35
+//texture texture2D sc_RayTracedAoTexture 0:16:0:37
+//texture texture2D sc_RayTracedDiffIndTexture 0:17:0:38
+//texture texture2D sc_RayTracedReflectionTexture 0:18:0:39
+//texture texture2D sc_RayTracedShadowTexture 0:19:0:40
+//texture texture2D sc_SSAOTexture 0:20:0:41
+//texture texture2D sc_ScreenTexture 0:21:0:42
+//texture texture2D sc_ShadowTexture 0:22:0:43
+//texture texture2D sizeRampTexture 0:24:0:45
+//texture texture2D trailColorRampTex 0:25:0:46
+//texture texture2D trailSizeRampTex 0:26:0:47
+//texture texture2D trailTex 0:27:0:48
+//texture texture2D velRampTexture 0:28:0:49
+//ubo float sc_BonesUBO 0:0:96 {
+//sc_Bone_t sc_Bones 0:[]:96
+//float4 sc_Bones.boneMatrix 0:[3]:16
+//float4 sc_Bones.normalMatrix 48:[3]:16
+//}
+//ubo int UserUniforms 0:50:6400 {
+//sc_PointLight_t sc_PointLights 0:[3]:80
+//bool sc_PointLights.falloffEnabled 0
+//float sc_PointLights.falloffEndDistance 4
+//float sc_PointLights.negRcpFalloffEndDistance4 8
+//float sc_PointLights.angleScale 12
+//float sc_PointLights.angleOffset 16
+//float3 sc_PointLights.direction 32
+//float3 sc_PointLights.position 48
+//float4 sc_PointLights.color 64
+//sc_DirectionalLight_t sc_DirectionalLights 240:[5]:32
+//float3 sc_DirectionalLights.direction 0
+//float4 sc_DirectionalLights.color 16
+//sc_AmbientLight_t sc_AmbientLights 400:[3]:32
+//float3 sc_AmbientLights.color 0
+//float sc_AmbientLights.intensity 16
+//sc_LightEstimationData_t sc_LightEstimationData 496
+//sc_SphericalGaussianLight_t sc_LightEstimationData.sg 0:[12]:48
+//float3 sc_LightEstimationData.sg.color 0
+//float sc_LightEstimationData.sg.sharpness 16
+//float3 sc_LightEstimationData.sg.axis 32
+//float3 sc_LightEstimationData.ambientLight 576
+//float4 sc_EnvmapDiffuseSize 1088
+//float4 sc_EnvmapSpecularSize 1136
+//float3 sc_EnvmapRotation 1184
+//float sc_EnvmapExposure 1200
+//float3 sc_Sh 1216:[9]:16
+//float sc_ShIntensity 1360
+//float4 sc_Time 1376
+//float4 sc_UniformConstants 1392
+//float4x4 sc_ViewProjectionMatrixArray 1680:[2]:64
+//float4x4 sc_ModelViewMatrixArray 1936:[2]:64
+//float4x4 sc_ProjectionMatrixArray 2384:[2]:64
+//float4x4 sc_ProjectionMatrixInverseArray 2512:[2]:64
+//float4x4 sc_ViewMatrixArray 2640:[2]:64
+//float4x4 sc_ViewMatrixInverseArray 2768:[2]:64
+//float4x4 sc_PrevFrameViewProjectionMatrixArray 2896:[2]:64
+//float4x4 sc_ModelMatrix 3024
+//float4x4 sc_ModelMatrixInverse 3088
+//float3x3 sc_NormalMatrix 3152
+//float4x4 sc_PrevFrameModelMatrix 3248
+//float3 sc_LocalAabbMin 3376
+//float3 sc_LocalAabbMax 3392
+//float4 sc_CurrentRenderTargetDims 3456
+//sc_Camera_t sc_Camera 3472
+//float3 sc_Camera.position 0
+//float sc_Camera.aspect 16
+//float2 sc_Camera.clipPlanes 24
+//float sc_ShadowDensity 3504
+//float4 sc_ShadowColor 3520
+//float4x4 sc_ProjectorMatrix 3536
+//float shaderComplexityValue 3604
+//float4 weights0 3616
+//float4 weights1 3632
+//float4 sc_StereoClipPlanes 3664:[2]:16
+//float _sc_framebufferFetchMarker 3700
+//float2 sc_TAAJitterOffset 3704
+//bool receivesRayTracedReflections 3824
+//bool receivesRayTracedShadows 3828
+//bool receivesRayTracedDiffuseIndirect 3832
+//bool receivesRayTracedAo 3836
+//float receiver_mask 4032
+//float3 OriginNormalizationScale 4048
+//float3 OriginNormalizationOffset 4080
+//int receiverId 4096
+//float correctedIntensity 4100
+//float3x3 intensityTextureTransform 4160
+//float4 intensityTextureUvMinMax 4208
+//float4 intensityTextureBorderColor 4224
+//int PreviewEnabled 4388
+//float alphaTestThreshold 4396
+//float timeGlobal 4400
+//float externalTimeInput 4404
+//float externalSeed 4408
+//float lifeTimeConstant 4412
+//float2 lifeTimeMinMax 4416
+//float spawnDuration 4424
+//float trailLength 4428
+//float2 trailTaper 4432
+//float trailWidth 4440
+//float3x3 trailSizeRampTexTransform 4496
+//float4 trailSizeRampTexUvMinMax 4544
+//float4 trailSizeRampTexBorderColor 4560
+//float3 spawnLocation 4576
+//float3 spawnBox 4592
+//float3 spawnSphere 4608
+//float3 noiseMult 4624
+//float3 noiseFrequency 4640
+//float3 sNoiseMult 4656
+//float3 sNoiseFrequency 4672
+//float3 velocityMin 4688
+//float3 velocityMax 4704
+//float3 velocityDrag 4720
+//float3x3 velRampTextureTransform 4784
+//float4 velRampTextureUvMinMax 4832
+//float4 velRampTextureBorderColor 4848
+//float2 sizeStart 4864
+//float3 sizeStart3D 4880
+//float2 sizeEnd 4896
+//float3 sizeEnd3D 4912
+//float2 sizeStartMin 4928
+//float3 sizeStartMin3D 4944
+//float2 sizeStartMax 4960
+//float3 sizeStartMax3D 4976
+//float2 sizeEndMin 4992
+//float3 sizeEndMin3D 5008
+//float2 sizeEndMax 5024
+//float3 sizeEndMax3D 5040
+//float sizeSpeed 5056
+//float3x3 sizeRampTextureTransform 5120
+//float4 sizeRampTextureUvMinMax 5168
+//float4 sizeRampTextureBorderColor 5184
+//float gravity 5200
+//float3 localForce 5216
+//float sizeVelScale 5232
+//bool ALIGNTOX 5236
+//bool ALIGNTOY 5240
+//bool ALIGNTOZ 5244
+//float2 rotationRandomX 5248
+//float2 rotationRateX 5256
+//float2 randomRotationY 5264
+//float2 rotationRateY 5272
+//float2 rotationRandom 5280
+//float2 randomRotationZ 5288
+//float2 rotationRate 5296
+//float2 rotationRateZ 5304
+//float rotationDrag 5312
+//bool CENTER_BBOX 5316
+//float fadeDistanceVisible 5320
+//float fadeDistanceInvisible 5324
+//float3x3 trailTexTransform 5376
+//float4 trailTexUvMinMax 5424
+//float4 trailTexBorderColor 5440
+//float4 trailColorRampTexSize 5456
+//float3x3 trailColorRampTexTransform 5504
+//float4 trailColorRampTexUvMinMax 5552
+//float4 trailColorRampTexBorderColor 5568
+//float2 trailFadeStartEnd 5584
+//float2 trailFadeInOut 5592
+//float3 colorStart 5600
+//float3 colorEnd 5616
+//float3 colorMinStart 5632
+//float3 colorMinEnd 5648
+//float3 colorMaxStart 5664
+//float3 colorMaxEnd 5680
+//float alphaStart 5696
+//float alphaEnd 5700
+//float alphaMinStart 5704
+//float alphaMinEnd 5708
+//float alphaMaxStart 5712
+//float alphaMaxEnd 5716
+//float alphaDissolveMult 5720
+//float numValidFrames 5724
+//float2 gridSize 5728
+//float flipBookSpeedMult 5736
+//float flipBookRandomStart 5740
+//float4 colorRampTextureSize 5744
+//float3x3 colorRampTextureTransform 5792
+//float4 colorRampTextureUvMinMax 5840
+//float4 colorRampTextureBorderColor 5856
+//float4 colorRampMult 5872
+//float3x3 mainTextureTransform 5936
+//float4 mainTextureUvMinMax 5984
+//float4 mainTextureBorderColor 6000
+//float3x3 normalTexTransform 6064
+//float4 normalTexUvMinMax 6112
+//float4 normalTexBorderColor 6128
+//float3x3 materialParamsTexTransform 6192
+//float4 materialParamsTexUvMinMax 6240
+//float4 materialParamsTexBorderColor 6256
+//float2 Port_Input1_N138 6280
+//float2 Port_Input1_N139 6288
+//float2 Port_Input1_N140 6296
+//float2 Port_Input1_N144 6304
+//float Port_Input1_N110 6320
+//float Port_Input1_N216 6328
+//float3 Port_Default_N182 6336
+//float3 Port_Emissive_N014 6352
+//float3 Port_AO_N014 6368
+//float3 Port_SpecularAO_N014 6384
+//}
+//spec_const bool ALIGNTOCAMERAUP 0 0
+//spec_const bool ALPHADISSOLVE 1 0
+//spec_const bool ALPHAMINMAX 2 0
+//spec_const bool BASETEXTURE 3 0
+//spec_const bool BLACKASALPHA 4 0
+//spec_const bool BLEND_MODE_AVERAGE 5 0
+//spec_const bool BLEND_MODE_BRIGHT 6 0
+//spec_const bool BLEND_MODE_COLOR_BURN 7 0
+//spec_const bool BLEND_MODE_COLOR_DODGE 8 0
+//spec_const bool BLEND_MODE_COLOR 9 0
+//spec_const bool BLEND_MODE_DARKEN 10 0
+//spec_const bool BLEND_MODE_DIFFERENCE 11 0
+//spec_const bool BLEND_MODE_DIVIDE 12 0
+//spec_const bool BLEND_MODE_DIVISION 13 0
+//spec_const bool BLEND_MODE_EXCLUSION 14 0
+//spec_const bool BLEND_MODE_FORGRAY 15 0
+//spec_const bool BLEND_MODE_HARD_GLOW 16 0
+//spec_const bool BLEND_MODE_HARD_LIGHT 17 0
+//spec_const bool BLEND_MODE_HARD_MIX 18 0
+//spec_const bool BLEND_MODE_HARD_PHOENIX 19 0
+//spec_const bool BLEND_MODE_HARD_REFLECT 20 0
+//spec_const bool BLEND_MODE_HUE 21 0
+//spec_const bool BLEND_MODE_INTENSE 22 0
+//spec_const bool BLEND_MODE_LIGHTEN 23 0
+//spec_const bool BLEND_MODE_LINEAR_LIGHT 24 0
+//spec_const bool BLEND_MODE_LUMINOSITY 25 0
+//spec_const bool BLEND_MODE_NEGATION 26 0
+//spec_const bool BLEND_MODE_NOTBRIGHT 27 0
+//spec_const bool BLEND_MODE_OVERLAY 28 0
+//spec_const bool BLEND_MODE_PIN_LIGHT 29 0
+//spec_const bool BLEND_MODE_REALISTIC 30 0
+//spec_const bool BLEND_MODE_SATURATION 31 0
+//spec_const bool BLEND_MODE_SOFT_LIGHT 32 0
+//spec_const bool BLEND_MODE_SUBTRACT 33 0
+//spec_const bool BLEND_MODE_VIVID_LIGHT 34 0
+//spec_const bool BOXSPAWN 35 0
+//spec_const bool COLORMINMAX 36 0
+//spec_const bool COLORMONOMIN 37 0
+//spec_const bool COLORRAMP 38 0
+//spec_const bool ENABLE_SIZERAMPSTARTENDASBOUNDS 39 0
+//spec_const bool ENABLE_STIPPLE_PATTERN_TEST 40 0
+//spec_const bool EXTERNALTIME 41 0
+//spec_const bool FLIPBOOKBLEND 42 0
+//spec_const bool FLIPBOOKBYLIFE 43 0
+//spec_const bool FLIPBOOK 44 0
+//spec_const bool FORCE 45 0
+//spec_const bool IGNORETRANSFORMSCALE 46 0
+//spec_const bool IGNOREVEL 47 0
+//spec_const bool INILOCATION 48 0
+//spec_const bool INSTANTSPAWN 49 0
+//spec_const bool LIFETIMEMINMAX 50 0
+//spec_const bool NOISE 51 0
+//spec_const bool NORANDOFFSET 52 0
+//spec_const bool PBRNORMALTEX 53 0
+//spec_const bool PBR 54 0
+//spec_const bool PREMULTIPLIEDCOLOR 55 0
+//spec_const bool SCREENFADE 56 0
+//spec_const bool SC_USE_CLAMP_TO_BORDER_colorRampTexture 57 0
+//spec_const bool SC_USE_CLAMP_TO_BORDER_intensityTexture 58 0
+//spec_const bool SC_USE_CLAMP_TO_BORDER_mainTexture 59 0
+//spec_const bool SC_USE_CLAMP_TO_BORDER_materialParamsTex 60 0
+//spec_const bool SC_USE_CLAMP_TO_BORDER_normalTex 61 0
+//spec_const bool SC_USE_CLAMP_TO_BORDER_sizeRampTexture 62 0
+//spec_const bool SC_USE_CLAMP_TO_BORDER_trailColorRampTex 63 0
+//spec_const bool SC_USE_CLAMP_TO_BORDER_trailSizeRampTex 64 0
+//spec_const bool SC_USE_CLAMP_TO_BORDER_trailTex 65 0
+//spec_const bool SC_USE_CLAMP_TO_BORDER_velRampTexture 66 0
+//spec_const bool SC_USE_UV_MIN_MAX_colorRampTexture 67 0
+//spec_const bool SC_USE_UV_MIN_MAX_intensityTexture 68 0
+//spec_const bool SC_USE_UV_MIN_MAX_mainTexture 69 0
+//spec_const bool SC_USE_UV_MIN_MAX_materialParamsTex 70 0
+//spec_const bool SC_USE_UV_MIN_MAX_normalTex 71 0
+//spec_const bool SC_USE_UV_MIN_MAX_sizeRampTexture 72 0
+//spec_const bool SC_USE_UV_MIN_MAX_trailColorRampTex 73 0
+//spec_const bool SC_USE_UV_MIN_MAX_trailSizeRampTex 74 0
+//spec_const bool SC_USE_UV_MIN_MAX_trailTex 75 0
+//spec_const bool SC_USE_UV_MIN_MAX_velRampTexture 76 0
+//spec_const bool SC_USE_UV_TRANSFORM_colorRampTexture 77 0
+//spec_const bool SC_USE_UV_TRANSFORM_intensityTexture 78 0
+//spec_const bool SC_USE_UV_TRANSFORM_mainTexture 79 0
+//spec_const bool SC_USE_UV_TRANSFORM_materialParamsTex 80 0
+//spec_const bool SC_USE_UV_TRANSFORM_normalTex 81 0
+//spec_const bool SC_USE_UV_TRANSFORM_sizeRampTexture 82 0
+//spec_const bool SC_USE_UV_TRANSFORM_trailColorRampTex 83 0
+//spec_const bool SC_USE_UV_TRANSFORM_trailSizeRampTex 84 0
+//spec_const bool SC_USE_UV_TRANSFORM_trailTex 85 0
+//spec_const bool SC_USE_UV_TRANSFORM_velRampTexture 86 0
+//spec_const bool SIZEMINMAX 87 0
+//spec_const bool SIZERAMP 88 0
+//spec_const bool SNOISE 89 0
+//spec_const bool SPHERESPAWN 90 0
+//spec_const bool TRAILCOLORRAMP 91 0
+//spec_const bool TRAILSIZERAMPSTARTENDASBOUNDS 92 0
+//spec_const bool TRAILSIZERAMP 93 0
+//spec_const bool TRAILS 94 0
+//spec_const bool TRAILTEXTURE 95 0
+//spec_const bool TRAILTWIST 96 0
+//spec_const bool UseViewSpaceDepthVariant 97 1
+//spec_const bool VELOCITYDIR 98 0
+//spec_const bool VELRAMP 99 0
+//spec_const bool WORLDPOSSEED 100 0
+//spec_const bool colorRampTextureHasSwappedViews 101 0
+//spec_const bool intensityTextureHasSwappedViews 102 0
+//spec_const bool mainTextureHasSwappedViews 103 0
+//spec_const bool materialParamsTexHasSwappedViews 104 0
+//spec_const bool normalTexHasSwappedViews 105 0
+//spec_const bool sc_BlendMode_AddWithAlphaFactor 106 0
+//spec_const bool sc_BlendMode_Add 107 0
+//spec_const bool sc_BlendMode_AlphaTest 108 0
+//spec_const bool sc_BlendMode_AlphaToCoverage 109 0
+//spec_const bool sc_BlendMode_ColoredGlass 110 0
+//spec_const bool sc_BlendMode_Custom 111 0
+//spec_const bool sc_BlendMode_Max 112 0
+//spec_const bool sc_BlendMode_Min 113 0
+//spec_const bool sc_BlendMode_MultiplyOriginal 114 0
+//spec_const bool sc_BlendMode_Multiply 115 0
+//spec_const bool sc_BlendMode_Normal 116 0
+//spec_const bool sc_BlendMode_PremultipliedAlphaAuto 117 0
+//spec_const bool sc_BlendMode_PremultipliedAlphaHardware 118 0
+//spec_const bool sc_BlendMode_PremultipliedAlpha 119 0
+//spec_const bool sc_BlendMode_Screen 120 0
+//spec_const bool sc_DepthOnly 121 0
+//spec_const bool sc_EnvmapDiffuseHasSwappedViews 122 0
+//spec_const bool sc_EnvmapSpecularHasSwappedViews 123 0
+//spec_const bool sc_FramebufferFetch 124 0
+//spec_const bool sc_HasDiffuseEnvmap 125 0
+//spec_const bool sc_LightEstimation 126 0
+//spec_const bool sc_MotionVectorsPass 127 0
+//spec_const bool sc_OITCompositingPass 128 0
+//spec_const bool sc_OITDepthBoundsPass 129 0
+//spec_const bool sc_OITDepthGatherPass 130 0
+//spec_const bool sc_ProjectiveShadowsCaster 131 0
+//spec_const bool sc_ProjectiveShadowsReceiver 132 0
+//spec_const bool sc_RayTracedAoTextureHasSwappedViews 133 0
+//spec_const bool sc_RayTracedDiffIndTextureHasSwappedViews 134 0
+//spec_const bool sc_RayTracedReflectionTextureHasSwappedViews 135 0
+//spec_const bool sc_RayTracedShadowTextureHasSwappedViews 136 0
+//spec_const bool sc_RenderAlphaToColor 137 0
+//spec_const bool sc_SSAOEnabled 138 0
+//spec_const bool sc_ScreenTextureHasSwappedViews 139 0
+//spec_const bool sc_ShaderComplexityAnalyzer 140 0
+//spec_const bool sc_TAAEnabled 141 0
+//spec_const bool sc_UseFramebufferFetchMarker 142 0
+//spec_const bool sc_VertexBlendingUseNormals 143 0
+//spec_const bool sc_VertexBlending 144 0
+//spec_const bool sizeRampTextureHasSwappedViews 145 0
+//spec_const bool trailColorRampTexHasSwappedViews 146 0
+//spec_const bool trailSizeRampTexHasSwappedViews 147 0
+//spec_const bool trailTexHasSwappedViews 148 0
+//spec_const bool velRampTextureHasSwappedViews 149 0
+//spec_const int MESHTYPE 150 0
+//spec_const int SC_DEVICE_CLASS 151 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_U_colorRampTexture 152 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_U_intensityTexture 153 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_U_mainTexture 154 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_U_materialParamsTex 155 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_U_normalTex 156 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_U_sizeRampTexture 157 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_U_trailColorRampTex 158 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_U_trailSizeRampTex 159 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_U_trailTex 160 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_U_velRampTexture 161 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_V_colorRampTexture 162 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_V_intensityTexture 163 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_V_mainTexture 164 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_V_materialParamsTex 165 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_V_normalTex 166 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_V_sizeRampTexture 167 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_V_trailColorRampTex 168 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_V_trailSizeRampTex 169 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_V_trailTex 170 -1
+//spec_const int SC_SOFTWARE_WRAP_MODE_V_velRampTexture 171 -1
+//spec_const int TRAILBEHAVIOR 172 0
+//spec_const int colorRampTextureLayout 173 0
+//spec_const int intensityTextureLayout 174 0
+//spec_const int mainTextureLayout 175 0
+//spec_const int materialParamsTexLayout 176 0
+//spec_const int normalTexLayout 177 0
+//spec_const int rotationSpace 178 0
+//spec_const int sc_AmbientLightMode0 179 0
+//spec_const int sc_AmbientLightMode1 180 0
+//spec_const int sc_AmbientLightMode2 181 0
+//spec_const int sc_AmbientLightMode_Constant 182 0
+//spec_const int sc_AmbientLightMode_EnvironmentMap 183 0
+//spec_const int sc_AmbientLightMode_FromCamera 184 0
+//spec_const int sc_AmbientLightMode_SphericalHarmonics 185 0
+//spec_const int sc_AmbientLightsCount 186 0
+//spec_const int sc_DepthBufferMode 187 0
+//spec_const int sc_DirectionalLightsCount 188 0
+//spec_const int sc_EnvLightMode 189 0
+//spec_const int sc_EnvmapDiffuseLayout 190 0
+//spec_const int sc_EnvmapSpecularLayout 191 0
+//spec_const int sc_LightEstimationSGCount 192 0
+//spec_const int sc_MaxTextureImageUnits 193 0
+//spec_const int sc_PointLightsCount 194 0
+//spec_const int sc_RayTracedAoTextureLayout 195 0
+//spec_const int sc_RayTracedDiffIndTextureLayout 196 0
+//spec_const int sc_RayTracedReflectionTextureLayout 197 0
+//spec_const int sc_RayTracedShadowTextureLayout 198 0
+//spec_const int sc_RenderingSpace 199 -1
+//spec_const int sc_ScreenTextureLayout 200 0
+//spec_const int sc_ShaderCacheConstant 201 0
+//spec_const int sc_SkinBonesCount 202 0
+//spec_const int sc_StereoRenderingMode 203 0
+//spec_const int sc_StereoRendering_IsClipDistanceEnabled 204 0
+//spec_const int sizeRampTextureLayout 205 0
+//spec_const int trailColorRampTexLayout 206 0
+//spec_const int trailSizeRampTexLayout 207 0
+//spec_const int trailTexLayout 208 0
+//spec_const int velRampTextureLayout 209 0
+//SG_REFLECTION_END

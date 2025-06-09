@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    8e979025-526c-44ca-bbab-7990c4fad882: ebb9593d-a02d-42c6-a755-c376a2dc7af0/511407b7436770451729650ba436eef5/Data/__Plane.002_Hibi_0.mesh
+  Assets:
+    - !<FileMesh/8e979025-526c-44ca-bbab-7990c4fad882>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 1784
+        Vertices: 1083
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.798619, y: 0.257554, z: 0.796136}
+  SourceHash: 511407b7436770451729650ba436eef5
+  FileHash: e0ab5780eb27e00816150b2eeb241d61
+  NativePackageItems:
+    []

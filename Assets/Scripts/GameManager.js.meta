@@ -1,0 +1,96 @@
+- !<AssetImportMetadata/e8153c78-76c4-45aa-b345-b24568b44d0c>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> c5c58f07-1d9b-4371-97e7-9cd1b6b7c63f
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> c5c58f07-1d9b-4371-97e7-9cd1b6b7c63f
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 592342b8-12dd-4390-a028-575c69dcd281
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/592342b8-12dd-4390-a028-575c69dcd281>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: f19a9769-f8cf-4e92-bd9f-be1839b8db1d
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    FFShrink: false
+    UIEarthShrink: false
+    UIPinchShrink: false
+    UIRiseShrink: false
+    ancestorsShrink: false
+    bkndComponent: false
+    bkndTrack: false
+    breathingAni: false
+    earthManager: false
+    gameObjects: false
+    giftManager: false
+    gifts: false
+    hostWaitingMessageText: false
+    multiplayerButton: false
+    musicComponent: false
+    musicTracks: false
+    plants: false
+    playerCountText: false
+    readyButton: false
+    singlePlayerButton: false
+    touchtheEarth: false
+    uiElements: false
+    visualsForPlayer2: false
+    voComponent: false
+    voTracks: false
+    voiceManager: false
+    waitingMessageText: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - uiElements: !<reference.SceneObject[]>
+        []
+      voTracks: !<reference.AudioTrackAsset[]>
+        []
+      bkndTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
+      musicTracks: !<reference.AudioTrackAsset[]>
+        []
+      voComponent: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      bkndComponent: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      musicComponent: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      readyButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      visualsForPlayer2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      waitingMessageText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      hostWaitingMessageText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      playerCountText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      singlePlayerButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      multiplayerButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      gameObjects: !<reference.SceneObject[]>
+        []
+      breathingAni: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      voiceManager: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      giftManager: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      earthManager: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      touchtheEarth: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      FFShrink: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      gifts: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      plants: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      ancestorsShrink: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      UIRiseShrink: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      UIPinchShrink: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      UIEarthShrink: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    1a3f68ce-f357-4263-bb1b-a8589b51415a: 6a20d701-e03c-4701-9ece-cdee6fe94087/7afcf61ddc6664f445de5e9c7b542a25/Data/FriendshipBraceletDiffuse.jpg
+  Assets:
+    - !<FileTexture/1a3f68ce-f357-4263-bb1b-a8589b51415a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 7afcf61ddc6664f445de5e9c7b542a25
+  FileHash: 570da3ddbd54ee8a57ae4d488cebc8f4
+  NativePackageItems:
+    []

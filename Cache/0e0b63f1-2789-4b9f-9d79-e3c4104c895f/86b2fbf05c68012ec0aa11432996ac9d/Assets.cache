@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    21a3946a-9499-4a04-8f24-7c0832eac251: 0e0b63f1-2789-4b9f-9d79-e3c4104c895f/86b2fbf05c68012ec0aa11432996ac9d/Data/WageLoveVO6.mp3
+  Assets:
+    - !<FileAudioTrack/21a3946a-9499-4a04-8f24-7c0832eac251>
+      PackagePath: ""
+  SourceHash: 86b2fbf05c68012ec0aa11432996ac9d
+  FileHash: d713284063ec5e38d6d180ce538c6f08
+  NativePackageItems:
+    []

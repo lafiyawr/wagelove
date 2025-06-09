@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    b7775351-169d-4065-bf12-209f951b3e9f: e1bf8962-8816-2c76-0989-51a507106338/10a6a86bd1bf7bc45556b852761b2924/Data/Grass 3_0.002.mesh
+  Assets:
+    - !<FileMesh/b7775351-169d-4065-bf12-209f951b3e9f>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 480
+        Vertices: 350
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 2.352655, y: 1.804901, z: 2.546970}
+  SourceHash: 10a6a86bd1bf7bc45556b852761b2924
+  FileHash: 31e67444c657d4b83f927ea47dcabe48
+  NativePackageItems:
+    []

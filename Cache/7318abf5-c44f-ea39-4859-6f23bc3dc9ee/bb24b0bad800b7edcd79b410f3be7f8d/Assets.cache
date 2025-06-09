@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    162c1e93-2a11-4aa7-bd26-6eafbbf89ea6: 7318abf5-c44f-ea39-4859-6f23bc3dc9ee/bb24b0bad800b7edcd79b410f3be7f8d/Data/flower.png
+  Assets:
+    - !<FileTexture/162c1e93-2a11-4aa7-bd26-6eafbbf89ea6>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1536
+        Height: 1024
+  SourceHash: bb24b0bad800b7edcd79b410f3be7f8d
+  FileHash: 54f8e7fa91c2066bb832fbf353985227
+  NativePackageItems:
+    []

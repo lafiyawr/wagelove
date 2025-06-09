@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    0308d7ac-0372-4b4d-864a-06d74e86c481: 94e4970f-1aca-1008-012f-3547f4c1af48/f26977fdf5097585535dea7325c22727/Data/leaves1.jpg
+  Assets:
+    - !<FileTexture/0308d7ac-0372-4b4d-864a-06d74e86c481>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: f26977fdf5097585535dea7325c22727
+  FileHash: 54c818044f01a06359b8b17ab2dcea9d
+  NativePackageItems:
+    []

@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    6aae17b5-de7e-44b6-801b-6775f901149d: 48c2f33f-93c4-4c62-c430-f7ce6a74466f/6bdd2f8f662b57a46011d2f3e523a822/Data/earth_Material.001_0.001.mesh
+  Assets:
+    - !<FileMesh/6aae17b5-de7e-44b6-801b-6775f901149d>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 960
+        Vertices: 559
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 2.000000, y: 2.000000, z: 2.000000}
+  SourceHash: 6bdd2f8f662b57a46011d2f3e523a822
+  FileHash: bf5271f9ef14e4c2eb50e318039bd142
+  NativePackageItems:
+    []

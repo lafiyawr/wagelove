@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    9ee01921-619c-4f44-a2ca-7b0c5a9e1e2f: 0ac7084b-1bae-7143-8378-667b607ceb76/872be9ce8489a9e797e30a23c11b4146/Data/Red Panda Box.png
+  Assets:
+    - !<FileTexture/9ee01921-619c-4f44-a2ca-7b0c5a9e1e2f>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 528
+  SourceHash: 872be9ce8489a9e797e30a23c11b4146
+  FileHash: a1d0f84d648b6b3386d37b755698164b
+  NativePackageItems:
+    []

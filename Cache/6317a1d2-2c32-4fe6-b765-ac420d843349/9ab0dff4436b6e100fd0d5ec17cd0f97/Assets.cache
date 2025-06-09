@@ -1,0 +1,262 @@
+- !<AssetCache>
+  AssetFiles:
+    c3af2c2a-8aa8-40fd-9443-28fc7ed856b1: 6317a1d2-2c32-4fe6-b765-ac420d843349/9ab0dff4436b6e100fd0d5ec17cd0f97/Data/Ray.ss_graph
+  Assets:
+    - !<ShaderGraphPass/c3af2c2a-8aa8-40fd-9443-28fc7ed856b1>
+      PackagePath: ""
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 1.000000
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_GSplatPointSize_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input0_N014:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input0_N016:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input1_N007:
+          typeIdx: 1
+          value: -0.500000
+        Port_Input1_N034:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input2_N034:
+          typeIdx: 1
+          value: 1.000000
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Scale_N022:
+          typeIdx: 3
+          value: {x: 10.000000, y: 10.000000}
+        Port_Value3_N019:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N035:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N019:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N035:
+          typeIdx: 1
+          value: 0.000000
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_WorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 1.000000}
+      PassUiData: !<PassUiData>
+        ExtraDefines:
+          []
+        PassBindings:
+          - mLabel: Graph Parameters
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Main Color
+            mType: Property
+            mName: Tweak_N1
+            mWidget: color
+            mHint: "Property: Tweak_N1"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Second Color
+            mType: Property
+            mName: Tweak_N2
+            mWidget: color
+            mHint: "Property: Tweak_N2"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Scale
+            mType: Property
+            mName: Tweak_N9
+            mWidget: slider
+            mHint: "Property: Tweak_N9"
+            mMin: 0.000000
+            mMax: 20.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Direction
+            mType: Property
+            mName: Tweak_N12
+            mWidget: slider
+            mHint: "Property: Tweak_N12"
+            mMin: -5.000000
+            mMax: 5.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Shear
+            mType: Property
+            mName: Tweak_N15
+            mWidget: slider
+            mHint: "Property: Tweak_N15"
+            mMin: 0.000000
+            mMax: 10.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Fade Y
+            mType: Property
+            mName: Tweak_N31
+            mWidget: slider
+            mHint: "Property: Tweak_N31"
+            mMin: 0.000000
+            mMax: 5.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Animated
+            mType: Define
+            mName: animated
+            mWidget: group_start
+            mHint: "Define: animated"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Speed
+            mType: Property
+            mName: Tweak_N21
+            mWidget: spinbox
+            mHint: "Property: Tweak_N21"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: animated
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Offset
+            mType: Property
+            mName: Offset
+            mWidget: slider
+            mHint: "Property: Offset"
+            mMin: 0.000000
+            mMax: 10.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Data fram Script
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Intensity
+            mType: Property
+            mName: intensity
+            mWidget: spinbox
+            mHint: "Property: intensity"
+            mMin: ~
+            mMax: ~
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: |-
+              Property: alphaTestThreshold
+              
+              When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear.
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.001000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+        ShaderType: PostProcessing
+      ShaderPath: 6317a1d2-2c32-4fe6-b765-ac420d843349/9ab0dff4436b6e100fd0d5ec17cd0f97/Data/81578ed/Ray.glsl
+      Defines:
+        []
+      Properties:
+        {}
+  SourceHash: 9ab0dff4436b6e100fd0d5ec17cd0f97
+  FileHash: bc722dee7cb89b5f62b3fa133ca2b53b
+  NativePackageItems:
+    []

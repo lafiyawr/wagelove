@@ -1,0 +1,38 @@
+- !<AssetImportMetadata/fc99dcba-30dd-4ff1-9682-49df73df569e>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> fb887ffd-abc9-4841-a964-8808425363ad
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> fb887ffd-abc9-4841-a964-8808425363ad
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 651ce04b-331c-4107-b2cb-3b1f2b2b0ca5
+  DependentFiles: []
+  ImporterSettings: !<AssetImporterSettings/09ee168f-d327-44b6-9593-0d5ad18df616> {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  ExtraData:
+    AssetLibraryId: 5li1Dy6mjwLK8hYJxghEpC
+- !<ScriptAssetData/651ce04b-331c-4107-b2cb-3b1f2b2b0ca5>
+  SvgIcon: ""
+  Description: Allows you to control GPU Particles using events, such as mouth open and tap.
+  InternalVersion: 1
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 79f4bb69-c4c6-4e3d-9547-6cd01ee84c2a
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    endBehavior: false
+    particleVisual: false
+    spawnMaxParticles: false
+    startBehavior: false
+  ScriptTypesHidden: {}
+  DefaultScriptInputs:
+    - particleVisual: !<reference.MaterialMeshVisual> 00000000-0000-0000-0000-000000000000
+      spawnMaxParticles: 100
+      startBehavior: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      endBehavior: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    - {}

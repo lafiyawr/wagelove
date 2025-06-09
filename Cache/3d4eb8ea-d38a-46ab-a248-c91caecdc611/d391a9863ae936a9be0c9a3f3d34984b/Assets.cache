@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    f0015de8-21c3-469a-9de7-37f675ce7b91: 3d4eb8ea-d38a-46ab-a248-c91caecdc611/d391a9863ae936a9be0c9a3f3d34984b/Data/BraceletSquareBeads.mesh
+  Assets:
+    - !<FileMesh/f0015de8-21c3-469a-9de7-37f675ce7b91>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 864
+        Vertices: 672
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 5.641177, y: 1.652785, z: 4.879494}
+  SourceHash: d391a9863ae936a9be0c9a3f3d34984b
+  FileHash: b61d5c8a55fb5916ca6d97d02cd67c53
+  NativePackageItems:
+    []

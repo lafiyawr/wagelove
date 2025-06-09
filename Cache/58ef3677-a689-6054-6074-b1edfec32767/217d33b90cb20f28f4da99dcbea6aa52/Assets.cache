@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    60666fbd-78b0-4f63-aef2-13ac87ccdcee: 58ef3677-a689-6054-6074-b1edfec32767/217d33b90cb20f28f4da99dcbea6aa52/Data/PE_Wave_Vector.png
+  Assets:
+    - !<FileTexture/60666fbd-78b0-4f63-aef2-13ac87ccdcee>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 217d33b90cb20f28f4da99dcbea6aa52
+  FileHash: 7c7d42bd484848ec50c45b0f02fc24b1
+  NativePackageItems:
+    []

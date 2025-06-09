@@ -1,0 +1,121 @@
+- !<AssetImportMetadata/d5caa8f8-3980-4551-843a-40799b415ac9>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> eac984c5-fe78-4502-a686-23badca202dc
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> eac984c5-fe78-4502-a686-23badca202dc
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> dfbbe5c4-cf3f-4f39-9470-4b995eb81ab3
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/225b231e-0e7f-4252-af16-c68b75a9d601>
+  PrefabRemaps:
+    []
+  Name: ring reach
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 48a9e319-8c04-416d-b16e-d17de8e885ad
+- !<ObjectPrefab/29ad7183-31dd-44a7-88b0-7086ef93e6f1>
+  PackagePath: ""
+  objects:
+    - !<own> feb4929e-e490-4241-a173-17552eb2d0cf
+  LazyLoading: false
+  RetainAssets: true
+- !<RenderMeshVisual/48a9e319-8c04-416d-b16e-d17de8e885ad>
+  PrefabRemaps:
+    []
+  Name: Circle.003
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c4c4b82b-1c57-4d2e-88df-c22191d4ab82
+  Mesh: !<reference> 705410e6-d5c9-4db6-8d8d-a72b94137029
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/56c55376-f7bc-4d01-9d6b-a8d0be431e6e>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 75068374-3f39-4a68-aeb9-5c92e6cd5ef1
+  Components:
+    []
+- !<AnimationPlayer/67da0ce0-10f7-4f4e-9a15-1339b2584be9>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    []
+- !<SceneObject/75068374-3f39-4a68-aeb9-5c92e6cd5ef1>
+  PrefabRemaps:
+    []
+  Name: Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 225b231e-0e7f-4252-af16-c68b75a9d601
+  Components:
+    - !<own> 67da0ce0-10f7-4f4e-9a15-1339b2584be9
+- !<ObjectPrefabAssetData/dfbbe5c4-cf3f-4f39-9470-4b995eb81ab3>
+  SourceRemaps:
+    - 4c82202c-7aa7-42ad-9dfe-7d8775a92410: 48a9e319-8c04-416d-b16e-d17de8e885ad
+    - 5b425a5f-a800-4f6e-9c24-bb938084217e: 225b231e-0e7f-4252-af16-c68b75a9d601
+    - 81bafeaa-9c19-457b-a5e7-a73f610e60d8: 56c55376-f7bc-4d01-9d6b-a8d0be431e6e
+    - b32f18fc-800c-4c0c-9736-af4fab26e977: 75068374-3f39-4a68-aeb9-5c92e6cd5ef1
+    - bacaf60b-b099-4d17-ab45-bcf72c10b06e: 67da0ce0-10f7-4f4e-9a15-1339b2584be9
+    - e53f2a21-fee6-43f2-801b-75b6e13977bd: feb4929e-e490-4241-a173-17552eb2d0cf
+    - eac984c5-fe78-4502-a686-23badca202dc: 29ad7183-31dd-44a7-88b0-7086ef93e6f1
+  SourceState: !<own> 29ad7183-31dd-44a7-88b0-7086ef93e6f1
+- !<SceneObject/feb4929e-e490-4241-a173-17552eb2d0cf>
+  PrefabRemaps:
+    []
+  Name: ring-reach
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 56c55376-f7bc-4d01-9d6b-a8d0be431e6e
+  Components:
+    []

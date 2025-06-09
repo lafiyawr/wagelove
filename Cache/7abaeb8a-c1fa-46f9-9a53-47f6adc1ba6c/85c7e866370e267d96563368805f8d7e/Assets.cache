@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    56621b44-b6e5-4e92-abf7-d25f108f6256: 7abaeb8a-c1fa-46f9-9a53-47f6adc1ba6c/85c7e866370e267d96563368805f8d7e/Data/Beta_Joints.mesh
+  Assets:
+    - !<FileMesh/56621b44-b6e5-4e92-abf7-d25f108f6256>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 20840
+        Vertices: 12473
+        Blendshapes:
+          []
+        Joints: 64
+        AabbSize: {x: 176.693390, y: 159.679337, z: 25.492439}
+  SourceHash: 85c7e866370e267d96563368805f8d7e
+  FileHash: ab1d0ad0e79434e1a08bdc71332e1f20
+  NativePackageItems:
+    []

@@ -1,0 +1,64 @@
+- !<AssetCache>
+  AssetFiles:
+    {}
+  Assets:
+    - !<HandTracking3DAsset/ce42bd00-c7aa-47ae-abc4-3b2464d28467>
+      PackagePath: ""
+      AttachmentPoints:
+        - name: wrist
+          parentPoint: ""
+        - name: wrist_to_thumb
+          parentPoint: wrist
+        - name: thumb-0
+          parentPoint: wrist_to_thumb
+        - name: thumb-1
+          parentPoint: thumb-0
+        - name: thumb-2
+          parentPoint: thumb-1
+        - name: thumb-3
+          parentPoint: thumb-2
+        - name: wrist_to_index
+          parentPoint: wrist
+        - name: index-0
+          parentPoint: wrist_to_index
+        - name: index-1
+          parentPoint: index-0
+        - name: index-2
+          parentPoint: index-1
+        - name: index-3
+          parentPoint: index-2
+        - name: wrist_to_mid
+          parentPoint: wrist
+        - name: mid-0
+          parentPoint: wrist_to_mid
+        - name: mid-1
+          parentPoint: mid-0
+        - name: mid-2
+          parentPoint: mid-1
+        - name: mid-3
+          parentPoint: mid-2
+        - name: wrist_to_ring
+          parentPoint: wrist
+        - name: ring-0
+          parentPoint: wrist_to_ring
+        - name: ring-1
+          parentPoint: ring-0
+        - name: ring-2
+          parentPoint: ring-1
+        - name: ring-3
+          parentPoint: ring-2
+        - name: wrist_to_pinky
+          parentPoint: wrist
+        - name: pinky-0
+          parentPoint: wrist_to_pinky
+        - name: pinky-1
+          parentPoint: pinky-0
+        - name: pinky-2
+          parentPoint: pinky-1
+        - name: pinky-3
+          parentPoint: pinky-2
+      HandType: Right
+  SourceHash: a3804d9ac593f8ee17ae985c5af33936
+  FileHash: 43616e521d57866ea9ff9d079589f179
+  NativePackageItems:
+    []

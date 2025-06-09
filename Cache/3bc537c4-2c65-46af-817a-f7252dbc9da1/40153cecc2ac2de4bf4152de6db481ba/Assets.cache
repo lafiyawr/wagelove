@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    a2b48264-9dd3-4ee9-b95e-0cdcee144490: 3bc537c4-2c65-46af-817a-f7252dbc9da1/40153cecc2ac2de4bf4152de6db481ba/Data/Diamond params texture.jpg
+  Assets:
+    - !<FileTexture/a2b48264-9dd3-4ee9-b95e-0cdcee144490>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1
+        Height: 1
+  SourceHash: 40153cecc2ac2de4bf4152de6db481ba
+  FileHash: 57bcdc324756a65b2f26e3415a05a128
+  NativePackageItems:
+    []

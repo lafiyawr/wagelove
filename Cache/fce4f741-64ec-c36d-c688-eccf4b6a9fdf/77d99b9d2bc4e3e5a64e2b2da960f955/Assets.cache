@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    6fd537be-f5fa-48b0-bf3e-8df5b404f322: fce4f741-64ec-c36d-c688-eccf4b6a9fdf/77d99b9d2bc4e3e5a64e2b2da960f955/Data/GirlTutorial.webp
+  Assets:
+    - !<FileTexture/6fd537be-f5fa-48b0-bf3e-8df5b404f322>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 77d99b9d2bc4e3e5a64e2b2da960f955
+  FileHash: 2f9c0878cdcd4b49c3c9ff3b7c5025b9
+  NativePackageItems:
+    []

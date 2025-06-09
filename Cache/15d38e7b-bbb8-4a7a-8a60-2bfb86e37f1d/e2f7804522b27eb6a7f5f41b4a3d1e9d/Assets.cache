@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    05ccd68e-128e-4ccd-82d1-6ec8f5abd796: 15d38e7b-bbb8-4a7a-8a60-2bfb86e37f1d/e2f7804522b27eb6a7f5f41b4a3d1e9d/Data/halooutline.png
+  Assets:
+    - !<FileTexture/05ccd68e-128e-4ccd-82d1-6ec8f5abd796>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: e2f7804522b27eb6a7f5f41b4a3d1e9d
+  FileHash: 0a9e65baef8e79fd2ee3975f4c92524e
+  NativePackageItems:
+    []

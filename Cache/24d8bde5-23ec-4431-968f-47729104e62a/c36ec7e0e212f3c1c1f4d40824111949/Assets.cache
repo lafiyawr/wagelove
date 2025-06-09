@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    ec7157fd-b395-4ab9-a5cd-d4fd38455b36: 24d8bde5-23ec-4431-968f-47729104e62a/c36ec7e0e212f3c1c1f4d40824111949/Data/WatchBandBase.png
+  Assets:
+    - !<FileTexture/ec7157fd-b395-4ab9-a5cd-d4fd38455b36>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 2048
+        Height: 2048
+  SourceHash: c36ec7e0e212f3c1c1f4d40824111949
+  FileHash: 4a1170bc242c1d02d1a638a5cdd7a297
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    4cd5c6f7-b51a-44ac-adee-1a2efc9f9815: 9081e9f5-0b4d-919f-c4ac-3452d0816e58/b0fa43492e3caddaf1e35f50d169f6b5/Data/info_card.png
+  Assets:
+    - !<FileTexture/4cd5c6f7-b51a-44ac-adee-1a2efc9f9815>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 800
+        Height: 800
+  SourceHash: b0fa43492e3caddaf1e35f50d169f6b5
+  FileHash: 1147d7d8a025721a9d9d611bf2975367
+  NativePackageItems:
+    []

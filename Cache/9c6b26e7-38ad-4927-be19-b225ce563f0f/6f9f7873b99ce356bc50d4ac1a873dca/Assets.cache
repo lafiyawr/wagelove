@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    da80ac81-6f90-43df-8bba-a38c409c239c: 9c6b26e7-38ad-4927-be19-b225ce563f0f/6f9f7873b99ce356bc50d4ac1a873dca/Data/wrldspace_urchin.mesh
+  Assets:
+    - !<FileMesh/da80ac81-6f90-43df-8bba-a38c409c239c>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 663
+        Vertices: 1326
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 271.790558, y: 272.826172, z: 272.238464}
+  SourceHash: 6f9f7873b99ce356bc50d4ac1a873dca
+  FileHash: 2f39fbf0cdba26c3dc829cf0946f1299
+  NativePackageItems:
+    []

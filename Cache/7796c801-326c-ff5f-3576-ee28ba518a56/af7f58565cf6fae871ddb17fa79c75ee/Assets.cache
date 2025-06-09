@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    0fabdef8-2288-4f5b-85b2-e609afa4d4fe: 7796c801-326c-ff5f-3576-ee28ba518a56/af7f58565cf6fae871ddb17fa79c75ee/Data/Rocket Hull.mesh
+  Assets:
+    - !<FileMesh/0fabdef8-2288-4f5b-85b2-e609afa4d4fe>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 5193
+        Vertices: 3995
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 9.130516, y: 9.130516, z: 16.747343}
+  SourceHash: af7f58565cf6fae871ddb17fa79c75ee
+  FileHash: 5e894822b4afb0bee7959e1a6aa7ed9c
+  NativePackageItems:
+    []

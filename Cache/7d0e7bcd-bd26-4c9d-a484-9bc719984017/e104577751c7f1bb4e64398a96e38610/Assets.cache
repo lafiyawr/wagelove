@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    7322e4d5-0fbc-4671-ae76-031680492ce2: 7d0e7bcd-bd26-4c9d-a484-9bc719984017/e104577751c7f1bb4e64398a96e38610/Data/Soap_bubble_specular.png
+  Assets:
+    - !<FileTexture/7322e4d5-0fbc-4671-ae76-031680492ce2>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 350
+        Height: 350
+  SourceHash: e104577751c7f1bb4e64398a96e38610
+  FileHash: 939efa0ceab526b9701aaaa1833f97fa
+  NativePackageItems:
+    []

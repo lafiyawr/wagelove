@@ -1,0 +1,74 @@
+- !<AssetImportMetadata/f7f0c15a-4179-4887-8db2-2f7ba21d5140>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 0c78304f-1e9a-4ec7-b794-90a382e2236a
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 0c78304f-1e9a-4ec7-b794-90a382e2236a
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> eda74029-3025-4028-85d3-65f142be51a9
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/eda74029-3025-4028-85d3-65f142be51a9>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 815ea73a-2108-459b-ac41-35eec09088d9
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    bkndComponent: false
+    bkndTrack: false
+    breathingAni: false
+    gameObjects: false
+    hostWaitingMessageText: false
+    multiplayerButton: false
+    musicComponent: false
+    musicTracks: false
+    playerCountText: false
+    readyButton: false
+    singlePlayerButton: false
+    uiElements: false
+    visualsForPlayer2: false
+    voComponent: false
+    voTracks: false
+    waitingMessageText: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - uiElements: !<reference.SceneObject[]>
+        []
+      voTracks: !<reference.AudioTrackAsset[]>
+        []
+      bkndTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
+      musicTracks: !<reference.AudioTrackAsset[]>
+        []
+      voComponent: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      bkndComponent: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      musicComponent: !<reference.AudioComponent> 00000000-0000-0000-0000-000000000000
+      readyButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      visualsForPlayer2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      waitingMessageText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      hostWaitingMessageText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      playerCountText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      singlePlayerButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      multiplayerButton: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      gameObjects: !<reference.SceneObject[]>
+        []
+      breathingAni: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

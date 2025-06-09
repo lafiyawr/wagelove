@@ -1,0 +1,30 @@
+- !<AssetCache>
+  AssetFiles:
+    b8ae3577-d34a-48be-9136-0de4716a017f: 7d3222ff-91ec-acda-7073-3c59762a0568/969982b97669b0e3031bff5c2aa13833/Data/SpinnerLoader.t3d
+    7f22c9ef-2412-4da8-a706-1858107ae95c: 7d3222ff-91ec-acda-7073-3c59762a0568/969982b97669b0e3031bff5c2aa13833/Data/spinner_loader_0.png
+  Assets:
+    - !<AnimatedTexture/b8ae3577-d34a-48be-9136-0de4716a017f>
+      PackagePath: ""
+      keyFrames:
+        default:
+          - time: 0.000000
+            value: 0
+          - time: 1.000000
+            value: 25
+      ReverseSupported: true
+      FrameSize: {x: 204, y: 204}
+      AnimationSequences:
+        default: 25
+      AutoPlay: true
+      Reversed: false
+      PingPong: false
+      CurrentSequence: default
+    - !<FileTexture/7f22c9ef-2412-4da8-a706-1858107ae95c>
+      PackagePath: spinner_loader_0.png
+      FileInfo: !<FileTextureInfo>
+        Width: 1020
+        Height: 1020
+  SourceHash: 969982b97669b0e3031bff5c2aa13833
+  FileHash: c05023ff12ce4e03313313a85c3e49ae
+  NativePackageItems:
+    []

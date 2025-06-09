@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    6e249a95-403e-49c2-8053-6cc0bb3aa680: 584b92ef-b617-47cd-a1aa-826def1cabc0/84dbcfef93cbd235ee1b8a24b3a9126f/Data/Simple Heart.mesh
+  Assets:
+    - !<FileMesh/6e249a95-403e-49c2-8053-6cc0bb3aa680>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 1200
+        Vertices: 958
+        Blendshapes:
+          []
+        Joints: 3
+        AabbSize: {x: 0.381821, y: 0.713358, z: 0.382508}
+  SourceHash: 84dbcfef93cbd235ee1b8a24b3a9126f
+  FileHash: f4e63c5552476cf4a0c37d3c0aabf1b3
+  NativePackageItems:
+    []

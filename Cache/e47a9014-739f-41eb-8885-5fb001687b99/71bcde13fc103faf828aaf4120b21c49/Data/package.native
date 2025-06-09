@@ -1,0 +1,31 @@
+- !<NativePackageDescriptor/7fd35446-7bea-43b1-ac35-70bbe5cedf8e>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 9
+    patch: 1
+    build: 25051422
+    type: Unset
+  Description: "3D Text to VFX asset allows you to convert a 3D \ntext object into VFX. You can edit the text content \nin the example 3D text object to make it your own. \n\nThis asset comes with hand interactions that allows\nyou to interact with the particles with your hand, \nbut you can also remove that and create your own \ninteractions. This asset also works on a custom mesh.\n\nTo get started, drag your main camera to Script \nDepth Stencil as an input, if it's not already there."
+  SvgIcon: ""
+  InternalVersion: 0
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  UpdateCheckpoint: 57
+  ExportUid: aead16ca-2dce-4cd1-bb01-c54fe7534910
+  ComponentUid: c0480b43-3065-40bf-9688-468d1dc738c7
+  CurrentVisibility: Locked
+  MaxVisibility: Editable
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure/00000000-0000-0000-0000-000000000000>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0
+  coreVersion: 309
+  clientVersion: 13.3800001

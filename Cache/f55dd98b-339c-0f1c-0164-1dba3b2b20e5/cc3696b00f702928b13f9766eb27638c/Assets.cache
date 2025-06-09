@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    3b560b23-734c-40e8-aff9-95c68cbf46c9: f55dd98b-339c-0f1c-0164-1dba3b2b20e5/cc3696b00f702928b13f9766eb27638c/Data/tripo_node_c153456f-c8e6-4f6c-8af2-d5eb6d716037_Normal_Bake.jpg
+  Assets:
+    - !<FileTexture/3b560b23-734c-40e8-aff9-95c68cbf46c9>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: cc3696b00f702928b13f9766eb27638c
+  FileHash: f165c278e25d9a6e3187d3a30995aa49
+  NativePackageItems:
+    []

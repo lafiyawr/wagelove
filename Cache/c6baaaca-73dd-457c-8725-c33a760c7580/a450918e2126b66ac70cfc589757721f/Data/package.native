@@ -1,0 +1,31 @@
+- !<NativePackageDescriptor/82ac036d-4dd7-4628-a665-595d88b68752>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 9
+    patch: 1
+    build: 25051422
+    type: Unset
+  Description: "Use this asset with the Wrist Binding Custom Component.\nAdds support for partial occlusion of objects around a user's wrist."
+  SvgIcon: ""
+  InternalVersion: 3
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  UpdateCheckpoint: 57
+  ExportUid: 8c6062ac-4cf2-4a90-9d8b-7cb7fd38a2aa
+  ComponentUid: 6a091258-41ea-4d4b-8fb1-d4ba5a352832
+  CurrentVisibility: Locked
+  MaxVisibility: Editable
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0
+  coreVersion: 309
+  clientVersion: 13.3800001

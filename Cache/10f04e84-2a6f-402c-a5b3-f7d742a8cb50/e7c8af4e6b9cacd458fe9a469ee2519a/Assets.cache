@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    b5d56d26-41a5-41a5-95ab-d3827bc744d5: 10f04e84-2a6f-402c-a5b3-f7d742a8cb50/e7c8af4e6b9cacd458fe9a469ee2519a/Data/Gold normalMap texture.png
+  Assets:
+    - !<FileTexture/b5d56d26-41a5-41a5-95ab-d3827bc744d5>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 2048
+        Height: 2048
+  SourceHash: e7c8af4e6b9cacd458fe9a469ee2519a
+  FileHash: 3e4a7d3154cac447e1cf48664b417142
+  NativePackageItems:
+    []

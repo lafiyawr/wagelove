@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    013a1599-8bf8-4202-89f5-d2ea7b2a6a9d: 21337696-9011-2dd7-26f1-49e5c7699fdc/ddbc6828f384469021a236e3d503f18a/Data/ColorRamp WhiteTransparent InOut.png
+  Assets:
+    - !<FileTexture/013a1599-8bf8-4202-89f5-d2ea7b2a6a9d>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 128
+        Height: 2
+  SourceHash: ddbc6828f384469021a236e3d503f18a
+  FileHash: 1ef52f533ced09cc8f98faef9ebe50cb
+  NativePackageItems:
+    []

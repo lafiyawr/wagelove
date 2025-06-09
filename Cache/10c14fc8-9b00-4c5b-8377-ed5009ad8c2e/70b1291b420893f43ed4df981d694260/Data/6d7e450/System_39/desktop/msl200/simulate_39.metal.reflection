@@ -1,0 +1,76 @@
+//SG_REFLECTION_BEGIN(200)
+//attribute vec4 position 0
+//attribute vec2 texture0 3
+//attribute vec2 texture1 4
+//attribute vec3 normal 1
+//attribute vec4 tangent 2
+//output vec4 FragColor0 0
+//output vec4 FragColor1 1
+//output vec4 FragColor2 2
+//output vec4 FragColor3 3
+//sampler sampler renderTarget0SmpSC 0:20
+//sampler sampler renderTarget1SmpSC 0:21
+//sampler sampler renderTarget2SmpSC 0:22
+//sampler sampler renderTarget3SmpSC 0:23
+//texture texture2D renderTarget0 0:1:0:20
+//texture texture2D renderTarget1 0:2:0:21
+//texture texture2D renderTarget2 0:3:0:22
+//texture texture2D renderTarget3 0:4:0:23
+//ubo int UserUniforms 0:31:7472 {
+//float4 sc_Time 1376
+//float4 sc_UniformConstants 1392
+//float4 sc_StereoClipPlanes 3664:[2]:16
+//int overrideTimeEnabled 3980
+//float overrideTimeElapsed 3984:[32]:4
+//float overrideTimeDelta 4112
+//bool vfxBatchEnable 4120:[32]:4
+//float4x4 vfxModelMatrix 4384:[32]:64
+//int vfxOffsetInstancesRead 7108
+//int vfxOffsetInstancesWrite 7112
+//float2 vfxTargetSizeRead 7120
+//float2 vfxTargetSizeWrite 7128
+//int vfxTargetWidth 7136
+//float3 planePos 7152
+//float3 planeNorm 7168
+//float3 Port_Import_N033 7184
+//float3 Port_Min_N034 7200
+//float3 Port_Max_N034 7216
+//float Port_Min_N058 7232
+//float Port_Max_N058 7236
+//float Port_Import_N068 7240
+//float3 Port_Import_N069 7248
+//float3 Port_Import_N075 7264
+//float3 Port_Import_N076 7280
+//float Port_Import_N026 7296
+//float Port_Import_N027 7300
+//float Port_Import_N074 7304
+//float4 Port_Value_N005 7312
+//float Port_Import_N204 7328
+//float Port_Input2_N206 7332
+//float Port_Import_N044 7336
+//float Port_Import_N045 7340
+//float Port_Import_N046 7344
+//float Port_Input4_N080 7348
+//float Port_Multiplier_N272 7352
+//float Port_Import_N121 7392
+//float Port_Import_N122 7396
+//float Port_Input1_N285 7400
+//float Port_VelocityThreshold_N133 7408
+//float Port_DefaultFloat_N134 7412
+//float Port_Input1_N019 7416
+//float4 Port_Min_N052 7424
+//float4 Port_Max_N052 7440
+//float4 Port_Input1_N017 7456
+//}
+//spec_const bool renderTarget0HasSwappedViews 0 0
+//spec_const bool renderTarget1HasSwappedViews 1 0
+//spec_const bool renderTarget2HasSwappedViews 2 0
+//spec_const bool renderTarget3HasSwappedViews 3 0
+//spec_const int renderTarget0Layout 4 0
+//spec_const int renderTarget1Layout 5 0
+//spec_const int renderTarget2Layout 6 0
+//spec_const int renderTarget3Layout 7 0
+//spec_const int sc_ShaderCacheConstant 8 0
+//spec_const int sc_StereoRenderingMode 9 0
+//spec_const int sc_StereoRendering_IsClipDistanceEnabled 10 0
+//SG_REFLECTION_END

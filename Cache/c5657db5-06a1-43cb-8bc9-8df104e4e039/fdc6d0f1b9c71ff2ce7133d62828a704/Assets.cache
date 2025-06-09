@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    911f4a1d-0ffe-4607-b91f-890063e449eb: c5657db5-06a1-43cb-8bc9-8df104e4e039/fdc6d0f1b9c71ff2ce7133d62828a704/Data/340368__hargissssound__bird-sanctuary-nj-loop.mp3
+  Assets:
+    - !<FileAudioTrack/911f4a1d-0ffe-4607-b91f-890063e449eb>
+      PackagePath: ""
+  SourceHash: fdc6d0f1b9c71ff2ce7133d62828a704
+  FileHash: 552256bf0264e5829e94f87bb69e0e57
+  NativePackageItems:
+    []

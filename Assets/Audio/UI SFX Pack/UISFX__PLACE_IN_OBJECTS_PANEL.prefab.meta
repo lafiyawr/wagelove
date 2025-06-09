@@ -1,0 +1,706 @@
+- !<AssetImportMetadata/116c3683-65f1-40d7-bf7c-c8aef118c287>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> a7cdd346-f974-40f9-a300-bc3d579688ac
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> a7cdd346-f974-40f9-a300-bc3d579688ac
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    AssetLibraryId: fyRK4FxT9yiqMlAqosLCw
+  AssetDataMap:
+    ObjectPrefab: !<own> 32b7633f-6d5f-4eec-97af-b27e3c69e8c2
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/014c4f51-f5d7-4c4f-815c-5f1d26da8516>
+  PrefabRemaps:
+    []
+  Name: Notification 2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 236e0de2-fc84-4743-943d-e7f203cd8d7d
+- !<AudioComponent/066fba01-c181-4af8-840f-b3c6f8926200>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 7ed98c1f-8bc5-4035-9096-b705585a8fd3
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<SceneObject/18f1df33-147a-428c-9888-45151f6f666c>
+  PrefabRemaps:
+    []
+  Name: Bubble Mid
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f9b06bf3-4f68-4517-b8fc-065ef7f9b0b5
+- !<AudioComponent/236e0de2-fc84-4743-943d-e7f203cd8d7d>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 5e4b5f52-97dd-4ceb-939d-82c75762f166
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<AudioComponent/261b255e-66be-4f85-b4fc-1c00402afc7a>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> fe1e2dd6-587f-4929-a28d-6d1a25f4dbb8
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<AudioComponent/281157dd-a704-4b97-b810-efec0ae0e180>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> bd0abdd4-73a5-4e26-9343-c7ab66544c0e
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<SceneObject/287308cf-a474-4b09-8389-7284b04313a8>
+  PrefabRemaps:
+    []
+  Name: Tap Click 1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9697568c-7ea3-4550-9941-f511c8d70543
+- !<ObjectPrefabAssetData/32b7633f-6d5f-4eec-97af-b27e3c69e8c2>
+  SourceRemaps:
+    - 048971b4-e1b8-4cce-8967-f5596b9c1f6e: b822b43b-8ae3-4f8f-8ebb-1858f07e44d2
+    - 0540587a-4d5a-4650-a7e3-ffb5d7f196a0: 9c243edd-2925-484f-84dd-7be8adb9f91d
+    - 185737a9-7d85-4ecf-b195-4b3a07db5900: 5b3fdeb6-4803-44a4-acdc-1f814ec5ea21
+    - 1cba2b41-8822-4eea-8743-182e6dc2aa59: 287308cf-a474-4b09-8389-7284b04313a8
+    - 215a8622-f0a0-43e3-a670-c540bfbfb419: ba5ccc9e-a3bd-4a8f-aeb8-5c3a52ed7177
+    - 290f0cd6-c090-4f90-84a5-fce6b600415c: fc242cc2-54ae-462a-b753-6effbfd7cc62
+    - 311e5e30-e9d8-4009-a1e6-99760056734d: 8ea2a873-9dce-4f3f-a894-0affbd61c7a4
+    - 331f34cb-b076-4f2f-80f1-f0519fe0f12e: b2780be5-9964-4130-a145-d819c4ef96f2
+    - 3674469a-f96b-4098-8f33-d59ba19af870: 9419480b-9b48-4272-aac3-cf6c066e58a1
+    - 49313904-4b52-423d-8a17-b867c3d1546f: 4d0c3a84-b546-4101-b9ec-6ecaca6c9467
+    - 4e8aa80b-5578-4ca6-9c04-0e0a24f193fc: cbd4801a-9986-4d41-bf43-429f76a6be2e
+    - 58ada768-e29c-4baf-bfe9-a58638f3f68a: 74438e43-2686-4cb2-9dd2-ca7c4320ca31
+    - 5e7f55ef-21b5-4963-a316-e0e29e0c7e1d: 18f1df33-147a-428c-9888-45151f6f666c
+    - 5ef3ae23-34e5-4f2b-b173-eed3d0dec8b9: a00da728-bcfa-4dc6-b103-fe17753e0ecc
+    - 639cd47d-4d93-46d8-b693-295cea6c02ef: 014c4f51-f5d7-4c4f-815c-5f1d26da8516
+    - 65bd75fc-68f2-47fd-82a1-f0c132fca736: dcde9924-108f-4fcd-99b3-18051f8652d9
+    - 7ff8b3fb-cdca-4253-8cad-62d9a80795d4: 9fae4579-add3-4db2-aa58-3e843753015e
+    - 8175d31a-6abe-4e28-8eb2-be8720dd0818: 71ff773d-04e2-45a6-ac9b-67421ef48b3f
+    - 89bdf000-4fa4-4a0d-a37e-6613edb3d339: 281157dd-a704-4b97-b810-efec0ae0e180
+    - 8f78fa38-b17b-4464-8fab-424f0cead4d2: 9697568c-7ea3-4550-9941-f511c8d70543
+    - 92a17a84-f615-4f65-9229-963e203ef9c4: e4374dbb-8ed1-4dd6-901b-d1b503502b72
+    - a6a85dd9-4794-4089-9403-1ddf421b6630: f664f21a-7b42-4583-8a41-2241c9c9daed
+    - a7cdd346-f974-40f9-a300-bc3d579688ac: 540b6905-44b1-4fda-b0f2-e93a7d7923e1
+    - acb3c21c-6e6c-447b-8ca6-de9160b84afb: 7acaac17-9484-460c-a563-85984df90452
+    - b6f9969f-bac0-40e4-b623-846e61c550ac: ec13e04e-1d6c-423f-953e-fafb7a4d4fbd
+    - b845d08d-a3ae-4109-a58d-da86323a0b62: 9c9339db-70d5-4cf7-9716-7cd701ccf2d7
+    - b86471f0-1644-4a1e-bf41-8cec0ba1fa5e: 46856522-761e-4ce5-a9ac-e7b79e2a50e5
+    - b8e1ec90-4991-403f-9920-01b82522ce8e: a3c56058-b41c-4fe1-9598-746bd66f5a95
+    - b9fa4134-5925-406f-9d9f-7b98749fadba: e9fb98fd-d40d-4ae9-b202-2b2fac600809
+    - ba0676a6-3c3c-4b7a-a60c-c29260c78cc8: 4a64fc72-5125-4421-b137-9ed81ca56019
+    - bba57b94-fb40-42ae-9019-396bb852b801: f9b06bf3-4f68-4517-b8fc-065ef7f9b0b5
+    - bfb2f04c-9218-4858-916f-c552a13d7d7c: 261b255e-66be-4f85-b4fc-1c00402afc7a
+    - c355b9ed-ced3-428e-9e80-99136b525fa4: 236e0de2-fc84-4743-943d-e7f203cd8d7d
+    - c8fb8519-c3ca-4757-b400-7556a9ed0d70: 3309779e-1bc4-48d7-bddd-20dea9f4b7ce
+    - d4228a29-c3d8-41c9-9492-68286b06cbf6: ed088b7c-b8f3-4d0b-8c22-30586b435b45
+    - e2f254b5-24a3-4075-a75f-b317c7743875: 8d8de88b-db2c-45e8-adb1-4a96f558754c
+    - e3af5152-6b59-44a6-86aa-d042238f1018: 8477cc0e-01e2-41e0-be0b-3031328112d7
+    - e7366857-874b-4eb0-a007-2749e2143ac7: b6213039-63c5-4f2a-b5d2-d07d6ed88d07
+    - ebf99fbd-ba60-4794-a689-13adb9c84f9b: d55d81c1-86df-4302-9ec4-f84972f3701e
+    - f1c27729-bdbc-4bdf-a7a7-71b5d1c0278f: 066fba01-c181-4af8-840f-b3c6f8926200
+  SourceState: !<own> 540b6905-44b1-4fda-b0f2-e93a7d7923e1
+- !<AudioComponent/3309779e-1bc4-48d7-bddd-20dea9f4b7ce>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> e3d4e897-615b-44a7-a28e-028f0339dbbf
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<SceneObject/46856522-761e-4ce5-a9ac-e7b79e2a50e5>
+  PrefabRemaps:
+    []
+  Name: Notification 4
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ed088b7c-b8f3-4d0b-8c22-30586b435b45
+- !<AudioComponent/4a64fc72-5125-4421-b137-9ed81ca56019>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 8be8f66c-ddf5-4bf5-8ee2-15a03c6f5c14
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<SceneObject/4d0c3a84-b546-4101-b9ec-6ecaca6c9467>
+  PrefabRemaps:
+    []
+  Name: Tap Click 2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9419480b-9b48-4272-aac3-cf6c066e58a1
+- !<ObjectPrefab/540b6905-44b1-4fda-b0f2-e93a7d7923e1>
+  PackagePath: UISFX__PLACE_IN_OBJECTS_PANEL
+  objects:
+    - !<own> e9fb98fd-d40d-4ae9-b202-2b2fac600809
+  LazyLoading: false
+  RetainAssets: true
+- !<AudioComponent/5b3fdeb6-4803-44a4-acdc-1f814ec5ea21>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> c1d2b089-79fc-4187-8179-e1dfa75137d5
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<SceneObject/71ff773d-04e2-45a6-ac9b-67421ef48b3f>
+  PrefabRemaps:
+    []
+  Name: Bubble Low
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b6213039-63c5-4f2a-b5d2-d07d6ed88d07
+- !<SceneObject/74438e43-2686-4cb2-9dd2-ca7c4320ca31>
+  PrefabRemaps:
+    []
+  Name: Tap Click 6
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> fc242cc2-54ae-462a-b753-6effbfd7cc62
+- !<SceneObject/7acaac17-9484-460c-a563-85984df90452>
+  PrefabRemaps:
+    []
+  Name: Tap Click 8
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 066fba01-c181-4af8-840f-b3c6f8926200
+- !<SceneObject/8477cc0e-01e2-41e0-be0b-3031328112d7>
+  PrefabRemaps:
+    []
+  Name: Bubble High
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4a64fc72-5125-4421-b137-9ed81ca56019
+- !<SceneObject/8d8de88b-db2c-45e8-adb1-4a96f558754c>
+  PrefabRemaps:
+    []
+  Name: Notification 3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a00da728-bcfa-4dc6-b103-fe17753e0ecc
+- !<SceneObject/8ea2a873-9dce-4f3f-a894-0affbd61c7a4>
+  PrefabRemaps:
+    []
+  Name: Tap Click 4
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 281157dd-a704-4b97-b810-efec0ae0e180
+- !<AudioComponent/9419480b-9b48-4272-aac3-cf6c066e58a1>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 0477ed41-a4ab-4a96-8684-3decc7a55006
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<AudioComponent/9697568c-7ea3-4550-9941-f511c8d70543>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 06a67359-a98f-4004-8e12-5fb1617f33b0
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<AudioComponent/9c243edd-2925-484f-84dd-7be8adb9f91d>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 61ed0af8-090e-4639-9f4a-def84976ef13
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<SceneObject/9c9339db-70d5-4cf7-9716-7cd701ccf2d7>
+  PrefabRemaps:
+    []
+  Name: Tap Click 3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9fae4579-add3-4db2-aa58-3e843753015e
+- !<AudioComponent/9fae4579-add3-4db2-aa58-3e843753015e>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> cb5699f9-9cdb-4b9c-9712-69412db5b013
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<AudioComponent/a00da728-bcfa-4dc6-b103-fe17753e0ecc>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 7aea61df-03da-4921-8dac-44b2327a15cb
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<SceneObject/a3c56058-b41c-4fe1-9598-746bd66f5a95>
+  PrefabRemaps:
+    []
+  Name: Tap Jump
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5b3fdeb6-4803-44a4-acdc-1f814ec5ea21
+- !<SceneObject/b2780be5-9964-4130-a145-d819c4ef96f2>
+  PrefabRemaps:
+    []
+  Name: Notification 5
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3309779e-1bc4-48d7-bddd-20dea9f4b7ce
+- !<AudioComponent/b6213039-63c5-4f2a-b5d2-d07d6ed88d07>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> a54c0143-6c92-4607-89ec-b36fd01238e6
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<SceneObject/b822b43b-8ae3-4f8f-8ebb-1858f07e44d2>
+  PrefabRemaps:
+    []
+  Name: Notification 1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ec13e04e-1d6c-423f-953e-fafb7a4d4fbd
+- !<SceneObject/ba5ccc9e-a3bd-4a8f-aeb8-5c3a52ed7177>
+  PrefabRemaps:
+    []
+  Name: Tap Click 5
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 261b255e-66be-4f85-b4fc-1c00402afc7a
+- !<SceneObject/cbd4801a-9986-4d41-bf43-429f76a6be2e>
+  PrefabRemaps:
+    []
+  Name: Upgrade
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e4374dbb-8ed1-4dd6-901b-d1b503502b72
+- !<SceneObject/d55d81c1-86df-4302-9ec4-f84972f3701e>
+  PrefabRemaps:
+    []
+  Name: Tap Click 7
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> dcde9924-108f-4fcd-99b3-18051f8652d9
+- !<AudioComponent/dcde9924-108f-4fcd-99b3-18051f8652d9>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 14ebd48c-9d3e-47a1-9136-f8a3447a4615
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<AudioComponent/e4374dbb-8ed1-4dd6-901b-d1b503502b72>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> f3c761a3-a31e-40a3-8358-d48ccf35a434
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<SceneObject/e9fb98fd-d40d-4ae9-b202-2b2fac600809>
+  PrefabRemaps:
+    []
+  Name: UISFX__PLACE_IN_OBJECTS_PANEL
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 71ff773d-04e2-45a6-ac9b-67421ef48b3f
+    - !<own> 18f1df33-147a-428c-9888-45151f6f666c
+    - !<own> 8477cc0e-01e2-41e0-be0b-3031328112d7
+    - !<own> b822b43b-8ae3-4f8f-8ebb-1858f07e44d2
+    - !<own> 014c4f51-f5d7-4c4f-815c-5f1d26da8516
+    - !<own> 8d8de88b-db2c-45e8-adb1-4a96f558754c
+    - !<own> 46856522-761e-4ce5-a9ac-e7b79e2a50e5
+    - !<own> b2780be5-9964-4130-a145-d819c4ef96f2
+    - !<own> f664f21a-7b42-4583-8a41-2241c9c9daed
+    - !<own> 287308cf-a474-4b09-8389-7284b04313a8
+    - !<own> 4d0c3a84-b546-4101-b9ec-6ecaca6c9467
+    - !<own> 9c9339db-70d5-4cf7-9716-7cd701ccf2d7
+    - !<own> 8ea2a873-9dce-4f3f-a894-0affbd61c7a4
+    - !<own> ba5ccc9e-a3bd-4a8f-aeb8-5c3a52ed7177
+    - !<own> 74438e43-2686-4cb2-9dd2-ca7c4320ca31
+    - !<own> d55d81c1-86df-4302-9ec4-f84972f3701e
+    - !<own> 7acaac17-9484-460c-a563-85984df90452
+    - !<own> a3c56058-b41c-4fe1-9598-746bd66f5a95
+    - !<own> cbd4801a-9986-4d41-bf43-429f76a6be2e
+  Components:
+    []
+- !<AudioComponent/ec13e04e-1d6c-423f-953e-fafb7a4d4fbd>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 5c82184c-a83c-48d0-85c0-864dd34f3d92
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<AudioComponent/ed088b7c-b8f3-4d0b-8c22-30586b435b45>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 71775089-d2c0-4032-80bd-8482db52c98f
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<SceneObject/f664f21a-7b42-4583-8a41-2241c9c9daed>
+  PrefabRemaps:
+    []
+  Name: Notification 6
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9c243edd-2925-484f-84dd-7be8adb9f91d
+- !<AudioComponent/f9b06bf3-4f68-4517-b8fc-065ef7f9b0b5>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 0b804f66-9250-406f-93c1-f10b299525f4
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<AudioComponent/fc242cc2-54ae-462a-b753-6effbfd7cc62>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 4f708590-8e67-4f6b-84da-7379e978cc62
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: false
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Inverse
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false

@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    e336d05f-99d0-4f73-bea6-80602ca4341f: 35d01de7-b7ad-43b2-bf3c-67783a0f5818/62f84acc325a62458d2b0283da278c14/Data/WatchChrome.mesh
+  Assets:
+    - !<FileMesh/e336d05f-99d0-4f73-bea6-80602ca4341f>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 24508
+        Vertices: 17141
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.294192, y: 0.279768, z: 0.404744}
+  SourceHash: 62f84acc325a62458d2b0283da278c14
+  FileHash: 7f1513d84f67d8c7ce41520c5a8716e0
+  NativePackageItems:
+    []

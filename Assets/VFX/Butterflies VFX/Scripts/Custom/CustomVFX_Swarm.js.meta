@@ -1,0 +1,46 @@
+- !<AssetImportMetadata/df41ad99-ce0d-4661-8365-cee5c4d5805e>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 0edfbeff-df2a-4d89-b60d-af6820811652
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 0edfbeff-df2a-4d89-b60d-af6820811652
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    AssetLibraryId: B8Ub8LTPhorzR0YD28voD
+  AssetDataMap:
+    JavaScriptAsset: !<own> f4f90510-4f1e-4208-a810-f7d1ab58f1ca
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/f4f90510-4f1e-4208-a810-f7d1ab58f1ca>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 9d94591e-0519-49cd-9afb-2c77df7f5307
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    distortion: false
+    posteffectColor: false
+    underwaterRay: false
+    vfx: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - vfx: !<reference.VFXComponent> 00000000-0000-0000-0000-000000000000
+      posteffectColor: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      underwaterRay: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      distortion: !<reference.Material> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

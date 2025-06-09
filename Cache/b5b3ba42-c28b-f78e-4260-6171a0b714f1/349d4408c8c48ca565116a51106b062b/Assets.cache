@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    40d63c32-0f68-47a2-bca8-50d78169bbd2: b5b3ba42-c28b-f78e-4260-6171a0b714f1/349d4408c8c48ca565116a51106b062b/Data/Night.png
+  Assets:
+    - !<FileTexture/40d63c32-0f68-47a2-bca8-50d78169bbd2>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 16
+  SourceHash: 349d4408c8c48ca565116a51106b062b
+  FileHash: 97ee07769480d99ac7838ca479689630
+  NativePackageItems:
+    []

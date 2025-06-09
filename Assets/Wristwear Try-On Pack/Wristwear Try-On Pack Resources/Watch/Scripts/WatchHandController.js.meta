@@ -1,0 +1,42 @@
+- !<AssetImportMetadata/6bf7e003-7be4-4b29-a54b-02fd204f7a00>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 73f2739a-dca2-4191-bfc0-ab4c38a5f5d0
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 73f2739a-dca2-4191-bfc0-ab4c38a5f5d0
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    AssetLibraryId: 4ZjcfLphUj7yfmBgt5FMbb
+  AssetDataMap:
+    JavaScriptAsset: !<own> 7a43d8c2-642e-4720-8c93-f28c0e37d0de
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/7a43d8c2-642e-4720-8c93-f28c0e37d0de>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 0c94229a-16b9-454e-b2de-14acb733b690
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    hourHand: false
+    minuteHand: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - hourHand: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      minuteHand: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    17b8de2c-11ba-4773-b27a-62510b0de07b: c733a1c9-0444-4c02-2ea8-e43517bd7609/3b3c87a0c553b332fac5406c004436b5/Data/Rocket Tail.mesh
+  Assets:
+    - !<FileMesh/17b8de2c-11ba-4773-b27a-62510b0de07b>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 252
+        Vertices: 168
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 3.357806, y: 3.357806, z: 9.621599}
+  SourceHash: 3b3c87a0c553b332fac5406c004436b5
+  FileHash: 10fe7f5bc56a401a7574088af6124397
+  NativePackageItems:
+    []

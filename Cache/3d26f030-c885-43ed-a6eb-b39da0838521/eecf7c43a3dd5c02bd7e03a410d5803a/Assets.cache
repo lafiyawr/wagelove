@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    8bf6a60e-a811-4ba3-baf6-bc98c6594c4c: 3d26f030-c885-43ed-a6eb-b39da0838521/eecf7c43a3dd5c02bd7e03a410d5803a/Data/Butterfly.png
+  Assets:
+    - !<FileTexture/8bf6a60e-a811-4ba3-baf6-bc98c6594c4c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 560
+        Height: 446
+  SourceHash: eecf7c43a3dd5c02bd7e03a410d5803a
+  FileHash: 594043d8a6c6a2009b7cddc97eb6d901
+  NativePackageItems:
+    []

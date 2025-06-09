@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    82cbc7c5-bd58-43be-a8dc-0ffe7a5ab9ad: 04412d71-675a-7566-8e88-a63025f1b7ad/3fa07bef1fd02e02b5d641c81ffa1e67/Data/red_panda_param.png
+  Assets:
+    - !<FileTexture/82cbc7c5-bd58-43be-a8dc-0ffe7a5ab9ad>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 3fa07bef1fd02e02b5d641c81ffa1e67
+  FileHash: 55b5672a226bd6e60fe70e673387e8bd
+  NativePackageItems:
+    []

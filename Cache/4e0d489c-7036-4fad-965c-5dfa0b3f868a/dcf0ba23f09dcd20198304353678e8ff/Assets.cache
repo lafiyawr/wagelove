@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    ca0ff526-a8e1-483e-94d3-5f2635773351: 4e0d489c-7036-4fad-965c-5dfa0b3f868a/dcf0ba23f09dcd20198304353678e8ff/Data/pearly gold B base.png
+  Assets:
+    - !<FileTexture/ca0ff526-a8e1-483e-94d3-5f2635773351>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 2048
+        Height: 2048
+  SourceHash: dcf0ba23f09dcd20198304353678e8ff
+  FileHash: ad1b07c0d6d57d76e9b0566af2a94840
+  NativePackageItems:
+    []

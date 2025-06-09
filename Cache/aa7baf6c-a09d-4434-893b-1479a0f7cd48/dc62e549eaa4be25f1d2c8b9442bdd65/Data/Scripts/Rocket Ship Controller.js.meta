@@ -1,0 +1,110 @@
+- !<AssetImportMetadata/d8d5bf21-ee2c-2bc9-8aee-a6ff13982fb4>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 646f19ba-7eab-493c-8fa1-1bdb3b1c406f
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 646f19ba-7eab-493c-8fa1-1bdb3b1c406f
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 7878986c-2ff8-49b2-88a2-b8305081ea75
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  ExtraData:
+    AssetLibraryId: 5li1Dy6mjwLK8hYJxghEpC
+- !<ScriptAssetData/7878986c-2ff8-49b2-88a2-b8305081ea75>
+  SvgIcon: ""
+  Description: "Allows you to control rocket particles settings via script, such as color, particle count, and movement. Additionally, this script keeps the rocket particles in sync by ensuring both materials have the same movement parameters."
+  InternalVersion: 1
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 3086c1a6-673b-40ff-b56f-357fdaae2122
+  ExportUid: 4ac4540d-f44c-7877-c384-37d58f284a52
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    advanced: false
+    advancedSource: false
+    emissionIntensity: false
+    gravity: false
+    lifeTimeMinMax: false
+    localForce: false
+    movementSource: false
+    numShips: false
+    pauseParticles: false
+    rocketShipMaterial: false
+    rocketTailMaterial: false
+    rotationRateZ: false
+    shipColorBolts: false
+    shipColorDetails: false
+    shipColorHull: false
+    shipColorInput: false
+    shipColorMetal: false
+    shipColorNoseFins: false
+    shipColorNoseFins2: false
+    shipColorRandom: false
+    shipColorWindow: false
+    simulationSpeed: false
+    sizeMinMax: false
+    spawnRadius: false
+    spawnSource: false
+    tailColor1: false
+    tailColor2: false
+    tailColor3: false
+    tailColor4: false
+    tailColor5: false
+    tailColorInput: false
+    useWindowTexture: false
+    velocityDrag: false
+    velocityMax: false
+    velocityMin: false
+    windowTex: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - rocketShipMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      rocketTailMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      shipColorInput: scriptInput
+      shipColorHull: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+      shipColorMetal: !<Vec3> {x: 0.140000, y: 0.160000, z: 0.170000}
+      shipColorBolts: !<Vec3> {x: 0.500000, y: 0.500000, z: 0.500000}
+      shipColorDetails: !<Vec3> {x: 1.000000, y: 0.680000, z: 0.000000}
+      shipColorWindow: !<Vec3> {x: 0.000000, y: 0.060000, z: 1.000000}
+      useWindowTexture: false
+      windowTex: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+      shipColorRandom: true
+      shipColorNoseFins: !<Vec3> {x: 1.000000, y: 0.000000, z: 0.000000}
+      shipColorNoseFins2: !<Vec3> {x: 0.000000, y: 0.000000, z: 1.000000}
+      tailColorInput: scriptInput
+      tailColor1: !<Vec4> {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+      tailColor2: !<Vec4> {x: 1.000000, y: 1.000000, z: 0.000000, w: 1.000000}
+      tailColor3: !<Vec4> {x: 1.000000, y: 0.560000, z: 0.000000, w: 1.000000}
+      tailColor4: !<Vec4> {x: 1.000000, y: 0.080000, z: 0.000000, w: 0.900000}
+      tailColor5: !<Vec4> {x: 0.000000, y: 0.110000, z: 0.430000, w: 0.700000}
+      emissionIntensity: !<float> 1.000000
+      spawnSource: scriptInput
+      numShips: 50
+      lifeTimeMinMax: !<Vec2> {x: 7.000000, y: 10.000000}
+      spawnRadius: !<float> 50.000000
+      sizeMinMax: !<Vec2> {x: 2.000000, y: 3.000000}
+      movementSource: scriptInput
+      velocityMin: !<Vec3> {x: -20.000000, y: -20.000000, z: -20.000000}
+      velocityMax: !<Vec3> {x: 20.000000, y: 20.000000, z: 20.000000}
+      velocityDrag: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+      rotationRateZ: !<Vec2> {x: -2.000000, y: 2.000000}
+      gravity: -9.800000
+      localForce: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      advanced: false
+      advancedSource: shipMaterialInput
+      pauseParticles: false
+      simulationSpeed: !<float> 1.000000
+  ScriptTypes:
+    -
+      {}
+  SetupScript:
+    code: ""
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

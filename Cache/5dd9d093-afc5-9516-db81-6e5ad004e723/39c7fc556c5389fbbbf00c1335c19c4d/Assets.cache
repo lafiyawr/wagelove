@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    654a9e3b-dad3-4735-86dd-2a9369e14ffa: 5dd9d093-afc5-9516-db81-6e5ad004e723/39c7fc556c5389fbbbf00c1335c19c4d/Data/UI-Rise-BG.png
+  Assets:
+    - !<FileTexture/654a9e3b-dad3-4735-86dd-2a9369e14ffa>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 877
+        Height: 1024
+  SourceHash: 39c7fc556c5389fbbbf00c1335c19c4d
+  FileHash: 6b5e813203d720f13c267a18e3f1e348
+  NativePackageItems:
+    []

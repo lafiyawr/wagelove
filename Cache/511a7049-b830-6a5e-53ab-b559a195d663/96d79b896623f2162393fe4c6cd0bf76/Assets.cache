@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    66358977-813a-4d30-9afb-99188a1848a0: 511a7049-b830-6a5e-53ab-b559a195d663/96d79b896623f2162393fe4c6cd0bf76/Data/FrustumEmissive.webp
+  Assets:
+    - !<FileTexture/66358977-813a-4d30-9afb-99188a1848a0>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: 96d79b896623f2162393fe4c6cd0bf76
+  FileHash: da14b53b43751dbe073a952b447ff337
+  NativePackageItems:
+    []

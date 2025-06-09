@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    77bd11f7-a79f-479e-ac19-333a6180c2d9: b17528ff-866a-4551-b971-e52a35379719/d03e5cd65b2e15822f08b718f56387ab/Data/ring-UI-earth.png
+  Assets:
+    - !<FileTexture/77bd11f7-a79f-479e-ac19-333a6180c2d9>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 883
+        Height: 156
+  SourceHash: d03e5cd65b2e15822f08b718f56387ab
+  FileHash: 8627081f7f9e2377f53ad96fcd3a3023
+  NativePackageItems:
+    []

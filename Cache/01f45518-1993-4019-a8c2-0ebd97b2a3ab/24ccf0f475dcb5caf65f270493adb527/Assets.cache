@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    3502d2f0-c5af-40fa-bd56-bf79f32ad088: 01f45518-1993-4019-a8c2-0ebd97b2a3ab/24ccf0f475dcb5caf65f270493adb527/Data/Ancestor-Music.mp3
+  Assets:
+    - !<FileAudioTrack/3502d2f0-c5af-40fa-bd56-bf79f32ad088>
+      PackagePath: ""
+  SourceHash: 24ccf0f475dcb5caf65f270493adb527
+  FileHash: e2654ae9b71b185203bbe9c195cff4b6
+  NativePackageItems:
+    []

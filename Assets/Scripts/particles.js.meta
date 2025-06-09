@@ -1,0 +1,84 @@
+- !<AssetImportMetadata/b54f67e7-4b72-42e4-bd86-bbc979941bcb>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 284a0df6-a36a-4bf1-b489-528d44679af2
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 284a0df6-a36a-4bf1-b489-528d44679af2
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 9db9c491-30c1-48c6-9afb-77ce6783f216
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/9db9c491-30c1-48c6-9afb-77ce6783f216>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 2c4d9ad6-1907-418b-94ec-444d22d90a84
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    autoEmit: false
+    burstCount: false
+    coneAngle: false
+    debugText: false
+    drag: false
+    emissionDirection: false
+    emissionRadius: false
+    emissionShape: false
+    emissionSize: false
+    endSize: false
+    gravity: false
+    initialVelocity: false
+    lifetimeVariation: false
+    maxParticles: false
+    particleLifetime: false
+    particlePrefab: false
+    scaleWithVelocity: false
+    sizeVariation: false
+    spawnRate: false
+    startSize: false
+    velocityInheritance: false
+    velocityVariation: false
+    wind: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - particlePrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      debugText: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      maxParticles: 100
+      spawnRate: !<float> 10.000000
+      autoEmit: false
+      burstCount: !<float> 0.000000
+      initialVelocity: !<Vec3> {x: 0.000000, y: 5.000000, z: 0.000000}
+      velocityVariation: !<Vec3> {x: 2.000000, y: 1.000000, z: 2.000000}
+      velocityInheritance: !<float> 0.000000
+      gravity: !<Vec3> {x: 0.000000, y: -9.800000, z: 0.000000}
+      wind: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      drag: 0.980000
+      emissionShape: Point
+      emissionRadius: !<float> 1.000000
+      emissionSize: !<Vec3> {x: 2.000000, y: 2.000000, z: 2.000000}
+      coneAngle: !<float> 30.000000
+      emissionDirection: !<Vec3> {x: 0.000000, y: 1.000000, z: 0.000000}
+      particleLifetime: !<float> 5.000000
+      lifetimeVariation: !<float> 1.000000
+      startSize: !<float> 1.000000
+      endSize: !<float> 1.000000
+      sizeVariation: 0.200000
+      scaleWithVelocity: false
+  ScriptTypes:
+    -
+      {}

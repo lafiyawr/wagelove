@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    61d221fc-fa65-417b-bdd2-cb9183d13f97: fdc71d90-7a30-0c5f-68c3-ce482fd33bfc/08f136ce591259312de52cfaeddcca2b/Data/FrustumAlpha.webp
+  Assets:
+    - !<FileTexture/61d221fc-fa65-417b-bdd2-cb9183d13f97>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 08f136ce591259312de52cfaeddcca2b
+  FileHash: 3bb48891842d06c2e944d47916e999ba
+  NativePackageItems:
+    []

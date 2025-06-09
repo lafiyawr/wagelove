@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    b7574cd7-e5aa-48e7-b02a-2e11cec90de3: 4ef06107-8908-f27d-328d-d0f99c934609/d8ff3c17bf0330b992ba1a803772f8af/Data/Wrist Occluder Shadow.mesh
+  Assets:
+    - !<FileMesh/b7574cd7-e5aa-48e7-b02a-2e11cec90de3>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 612
+        Vertices: 416
+        Blendshapes:
+          - Thickness
+        Joints: 0
+        AabbSize: {x: 2.398423, y: 1.666434, z: 2.887509}
+  SourceHash: d8ff3c17bf0330b992ba1a803772f8af
+  FileHash: e6cb58d4fa48bafdb4adf89dc3593432
+  NativePackageItems:
+    []

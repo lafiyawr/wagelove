@@ -1,0 +1,138 @@
+//SG_REFLECTION_BEGIN(200)
+//attribute vec4 position 0
+//attribute vec2 texture0 3
+//attribute vec2 texture1 4
+//attribute vec3 normal 1
+//attribute vec4 tangent 2
+//output vec4 FragColor0 0
+//output vec4 FragColor1 1
+//output vec4 FragColor2 2
+//output vec4 FragColor3 3
+//sampler sampler noiseTexSmpSC 0:21
+//sampler sampler renderTarget0SmpSC 0:22
+//sampler sampler renderTarget1SmpSC 0:23
+//sampler sampler renderTarget2SmpSC 0:24
+//sampler sampler renderTarget3SmpSC 0:25
+//texture texture3D noiseTex 0:1:0:21
+//texture texture2D renderTarget0 0:2:0:22
+//texture texture2D renderTarget1 0:3:0:23
+//texture texture2D renderTarget2 0:4:0:24
+//texture texture2D renderTarget3 0:5:0:25
+//ubo int UserUniforms 0:33:7968 {
+//float4 sc_Time 1376
+//float4 sc_UniformConstants 1392
+//float4 sc_StereoClipPlanes 3664:[2]:16
+//int overrideTimeEnabled 3980
+//float overrideTimeElapsed 3984:[32]:4
+//float overrideTimeDelta 4112
+//bool vfxBatchEnable 4120:[32]:4
+//float3 vfxLocalAabbMin 6624
+//float3 vfxLocalAabbMax 6640
+//int vfxOffsetInstancesRead 7108
+//int vfxOffsetInstancesWrite 7112
+//float2 vfxTargetSizeRead 7120
+//float2 vfxTargetSizeWrite 7128
+//int vfxTargetWidth 7136
+//bool isIdle 7140
+//float3 influencePosition 7152
+//bool isAttracting 7168
+//float4 colorA 7216
+//float4 colorB 7232
+//float4 colorC 7248
+//float4 colorD 7264
+//float4 colorE 7280
+//float Port_TimeBias_N052 7296
+//float Port_ValueA_N052 7300
+//float Port_TimeA_N052 7304
+//float Port_TimeTransition_N052 7308
+//float Port_ValueB_N052 7312
+//float Port_TimeB_N052 7316
+//float Port_Input1_N053 7320
+//float Port_Input1_N292 7344
+//float3 Port_Min_N293 7360
+//float3 Port_Max_N293 7376
+//float Port_Import_N296 7392
+//float Port_Input1_N298 7396
+//float3 Port_Max_N299 7408
+//float Port_Input1_N021 7424
+//float Port_Input1_N067 7428
+//float Port_Input2_N067 7432
+//float3 Port_Import_N304 7440
+//float Port_Input1_N319 7456
+//float Port_Input1_N322 7460
+//float3 Port_Import_N075 7472
+//float3 Port_Import_N076 7488
+//float Port_Import_N058 7508
+//float3 Port_Input2_N060 7536
+//float Port_Import_N099 7552
+//float Port_Import_N109 7556
+//float3 Port_Import_N081 7568
+//float Port_RangeMinA_N178 7584
+//float Port_RangeMaxA_N178 7588
+//float Port_RangeMinB_N178 7592
+//float Port_RangeMaxB_N178 7596
+//float Port_Value4_N102 7604
+//float Port_Value4_N117 7608
+//float Port_Value4_N126 7612
+//float4 Port_Column3_N127 7616
+//float Port_RangeMinA_N133 7632
+//float Port_RangeMaxA_N133 7636
+//float Port_Input1_N114 7640
+//float Port_Input2_N114 7644
+//float Port_RangeMaxB_N133 7648
+//float Port_Input1_N018 7652
+//float Port_Input1_N066 7656
+//float Port_Input2_N066 7660
+//float Port_Input1_N237 7696
+//float Port_Input1_N201 7700
+//float Port_Input2_N201 7704
+//float3 Port_Import_N205 7728
+//float3 Port_Import_N206 7744
+//float Port_Multiplier_N207 7760
+//float3 Port_Import_N210 7776
+//float Port_Input1_N222 7792
+//float Port_Input1_N229 7796
+//float Port_Import_N049 7800
+//float Port_Import_N051 7804
+//float Port_Import_N050 7808
+//float Port_Input4_N224 7812
+//float Port_Input1_N241 7816
+//float Port_Input1_N200 7820
+//float Port_Input2_N200 7824
+//float Port_Input1_N063 7832
+//float Port_Input2_N063 7836
+//float Port_Input1_N008 7844
+//float4 Port_Input1_N065 7856
+//float Port_Min_N019 7872
+//float Port_Max_N019 7876
+//float Port_Input1_N166 7880
+//float Port_Input1_N164 7884
+//float Port_Input1_N165 7888
+//float Port_Input2_N165 7892
+//float Port_Position1_N172 7896
+//float Port_Position2_N172 7900
+//float Port_Position3_N172 7904
+//float Port_Import_N079 7908
+//float Port_Import_N091 7912
+//float Port_Input0_N143 7920
+//float Port_Input1_N266 7924
+//float Port_Input2_N266 7928
+//float Port_Input1_N182 7940
+//float Port_Input2_N182 7944
+//float Port_Input0_N193 7948
+//float Port_Import_N188 7952
+//float Port_Input1_N236 7960
+//float Port_Input2_N236 7964
+//}
+//spec_const bool renderTarget0HasSwappedViews 0 0
+//spec_const bool renderTarget1HasSwappedViews 1 0
+//spec_const bool renderTarget2HasSwappedViews 2 0
+//spec_const bool renderTarget3HasSwappedViews 3 0
+//spec_const int renderTarget0Layout 4 0
+//spec_const int renderTarget1Layout 5 0
+//spec_const int renderTarget2Layout 6 0
+//spec_const int renderTarget3Layout 7 0
+//spec_const int sc_ShaderCacheConstant 8 0
+//spec_const int sc_StereoRenderingMode 9 0
+//spec_const int sc_StereoRendering_IsClipDistanceEnabled 10 0
+//SG_REFLECTION_END

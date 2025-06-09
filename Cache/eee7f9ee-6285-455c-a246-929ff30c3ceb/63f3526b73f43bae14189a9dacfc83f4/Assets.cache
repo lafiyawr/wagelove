@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    aba8cf2e-bb04-4897-b539-d72fbf8014b6: eee7f9ee-6285-455c-a246-929ff30c3ceb/63f3526b73f43bae14189a9dacfc83f4/Data/BraceletSphereBeads.mesh
+  Assets:
+    - !<FileMesh/aba8cf2e-bb04-4897-b539-d72fbf8014b6>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 7680
+        Vertices: 4160
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 5.641177, y: 1.652785, z: 4.879494}
+  SourceHash: 63f3526b73f43bae14189a9dacfc83f4
+  FileHash: 0f01c51c5570682b23487fdb205e4634
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    49137f39-0759-403e-8a4d-eef7c5e9ca00: 5efe9d6d-951e-4fee-29b1-d5855d1ce158/b497d4cdd28ab19a8ce4787132075f1b/Data/UI-Earth-BG.png
+  Assets:
+    - !<FileTexture/49137f39-0759-403e-8a4d-eef7c5e9ca00>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 877
+        Height: 1024
+  SourceHash: b497d4cdd28ab19a8ce4787132075f1b
+  FileHash: 5d4734deead79a1cc1ca584d0b167a99
+  NativePackageItems:
+    []

@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    e778c50b-5077-422e-8243-2f0993e6caa9: 8b318fa7-ffe1-4f7d-3605-8cc9bf8d1939/74dc33022c0054c8ea8b34407b773b43/Data/Lato-Bold.ttf
+  Assets:
+    - !<Font/e778c50b-5077-422e-8243-2f0993e6caa9>
+      PackagePath: ""
+  SourceHash: 74dc33022c0054c8ea8b34407b773b43
+  FileHash: c19ae9c43869c12da63cf6068baa4679
+  NativePackageItems:
+    []

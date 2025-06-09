@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    0a4823ba-b2bc-46a4-ad84-95d7cf8e8351: 76c5f19f-c1ac-6a75-df55-952ada23470b/a760ff13dd484662810e8f6cb7e668a9/Data/ShootingStar BaseTex HeadParticle.png
+  Assets:
+    - !<FileTexture/0a4823ba-b2bc-46a4-ad84-95d7cf8e8351>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 128
+        Height: 128
+  SourceHash: a760ff13dd484662810e8f6cb7e668a9
+  FileHash: 857d977351aab7d869136433dc33c4a3
+  NativePackageItems:
+    []

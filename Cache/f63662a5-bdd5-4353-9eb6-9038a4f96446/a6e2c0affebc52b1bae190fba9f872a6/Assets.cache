@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    ad1bce97-8e43-4635-a61f-43652bdbb5f8: f63662a5-bdd5-4353-9eb6-9038a4f96446/a6e2c0affebc52b1bae190fba9f872a6/Data/WatchBandNormal.png
+  Assets:
+    - !<FileTexture/ad1bce97-8e43-4635-a61f-43652bdbb5f8>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 2048
+        Height: 2048
+  SourceHash: a6e2c0affebc52b1bae190fba9f872a6
+  FileHash: e94b1e124a18ec0657565095016fe43b
+  NativePackageItems:
+    []

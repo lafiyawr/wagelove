@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    6400aec6-1c4a-428e-a4ac-e8e35022e2b9: 41cd75a7-d62a-49fc-bce1-4960338eefa4/1d847fa7e3d4c22d17abc58c5431835b/Data/Circle.mesh
+  Assets:
+    - !<FileMesh/6400aec6-1c4a-428e-a4ac-e8e35022e2b9>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 47902
+        Vertices: 34696
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 3.968700, y: 4.019558, z: 0.661047}
+  SourceHash: 1d847fa7e3d4c22d17abc58c5431835b
+  FileHash: f4764f1349369c9698eadab5cc2c2cf1
+  NativePackageItems:
+    []

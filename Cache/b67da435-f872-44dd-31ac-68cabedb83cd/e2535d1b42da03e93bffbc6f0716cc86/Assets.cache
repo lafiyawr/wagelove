@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    786b4ec6-514c-487b-b26b-c5b0c7c646cd: b67da435-f872-44dd-31ac-68cabedb83cd/e2535d1b42da03e93bffbc6f0716cc86/Data/texture.png
+  Assets:
+    - !<FileTexture/786b4ec6-514c-487b-b26b-c5b0c7c646cd>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: e2535d1b42da03e93bffbc6f0716cc86
+  FileHash: 0ee0e68cfef880f185ff6521902566f2
+  NativePackageItems:
+    []

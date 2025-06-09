@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    7cf73459-f79c-4222-a2b9-94a503da38a5: 6a2aa80b-7911-4461-aa61-00da9378ad83/77fafb58c4c302447d497d0e593d2e35/Data/Beta_Surface.mesh
+  Assets:
+    - !<FileMesh/7cf73459-f79c-4222-a2b9-94a503da38a5>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 28272
+        Vertices: 15917
+        Blendshapes:
+          []
+        Joints: 65
+        AabbSize: {x: 180.513214, y: 180.920517, z: 32.069874}
+  SourceHash: 77fafb58c4c302447d497d0e593d2e35
+  FileHash: 2f72684a7c1638d0628cc06d5d3585b3
+  NativePackageItems:
+    []

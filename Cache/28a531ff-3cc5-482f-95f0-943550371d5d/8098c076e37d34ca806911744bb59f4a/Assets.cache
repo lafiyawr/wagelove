@@ -1,0 +1,1008 @@
+- !<AssetCache>
+  AssetFiles:
+    {}
+  Assets:
+    []
+  SourceHash: 8098c076e37d34ca806911744bb59f4a
+  FileHash: 36f6370557839e4718fc813ce0cbba89
+  NativePackageItems:
+    - !<own> 05e414df-e5aa-bea0-1364-c7918ee5d7ca
+    - !<own> d039fe23-4330-f8f0-f060-5e67c638c90e
+    - !<own> dd251750-79e3-4207-a157-b0d685c20d7f
+    - !<own> a597e0e7-adc1-6652-66a7-96d951332efe
+    - !<own> bc3fe262-728e-65c6-4175-71fba3d525f0
+    - !<own> 02e6852c-dce6-fee7-512e-10f4b302ecf9
+    - !<own> 24102fab-8a86-cf7e-ecb3-ed09c0eb1d6a
+    - !<own> b7256029-ce4f-c35d-f872-ac234f99b499
+    - !<own> 1fefd54e-8016-8e72-2178-1c05b2c0fd3a
+    - !<own> 2718931a-252b-8a30-0a7d-f5f4e154753d
+    - !<own> 32ddbbd6-f059-71ae-d1e2-5f4c4b02c671
+- !<AssetImportMetadata/02e6852c-dce6-fee7-512e-10f4b302ecf9>
+  ImportedAssetIds:
+    Texture: !<reference> c316fd8e-ca53-4625-8c32-49023904698e
+  ImporterName: FileTextureImporter
+  PrimaryAsset: !<reference> c316fd8e-ca53-4625-8c32-49023904698e
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: Performance
+    CompressionSettings: !<TextureCompressionMipmapSettings>
+      Level: Medium
+      Mipmap: false
+- !<ObjectPrefabAssetData/0380800f-18d2-4a85-b5bb-3ec7d598892a>
+  SourceRemaps:
+    - 00ecccff-9f93-44da-b4e9-95a4f6cccb7a: 236b37c4-0ee1-4df9-947e-863a72a4d058
+    - 0715c17f-2f6f-43e6-9d36-5d6beadd5ad6: 91db8ab4-9537-4b80-aab5-7d4813b1793c
+    - 0f90916e-75cb-4910-ba90-e64b8f75fc9d: 95971ef3-53bb-4133-9c3d-95c9b9928b62
+    - 10c26a6c-666b-4cb1-9e83-8bee5ca35656: 057f884c-d745-474f-ba7a-dba0b9fc751d
+    - 24ce69c3-3c27-4268-b606-51eaffd3004d: bf1431d0-ce2d-4dc9-a8f3-57dbd98259ca
+    - 2a14191b-0940-4d7f-92d8-3c3a6350b0d2: 4b14de2a-566f-4571-adb4-f4293b0a9bfc
+    - 422f07a6-c797-4c52-af4b-ebbe6a6ad5fe: 214b479e-7f0d-44f0-98cb-b65244ae38bb
+    - 5d9bd185-28b1-421f-b273-25727744afce: 866eaa19-4134-41af-9134-b3f812507cf2
+    - 60b1f47f-f3bd-4f56-aa04-56ff0e125dbf: 97ef45d9-884e-43db-b43e-08fcd591844d
+    - 6bd09261-a069-4408-a954-9f23882cf503: 67c62e32-6967-46db-83e0-dcda44701121
+    - 6e4692a2-7c14-415f-a7d7-630917eaa95f: 72d4d4f9-68ee-4ff2-9fe9-ec25348e31fe
+    - 70f2f692-1f32-45dc-b391-e09fe742fb53: 357c063a-661e-4d19-957d-a414405920f6
+    - 88bc4bcf-479c-44c4-bcfa-455df9b669a0: a7b3ea07-d5a5-427f-87ca-0ef6747668ca
+    - 8c856eac-5243-4bc2-bd5b-9192fcfd30ad: 50c433aa-74ac-400b-9d4c-639c4bf7a1ad
+    - 9212bf18-982d-4732-909f-addc048f6a3d: c8960152-8b63-4f1d-bf6a-cc19888f96ea
+    - 982b7728-f279-4797-8187-694a82744b39: 6ca4ed78-38f0-4274-84dc-d57154024ebb
+    - a82d4414-8602-44f1-8f55-4ae982e66333: 25148305-f103-40ff-9cda-7616cad92637
+    - b657a8b0-6e1d-47f8-aa4c-4d5c001541de: 301cca5e-8574-4c8a-8cff-f5a5994f2b0f
+    - baf33a83-df17-452f-aeb2-b876791459e0: cd54f2c0-a6c5-47a2-ba05-516456199328
+    - cb93b010-2bae-4f60-901e-8af8d64fbf49: 7660a896-1827-435a-976e-b0af533567fe
+    - d6a121d7-842d-42c6-bc4b-716dc2f59d48: 065fd7b8-d288-4dbb-aa1c-971fca485312
+    - deed94b8-9b57-4b69-a197-7af6a3363e25: 5f1979d3-8216-4c0c-9b4d-ecd2ba60f26a
+    - e337fe69-676b-4a8b-b432-475c4d06daaf: 91d2416a-be21-4cf4-973f-748197efd113
+    - e7636ae9-9f4c-4ca7-9206-bbdf67ef99a8: 3822cb09-abdf-4c99-baad-d74ccc1ecf4d
+    - ea10c9d6-7dbd-4249-9551-c62eaaccd765: 91a7929f-9557-4dff-b5e9-51b1be3a7fc3
+    - ed658b1c-39a4-4f69-a167-274377bae47f: 22d9b0f9-1b99-4a5d-8f83-920e22de5c0e
+    - eea90b98-c530-42c3-9fd9-d1aefa6434dd: 699a382a-a592-4595-864d-315d279828bb
+    - ff821688-2f0d-42db-a8d1-93a8e8f575a2: 9df815e6-803b-4961-897a-ef2a25e269cd
+  SourceState: !<own> 91db8ab4-9537-4b80-aab5-7d4813b1793c
+- !<SceneObject/057f884c-d745-474f-ba7a-dba0b9fc751d>
+  PrefabRemaps:
+    []
+  Name: FireFly Comp2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 30.166389, y: -4.755211, z: -0.000007}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.000000, y: 0.000000, z: 0.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4b14de2a-566f-4571-adb4-f4293b0a9bfc
+    - !<own> 22d9b0f9-1b99-4a5d-8f83-920e22de5c0e
+    - !<own> 91a7929f-9557-4dff-b5e9-51b1be3a7fc3
+  Components:
+    []
+- !<AssetImportMetadata/05e414df-e5aa-bea0-1364-c7918ee5d7ca>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 274391b2-513d-48d5-87da-b3b85c43cfe6
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 274391b2-513d-48d5-87da-b3b85c43cfe6
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> a1e51cc3-c9c5-44a3-923c-7dc4137ac6bd
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptComponent/065fd7b8-d288-4dbb-aa1c-971fca485312>
+  PrefabRemaps:
+    []
+  Name: TweenTransform
+  Enabled: true
+  ScriptAsset: !<reference> 274391b2-513d-48d5-87da-b3b85c43cfe6
+  ScriptInputsDefault:
+    playAutomatically: true
+    loopType: true
+    movementType: true
+    from: true
+    to: true
+    offset: true
+    additive: true
+    isLocal: true
+    easingFunction: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sceneObjectReference: !<reference.SceneObject> 357c063a-661e-4d19-957d-a414405920f6
+      tweenName: FF1Shrink
+      playAutomatically: true
+      loopType: 0
+      type: 1
+      movementType: 0
+      start: !<Vec3> {x: 5.000000, y: 5.000000, z: 5.000000}
+      end: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+      from: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      to: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      offset: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      additive: false
+      time: !<float> 5.000000
+      delay: !<float> 10.000000
+      isLocal: true
+      easingFunction: Quadratic
+      easingType: InOut
+  ScriptTypes:
+    "":
+      {}
+- !<AssetImportMetadata/1fefd54e-8016-8e72-2178-1c05b2c0fd3a>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> a1709ee1-b0e4-423a-a19d-ffe69de8417f
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> a1709ee1-b0e4-423a-a19d-ffe69de8417f
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptComponent/214b479e-7f0d-44f0-98cb-b65244ae38bb>
+  PrefabRemaps:
+    []
+  Name: TweenTransform
+  Enabled: true
+  ScriptAsset: !<reference> 274391b2-513d-48d5-87da-b3b85c43cfe6
+  ScriptInputsDefault:
+    playAutomatically: true
+    loopType: true
+    movementType: true
+    start: true
+    from: true
+    to: true
+    offset: true
+    additive: true
+    isLocal: true
+    easingFunction: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sceneObjectReference: !<reference.SceneObject> 72d4d4f9-68ee-4ff2-9fe9-ec25348e31fe
+      tweenName: FF3Grow
+      playAutomatically: true
+      loopType: 0
+      type: 1
+      movementType: 0
+      start: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      end: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+      from: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      to: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      offset: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      additive: false
+      time: !<float> 5.000000
+      delay: !<float> 12.000000
+      isLocal: true
+      easingFunction: Quadratic
+      easingType: InOut
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/22d9b0f9-1b99-4a5d-8f83-920e22de5c0e>
+  PrefabRemaps:
+    []
+  Name: Glow
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 30.166389, y: 106.186722, z: -0.000007}
+    rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 10.000000, y: 10.000000, z: 10.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 67c62e32-6967-46db-83e0-dcda44701121
+- !<SceneObject/236b37c4-0ee1-4df9-947e-863a72a4d058>
+  PrefabRemaps:
+    []
+  Name: Glow
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 10.000000, y: 10.000000, z: 10.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 301cca5e-8574-4c8a-8cff-f5a5994f2b0f
+    - !<own> 699a382a-a592-4595-864d-315d279828bb
+- !<AssetImportMetadata/24102fab-8a86-cf7e-ecb3-ed09c0eb1d6a>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 03d2497e-b6bb-4059-8709-53f6de485dc6
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 03d2497e-b6bb-4059-8709-53f6de485dc6
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<RenderMeshVisual/25148305-f103-40ff-9cda-7616cad92637>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 462468e3-c77e-4b26-a084-6c548f101fef
+  Mesh: !<reference> 690a9a1f-57bb-4873-bee8-52e89aa45199
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<AssetImportMetadata/2718931a-252b-8a30-0a7d-f5f4e154753d>
+  ImportedAssetIds:
+    Material: !<reference> 5e4bc118-c704-4890-be2a-342ffdf65081
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> 5e4bc118-c704-4890-be2a-342ffdf65081
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<RenderMeshVisual/301cca5e-8574-4c8a-8cff-f5a5994f2b0f>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 462468e3-c77e-4b26-a084-6c548f101fef
+  Mesh: !<reference> 690a9a1f-57bb-4873-bee8-52e89aa45199
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<AssetImportMetadata/32ddbbd6-f059-71ae-d1e2-5f4c4b02c671>
+  ImportedAssetIds:
+    Material: !<reference> 462468e3-c77e-4b26-a084-6c548f101fef
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> 462468e3-c77e-4b26-a084-6c548f101fef
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/357c063a-661e-4d19-957d-a414405920f6>
+  PrefabRemaps:
+    []
+  Name: FireFly Comp1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.407341, y: 43.946648, z: -0.000002}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 97ef45d9-884e-43db-b43e-08fcd591844d
+    - !<own> 236b37c4-0ee1-4df9-947e-863a72a4d058
+    - !<own> 50c433aa-74ac-400b-9d4c-639c4bf7a1ad
+  Components:
+    []
+- !<SceneObject/3822cb09-abdf-4c99-baad-d74ccc1ecf4d>
+  PrefabRemaps:
+    []
+  Name: fireflies animated
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 357c063a-661e-4d19-957d-a414405920f6
+    - !<own> 72d4d4f9-68ee-4ff2-9fe9-ec25348e31fe
+    - !<own> 057f884c-d745-474f-ba7a-dba0b9fc751d
+  Components:
+    []
+- !<SceneObject/4b14de2a-566f-4571-adb4-f4293b0a9bfc>
+  PrefabRemaps:
+    []
+  Name: Body
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 30.166389, y: 106.186722, z: -0.000007}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 3.000000, y: 3.000000, z: 3.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 866eaa19-4134-41af-9134-b3f812507cf2
+- !<SceneObject/50c433aa-74ac-400b-9d4c-639c4bf7a1ad>
+  PrefabRemaps:
+    []
+  Name: FF1 Anim
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 7660a896-1827-435a-976e-b0af533567fe
+    - !<own> 065fd7b8-d288-4dbb-aa1c-971fca485312
+    - !<own> 9df815e6-803b-4961-897a-ef2a25e269cd
+- !<RenderMeshVisual/5f1979d3-8216-4c0c-9b4d-ecd2ba60f26a>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 5e4bc118-c704-4890-be2a-342ffdf65081
+  Mesh: !<reference> c8da27d2-3cf8-4fc1-8915-f35ba3db5124
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/67c62e32-6967-46db-83e0-dcda44701121>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 462468e3-c77e-4b26-a084-6c548f101fef
+  Mesh: !<reference> 690a9a1f-57bb-4873-bee8-52e89aa45199
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ScriptComponent/699a382a-a592-4595-864d-315d279828bb>
+  PrefabRemaps:
+    []
+  Name: TweenAlpha
+  Enabled: true
+  ScriptAsset: !<reference> 2afcb666-ee22-48f5-8895-0ae56b4af416
+  ScriptInputsDefault:
+    sceneObjectReference: true
+    tweenName: true
+    playAutomatically: true
+    movementType: true
+    start: true
+    end: true
+    from: true
+    to: true
+    offset: true
+    additive: true
+    recursive: true
+    delay: true
+    easingFunction: true
+    easingType: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sceneObjectReference: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      tweenName: ""
+      playAutomatically: true
+      loopType: 2
+      movementType: 0
+      start: !<float> 0.000000
+      end: !<float> 1.000000
+      from: !<float> 0.000000
+      to: !<float> 0.000000
+      offset: !<float> 0.000000
+      additive: false
+      recursive: false
+      time: !<float> 2.000000
+      delay: !<float> 0.000000
+      easingFunction: Quadratic
+      easingType: Out
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptAssetData/6a92e631-2d62-4c46-9bfa-b3b9fd4caad7>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 8d50b4a2-8ddf-4846-bebc-fe26b2825d81
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    additive: false
+    delay: false
+    easingFunction: false
+    easingType: false
+    end: false
+    from: false
+    loopType: false
+    movementType: false
+    offset: false
+    playAutomatically: false
+    recursive: false
+    sceneObjectReference: false
+    start: false
+    time: false
+    to: false
+    tweenName: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - sceneObjectReference: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      tweenName: ""
+      playAutomatically: true
+      loopType: 0
+      movementType: 0
+      start: !<float> 0.000000
+      end: !<float> 1.000000
+      from: !<float> 0.000000
+      to: !<float> 0.000000
+      offset: !<float> 0.000000
+      additive: false
+      recursive: false
+      time: !<float> 1.000000
+      delay: !<float> 0.000000
+      easingFunction: Quadratic
+      easingType: Out
+  ScriptTypes:
+    -
+      {}
+- !<SceneObject/6ca4ed78-38f0-4274-84dc-d57154024ebb>
+  PrefabRemaps:
+    []
+  Name: Glow
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 10.000000, y: 10.000000, z: 10.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 25148305-f103-40ff-9cda-7616cad92637
+- !<SceneObject/72d4d4f9-68ee-4ff2-9fe9-ec25348e31fe>
+  PrefabRemaps:
+    []
+  Name: FireFly Comp3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -22.245937, y: -16.064018, z: -0.000001}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.000000, y: 0.000000, z: 0.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> c8960152-8b63-4f1d-bf6a-cc19888f96ea
+    - !<own> 6ca4ed78-38f0-4274-84dc-d57154024ebb
+    - !<own> bf1431d0-ce2d-4dc9-a8f3-57dbd98259ca
+  Components:
+    []
+- !<ScriptComponent/7660a896-1827-435a-976e-b0af533567fe>
+  PrefabRemaps:
+    []
+  Name: TweenTransform
+  Enabled: true
+  ScriptAsset: !<reference> 274391b2-513d-48d5-87da-b3b85c43cfe6
+  ScriptInputsDefault:
+    playAutomatically: true
+    loopType: true
+    movementType: true
+    start: true
+    from: true
+    to: true
+    offset: true
+    additive: true
+    delay: true
+    isLocal: true
+    easingFunction: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sceneObjectReference: !<reference.SceneObject> 357c063a-661e-4d19-957d-a414405920f6
+      tweenName: FF1Grow
+      playAutomatically: true
+      loopType: 0
+      type: 1
+      movementType: 0
+      start: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      end: !<Vec3> {x: 5.000000, y: 5.000000, z: 5.000000}
+      from: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      to: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      offset: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      additive: false
+      time: !<float> 5.000000
+      delay: !<float> 0.000000
+      isLocal: true
+      easingFunction: Quadratic
+      easingType: InOut
+  ScriptTypes:
+    "":
+      {}
+- !<RenderMeshVisual/866eaa19-4134-41af-9134-b3f812507cf2>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 5e4bc118-c704-4890-be2a-342ffdf65081
+  Mesh: !<reference> c8da27d2-3cf8-4fc1-8915-f35ba3db5124
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/91a7929f-9557-4dff-b5e9-51b1be3a7fc3>
+  PrefabRemaps:
+    []
+  Name: FF2 Anim
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 30.166389, y: 106.186722, z: -0.000007}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 95971ef3-53bb-4133-9c3d-95c9b9928b62
+    - !<own> a7b3ea07-d5a5-427f-87ca-0ef6747668ca
+- !<ScriptComponent/91d2416a-be21-4cf4-973f-748197efd113>
+  PrefabRemaps:
+    []
+  Name: TweenTransform
+  Enabled: true
+  ScriptAsset: !<reference> 274391b2-513d-48d5-87da-b3b85c43cfe6
+  ScriptInputsDefault:
+    playAutomatically: true
+    type: true
+    start: true
+    from: true
+    to: true
+    additive: true
+    delay: true
+    isLocal: true
+    easingFunction: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sceneObjectReference: !<reference.SceneObject> 72d4d4f9-68ee-4ff2-9fe9-ec25348e31fe
+      tweenName: FF3Hover
+      playAutomatically: true
+      loopType: 2
+      type: 0
+      movementType: 3
+      start: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      end: !<Vec3> {x: 5.000000, y: 5.000000, z: 5.000000}
+      from: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      to: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      offset: !<Vec3> {x: -2.000000, y: -4.000000, z: 0.000000}
+      additive: false
+      time: 6.500000
+      delay: !<float> 0.000000
+      isLocal: true
+      easingFunction: Quadratic
+      easingType: InOut
+  ScriptTypes:
+    "":
+      {}
+- !<ObjectPrefab/91db8ab4-9537-4b80-aab5-7d4813b1793c>
+  PackagePath: ""
+  objects:
+    - !<own> 3822cb09-abdf-4c99-baad-d74ccc1ecf4d
+  LazyLoading: false
+  RetainAssets: true
+- !<ScriptComponent/95971ef3-53bb-4133-9c3d-95c9b9928b62>
+  PrefabRemaps:
+    []
+  Name: TweenTransform
+  Enabled: true
+  ScriptAsset: !<reference> 274391b2-513d-48d5-87da-b3b85c43cfe6
+  ScriptInputsDefault:
+    playAutomatically: true
+    loopType: true
+    movementType: true
+    start: true
+    from: true
+    to: true
+    offset: true
+    additive: true
+    isLocal: true
+    easingFunction: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sceneObjectReference: !<reference.SceneObject> 057f884c-d745-474f-ba7a-dba0b9fc751d
+      tweenName: FF2Grow
+      playAutomatically: true
+      loopType: 0
+      type: 1
+      movementType: 0
+      start: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      end: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+      from: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      to: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      offset: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      additive: false
+      time: !<float> 5.000000
+      delay: !<float> 11.000000
+      isLocal: true
+      easingFunction: Quadratic
+      easingType: InOut
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/97ef45d9-884e-43db-b43e-08fcd591844d>
+  PrefabRemaps:
+    []
+  Name: Body
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 3.000000, y: 3.000000, z: 3.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> cd54f2c0-a6c5-47a2-ba05-516456199328
+- !<ScriptComponent/9df815e6-803b-4961-897a-ef2a25e269cd>
+  PrefabRemaps:
+    []
+  Name: TweenTransform
+  Enabled: true
+  ScriptAsset: !<reference> 274391b2-513d-48d5-87da-b3b85c43cfe6
+  ScriptInputsDefault:
+    playAutomatically: true
+    type: true
+    start: true
+    from: true
+    to: true
+    additive: true
+    delay: true
+    isLocal: true
+    easingFunction: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sceneObjectReference: !<reference.SceneObject> 357c063a-661e-4d19-957d-a414405920f6
+      tweenName: FF1Hover
+      playAutomatically: true
+      loopType: 2
+      type: 0
+      movementType: 3
+      start: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      end: !<Vec3> {x: 5.000000, y: 5.000000, z: 5.000000}
+      from: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      to: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      offset: !<Vec3> {x: 0.000000, y: 7.000000, z: 0.000000}
+      additive: false
+      time: !<float> 5.000000
+      delay: !<float> 0.000000
+      isLocal: true
+      easingFunction: Quadratic
+      easingType: InOut
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptAssetData/a1e51cc3-c9c5-44a3-923c-7dc4137ac6bd>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 72fc86bf-113a-4a3f-b7ff-0d75625bb693
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    additive: false
+    delay: false
+    easingFunction: false
+    easingType: false
+    end: false
+    from: false
+    isLocal: false
+    loopType: false
+    movementType: false
+    offset: false
+    playAutomatically: false
+    sceneObjectReference: false
+    start: false
+    time: false
+    to: false
+    tweenName: false
+    type: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - sceneObjectReference: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      tweenName: ""
+      playAutomatically: true
+      loopType: 0
+      type: 0
+      movementType: 0
+      start: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      end: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      from: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      to: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      offset: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      additive: false
+      time: !<float> 1.000000
+      delay: !<float> 0.000000
+      isLocal: true
+      easingFunction: Quadratic
+      easingType: Out
+  ScriptTypes:
+    -
+      {}
+- !<AssetImportMetadata/a597e0e7-adc1-6652-66a7-96d951332efe>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 0715c17f-2f6f-43e6-9d36-5d6beadd5ad6
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 0715c17f-2f6f-43e6-9d36-5d6beadd5ad6
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> 0380800f-18d2-4a85-b5bb-3ec7d598892a
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptComponent/a7b3ea07-d5a5-427f-87ca-0ef6747668ca>
+  PrefabRemaps:
+    []
+  Name: TweenTransform
+  Enabled: true
+  ScriptAsset: !<reference> 274391b2-513d-48d5-87da-b3b85c43cfe6
+  ScriptInputsDefault:
+    playAutomatically: true
+    type: true
+    start: true
+    from: true
+    to: true
+    additive: true
+    delay: true
+    isLocal: true
+    easingFunction: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sceneObjectReference: !<reference.SceneObject> 057f884c-d745-474f-ba7a-dba0b9fc751d
+      tweenName: FF2Hover
+      playAutomatically: true
+      loopType: 2
+      type: 0
+      movementType: 3
+      start: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      end: !<Vec3> {x: 5.000000, y: 5.000000, z: 5.000000}
+      from: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      to: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      offset: !<Vec3> {x: 2.000000, y: 5.000000, z: 0.000000}
+      additive: false
+      time: !<float> 6.000000
+      delay: !<float> 0.000000
+      isLocal: true
+      easingFunction: Quadratic
+      easingType: InOut
+  ScriptTypes:
+    "":
+      {}
+- !<AssetImportMetadata/b7256029-ce4f-c35d-f872-ac234f99b499>
+  ImportedAssetIds:
+    FileMesh: !<reference> c8da27d2-3cf8-4fc1-8915-f35ba3db5124
+  ImporterName: FileMeshImporter
+  PrimaryAsset: !<reference> c8da27d2-3cf8-4fc1-8915-f35ba3db5124
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<FileMeshImporterSettings>
+    ModifiedVertexFormats:
+      normal: Float
+      position: Float
+      tangent: Float
+      texture0: Float
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/bc3fe262-728e-65c6-4175-71fba3d525f0>
+  ImportedAssetIds:
+    NativePackageDescriptor: !<reference> 50286f5e-8ab4-4b63-a618-7a119ec79df0
+  ImporterName: NativePackageDescriptorImporter
+  PrimaryAsset: !<reference> 50286f5e-8ab4-4b63-a618-7a119ec79df0
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/bf1431d0-ce2d-4dc9-a8f3-57dbd98259ca>
+  PrefabRemaps:
+    []
+  Name: FF3 Anim
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 214b479e-7f0d-44f0-98cb-b65244ae38bb
+    - !<own> 91d2416a-be21-4cf4-973f-748197efd113
+- !<SceneObject/c8960152-8b63-4f1d-bf6a-cc19888f96ea>
+  PrefabRemaps:
+    []
+  Name: Body
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 3.000000, y: 3.000000, z: 3.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5f1979d3-8216-4c0c-9b4d-ecd2ba60f26a
+- !<RenderMeshVisual/cd54f2c0-a6c5-47a2-ba05-516456199328>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 5e4bc118-c704-4890-be2a-342ffdf65081
+  Mesh: !<reference> c8da27d2-3cf8-4fc1-8915-f35ba3db5124
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<AssetImportMetadata/d039fe23-4330-f8f0-f060-5e67c638c90e>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 2afcb666-ee22-48f5-8895-0ae56b4af416
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 2afcb666-ee22-48f5-8895-0ae56b4af416
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 6a92e631-2d62-4c46-9bfa-b3b9fd4caad7
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/dd251750-79e3-4207-a157-b0d685c20d7f>
+  ImportedAssetIds:
+    JsonAsset: !<reference> 3b10b911-62e3-4fe9-83e3-f6a6fb182cea
+  ImporterName: JsonAssetImporter
+  PrimaryAsset: !<reference> 3b10b911-62e3-4fe9-83e3-f6a6fb182cea
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

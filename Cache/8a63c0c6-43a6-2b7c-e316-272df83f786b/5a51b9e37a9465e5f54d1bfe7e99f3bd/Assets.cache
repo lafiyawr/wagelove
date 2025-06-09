@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    9c64deb6-81ea-4f90-9708-79464ff9c1c7: 8a63c0c6-43a6-2b7c-e316-272df83f786b/5a51b9e37a9465e5f54d1bfe7e99f3bd/Data/PurpleBlue_Ramp.png
+  Assets:
+    - !<FileTexture/9c64deb6-81ea-4f90-9708-79464ff9c1c7>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 3
+  SourceHash: 5a51b9e37a9465e5f54d1bfe7e99f3bd
+  FileHash: 24fab4ebc3699ff13e989c6194a27fbe
+  NativePackageItems:
+    []

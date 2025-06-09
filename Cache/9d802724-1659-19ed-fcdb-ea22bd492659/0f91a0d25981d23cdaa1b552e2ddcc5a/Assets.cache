@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    a789e27c-9813-4566-bce4-f7b1a7cdcc3d: 9d802724-1659-19ed-fcdb-ea22bd492659/0f91a0d25981d23cdaa1b552e2ddcc5a/Data/leaf.jpg
+  Assets:
+    - !<FileTexture/a789e27c-9813-4566-bce4-f7b1a7cdcc3d>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 0f91a0d25981d23cdaa1b552e2ddcc5a
+  FileHash: 864fdb6d3e05ce2274e1ab6ac1d787e1
+  NativePackageItems:
+    []

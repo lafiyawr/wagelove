@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    e6f65845-4fb6-47cd-babf-5d8a2685e988: 7a771e40-1645-3dca-ab1e-42c8e9a9e63b/aa54ff9e2465c371bb5108d8fdb35a1a/Data/glow-circle.png
+  Assets:
+    - !<FileTexture/e6f65845-4fb6-47cd-babf-5d8a2685e988>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: aa54ff9e2465c371bb5108d8fdb35a1a
+  FileHash: bb9a0e5df7d588aaf37ebff1d74b9d6b
+  NativePackageItems:
+    []

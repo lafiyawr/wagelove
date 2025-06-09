@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    69ed256d-60b2-4fa0-b0ef-e6e33850360a: ddaa255a-a3a4-4ba5-bcc2-bbb61ee44430/0adc52d34158a4e6d9a02a0e6362e3a4/Data/pearly gold A base.png
+  Assets:
+    - !<FileTexture/69ed256d-60b2-4fa0-b0ef-e6e33850360a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 0adc52d34158a4e6d9a02a0e6362e3a4
+  FileHash: f5721f8fde75560009ee7dada1604a16
+  NativePackageItems:
+    []

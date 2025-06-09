@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    43c0d19b-c4fc-488c-8760-d60bb51c6b9b: d10509a3-111b-4b2a-8871-e0b592ff7f49/6f65345b8ca1d54d459596f068d6e6d7/Data/TweenBox.mesh
+  Assets:
+    - !<FileMesh/43c0d19b-c4fc-488c-8760-d60bb51c6b9b>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 12
+        Vertices: 24
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 15.240000, y: 15.240000, z: 15.240000}
+  SourceHash: 6f65345b8ca1d54d459596f068d6e6d7
+  FileHash: 6acc2d6dca717cac2926bda78005b496
+  NativePackageItems:
+    []

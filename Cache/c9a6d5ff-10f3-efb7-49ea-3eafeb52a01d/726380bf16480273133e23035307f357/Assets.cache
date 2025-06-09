@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    28094e98-b578-485e-afc5-850d115f60e3: c9a6d5ff-10f3-efb7-49ea-3eafeb52a01d/726380bf16480273133e23035307f357/Data/Number Test.png
+  Assets:
+    - !<FileTexture/28094e98-b578-485e-afc5-850d115f60e3>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 726380bf16480273133e23035307f357
+  FileHash: eaacdbe23a33374e435fb4f0d8bd13ff
+  NativePackageItems:
+    []

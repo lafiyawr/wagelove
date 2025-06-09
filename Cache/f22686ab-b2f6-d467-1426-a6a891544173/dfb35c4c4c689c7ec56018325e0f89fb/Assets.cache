@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    ce2eb5be-35d1-4ee7-864d-44d9ea0a6de1: f22686ab-b2f6-d467-1426-a6a891544173/dfb35c4c4c689c7ec56018325e0f89fb/Data/roots_emissive.jpg
+  Assets:
+    - !<FileTexture/ce2eb5be-35d1-4ee7-864d-44d9ea0a6de1>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: dfb35c4c4c689c7ec56018325e0f89fb
+  FileHash: bd3cd8a33247c682a94f9de074b37eeb
+  NativePackageItems:
+    []

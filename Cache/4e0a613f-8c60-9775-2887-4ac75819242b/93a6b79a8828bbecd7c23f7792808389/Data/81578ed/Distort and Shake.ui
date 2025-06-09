@@ -1,0 +1,109 @@
+{ 
+	"ui": 
+	[
+		{
+        	"label": "Graph Parameters",
+        	"widget": "group_start"
+        },
+{ 
+                	"bindingName": "screenTexture", 
+                	"label":       "Screen Texture", 
+                	"widget":      "texture_group",
+                	"sortIndex":   "-1",
+                	"hint":        ""
+                },
+                
+                {
+                	"label": "Distortion",
+                	"widget": "group_start"
+                },                    
+                    { 
+                    	"bindingName": "flowTexture", 
+                    	"label":       "Flow Texture", 
+                    	"widget":      "texture_group",
+                    	"sortIndex":   "0",
+                    	"hint":        ""
+                    },
+                    
+                    {
+                    	"bindingName": "intensity",
+                    	"label":       " Intensity Min/Max",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "1",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                {
+                	"widget": "group_end"
+                },
+                
+                {
+                	"label": "Shake",
+                	"widget": "group_start"
+                },                    
+                    {
+                    	"bindingName": "frequency",
+                    	"label":       "Frequency",
+                    	"widget":      "spinbox",
+                    	"min":         0.01,
+                    	"step":        "0.01",
+                    	"sortIndex":   "1",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "shift",
+                    	"label":       "Shift",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "1",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                {
+                	"widget": "group_end"
+                },
+                
+                {
+                	"label": "Deta from Script",
+                	"widget": "group_start"
+                },                    
+                    {
+                    	"bindingName": "activate",
+                    	"label":       "Activate",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "2",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                {
+                	"widget": "group_end"
+                },
+
+        {
+        	"widget": "group_end"
+        },
+        
+		
+	{
+		"bindingName": "alphaTestThreshold",
+		"widget": "slider",
+		"min" : 0.0,
+		"max" : 1.0,
+		"step": 0.001,
+		"default": 0.5,
+		"hint": "When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear."
+	}
+	
+	],
+	
+	"shaderType": "PostProcessing",
+	
+	"extraDefines":
+	[
+		
+	]
+}

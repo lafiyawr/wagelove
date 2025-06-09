@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    df0a2f55-a932-48d2-80a9-67d3a09ca4c7: 88c64fb4-1d13-bcc8-0963-c700d55f1bc6/f6c2954adfd060232448df6c601c152e/Data/ColorRamp Rainbow.png
+  Assets:
+    - !<FileTexture/df0a2f55-a932-48d2-80a9-67d3a09ca4c7>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 2
+  SourceHash: f6c2954adfd060232448df6c601c152e
+  FileHash: 2550a9fcbe0a580a2356d21566611b31
+  NativePackageItems:
+    []

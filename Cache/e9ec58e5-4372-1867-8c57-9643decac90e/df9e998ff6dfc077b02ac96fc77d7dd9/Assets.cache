@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    f44816d8-1aea-4b06-ad78-5cc2967f6228: e9ec58e5-4372-1867-8c57-9643decac90e/df9e998ff6dfc077b02ac96fc77d7dd9/Data/tripo_mesh_5dedd9a0-05d3-45e2-944a-e41f5df3df771.002.mesh
+  Assets:
+    - !<FileMesh/f44816d8-1aea-4b06-ad78-5cc2967f6228>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 9884
+        Vertices: 29652
+        Blendshapes:
+          []
+        Joints: 33
+        AabbSize: {x: 0.445652, y: 0.954469, z: 0.175217}
+  SourceHash: df9e998ff6dfc077b02ac96fc77d7dd9
+  FileHash: 05418410505438ea8a909fe49e5296f2
+  NativePackageItems:
+    []

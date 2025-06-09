@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    ac84b72a-6906-4425-8aa8-43471bf430bf: b0016f2a-d9c7-4c95-9b33-89852dd8020a/27e436c67bac74ed594c0ae936d86916/Data/halo.png
+  Assets:
+    - !<FileTexture/ac84b72a-6906-4425-8aa8-43471bf430bf>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 27e436c67bac74ed594c0ae936d86916
+  FileHash: fca2b8ad98b3906b9c2192d14cfe5caa
+  NativePackageItems:
+    []

@@ -1,0 +1,153 @@
+{ 
+	"ui": 
+	[
+		{
+        	"label": "Graph Parameters",
+        	"widget": "group_start"
+        },
+{
+                	"bindingName": "Tweak_N42",
+                	"bindingType": "define",
+                	"optimize":    true,
+                	"label":       "UseMask",
+                	"widget":      "checkbox",
+                	"sortIndex":   "0",
+                	"hint":        ""
+                },
+                
+                { 
+                	"bindingName": "maskTex", 
+                	"label":       "Mask Texture", 
+                	"widget":      "texture_group",
+                	"sortIndex":   "0",
+                	"hint":        ""
+                },
+                
+                {
+                	"label": "Color",
+                	"widget": "group_start"
+                },                    
+                    {
+                    	"label": "Underwater",
+                    	"widget": "group_start"
+                    },                        
+                        {
+                        	"bindingName": "colorA",
+                        	"label":       "Color A",
+                        	"widget":      "color",
+                        	"sortIndex":   "1",
+                        	"hint":        "",
+                        	"default":     "1.0"
+                        },
+                        
+                        {
+                        	"bindingName": "colorB",
+                        	"label":       "Color B",
+                        	"widget":      "color",
+                        	"sortIndex":   "1",
+                        	"hint":        "",
+                        	"default":     "1.0"
+                        },
+                    {
+                    	"widget": "group_end"
+                    },
+                    
+                    {
+                    	"label": "Repel",
+                    	"widget": "group_start"
+                    },                        
+                        {
+                        	"bindingName": "repelcolorA",
+                        	"label":       "Color A",
+                        	"widget":      "color",
+                        	"sortIndex":   "2",
+                        	"hint":        "",
+                        	"default":     "1.0"
+                        },
+                        
+                        {
+                        	"bindingName": "repelcolorB",
+                        	"label":       "Color B",
+                        	"widget":      "color",
+                        	"sortIndex":   "2",
+                        	"hint":        "",
+                        	"default":     "1.0"
+                        },
+                    {
+                    	"widget": "group_end"
+                    },
+                {
+                	"widget": "group_end"
+                },
+                
+                {
+                	"label": "Deta from Script",
+                	"widget": "group_start"
+                },                    
+                    {
+                    	"bindingName": "hasInfluence",
+                    	"label":       "Has Influence",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "3",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "isAttracting",
+                    	"label":       "Is Attracting",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "4",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "fadetimeB",
+                    	"label":       "fadetimeB",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "5",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "fadetimeA",
+                    	"label":       "fadetimeA",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "6",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                {
+                	"widget": "group_end"
+                },
+
+        {
+        	"widget": "group_end"
+        },
+        
+		
+	{
+		"bindingName": "alphaTestThreshold",
+		"widget": "slider",
+		"min" : 0.0,
+		"max" : 1.0,
+		"step": 0.001,
+		"default": 0.5,
+		"hint": "When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear."
+	}
+	
+	],
+	
+	"shaderType": "PostProcessing",
+	
+	"extraDefines":
+	[
+		
+	]
+}

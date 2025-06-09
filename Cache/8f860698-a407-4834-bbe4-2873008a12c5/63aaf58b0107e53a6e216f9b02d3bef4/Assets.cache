@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    ccc79b64-cad8-4bc4-a70a-f5077a431348: 8f860698-a407-4834-bbe4-2873008a12c5/63aaf58b0107e53a6e216f9b02d3bef4/Data/KARNIBLA.ttf
+  Assets:
+    - !<Font/ccc79b64-cad8-4bc4-a70a-f5077a431348>
+      PackagePath: ""
+  SourceHash: 63aaf58b0107e53a6e216f9b02d3bef4
+  FileHash: e4b8f1a107d738d59fd38243a2933d17
+  NativePackageItems:
+    []

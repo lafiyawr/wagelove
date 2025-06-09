@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    7034fcf5-b9d1-4cdf-a668-feffcfdfd3ab: fdcdb84e-461c-e857-6033-edd73e86cddf/559c4ed934cca9419600fb9d3502ed25/Data/deeptwistybridges_plant_bulb_01_cluster_e_LOD0__0.001.mesh
+  Assets:
+    - !<FileMesh/7034fcf5-b9d1-4cdf-a668-feffcfdfd3ab>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 1152
+        Vertices: 3456
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 1.135383, y: 0.705761, z: 1.134269}
+  SourceHash: 559c4ed934cca9419600fb9d3502ed25
+  FileHash: b71d1583552bf6f50feab1433a79f281
+  NativePackageItems:
+    []

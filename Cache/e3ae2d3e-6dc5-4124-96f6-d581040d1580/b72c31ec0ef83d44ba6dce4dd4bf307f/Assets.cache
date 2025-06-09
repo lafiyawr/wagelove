@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    8a427761-9dca-46bf-bf0e-2a0b3be32619: e3ae2d3e-6dc5-4124-96f6-d581040d1580/b72c31ec0ef83d44ba6dce4dd4bf307f/Data/earth-unhealthy.jpg
+  Assets:
+    - !<FileTexture/8a427761-9dca-46bf-bf0e-2a0b3be32619>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 2048
+        Height: 2048
+  SourceHash: b72c31ec0ef83d44ba6dce4dd4bf307f
+  FileHash: b8aa4297e825fadb37b54dbf8062dbda
+  NativePackageItems:
+    []

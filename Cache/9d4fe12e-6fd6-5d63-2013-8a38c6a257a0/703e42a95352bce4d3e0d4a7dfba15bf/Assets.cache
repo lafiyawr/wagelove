@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    13794c1a-5289-45b9-b049-def35e7f7759: 9d4fe12e-6fd6-5d63-2013-8a38c6a257a0/703e42a95352bce4d3e0d4a7dfba15bf/Data/ancestor1-og.jpg
+  Assets:
+    - !<FileTexture/13794c1a-5289-45b9-b049-def35e7f7759>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 703e42a95352bce4d3e0d4a7dfba15bf
+  FileHash: 035a739d5b33bad88f5229b001a91c74
+  NativePackageItems:
+    []

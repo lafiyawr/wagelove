@@ -1,0 +1,32 @@
+- !<NativePackageDescriptor/6fd6cc64-aa50-4524-bc31-5bf933b5245d>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 9
+    patch: 1
+    build: 25051422
+    type: Unset
+  Description: ""
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  UpdateCheckpoint: 57
+  ExportUid: 99a0ce17-1cbb-4510-9bcf-4b9a08a5da7f
+  ComponentUid: 74504c63-495b-48f3-8471-106b37eefbc5
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  Instantiable: !<reference> dea4bb1a-37e3-4cf0-8bd7-f90df78f5e68
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0

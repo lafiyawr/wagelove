@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    59af1a81-9419-47d1-abda-98abdce8d88d: 7c12fa5c-e130-48e1-5d5c-4aa4711c65cc/b1b249501f5e26fa9c2413b87d49d1fe/Data/tripo_image_d9d0b642-f8b9-41d5-af22-2c92f26a5dd3_1-tripo_image_.jpg
+  Assets:
+    - !<FileTexture/59af1a81-9419-47d1-abda-98abdce8d88d>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: b1b249501f5e26fa9c2413b87d49d1fe
+  FileHash: 6ea34c8e9179e7c57e9f0b2dc7238c82
+  NativePackageItems:
+    []

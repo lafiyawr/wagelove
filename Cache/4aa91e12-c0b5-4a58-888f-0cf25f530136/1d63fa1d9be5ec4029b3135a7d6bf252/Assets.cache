@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    7a7a67fa-c767-430d-830c-85660bb26ca5: 4aa91e12-c0b5-4a58-888f-0cf25f530136/1d63fa1d9be5ec4029b3135a7d6bf252/Data/fireflies2.mp3
+  Assets:
+    - !<FileAudioTrack/7a7a67fa-c767-430d-830c-85660bb26ca5>
+      PackagePath: ""
+  SourceHash: 1d63fa1d9be5ec4029b3135a7d6bf252
+  FileHash: 860617aab27692f41b27a7bb46b2d9ab
+  NativePackageItems:
+    []

@@ -1,0 +1,16 @@
+- !<AssetImportMetadata/31ef6e76-a08c-4841-acd4-0b3f3e1a2a2d>
+  ImportedAssetIds:
+    HandTracking3DAsset: !<reference> 3ec3d180-b629-4031-b6c7-c1abff03580b
+  ImporterName: HandTracking3DAssetImporter
+  PrimaryAsset: !<reference> 3ec3d180-b629-4031-b6c7-c1abff03580b
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    AssetLibraryId: B8Ub8LTPhorzR0YD28voD
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

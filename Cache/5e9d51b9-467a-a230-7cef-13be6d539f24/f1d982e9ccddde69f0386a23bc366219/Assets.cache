@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    235867f6-c031-4d2f-98be-f568c621fd6a: 5e9d51b9-467a-a230-7cef-13be6d539f24/f1d982e9ccddde69f0386a23bc366219/Data/roots_base.jpg
+  Assets:
+    - !<FileTexture/235867f6-c031-4d2f-98be-f568c621fd6a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: f1d982e9ccddde69f0386a23bc366219
+  FileHash: b99899be308d47f20093db8c8afe16e6
+  NativePackageItems:
+    []

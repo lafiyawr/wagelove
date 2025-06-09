@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    07723a88-0c84-43a4-bb60-35e4846d28f0: 2883334d-a833-4f9b-b5c7-ab2132c92dff/5015a1ff9b180044cff76e3be3c6ddf3/Data/Diamond base texture.jpg
+  Assets:
+    - !<FileTexture/07723a88-0c84-43a4-bb60-35e4846d28f0>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 5015a1ff9b180044cff76e3be3c6ddf3
+  FileHash: e420edc3fa891c5041a628c6bc7437c8
+  NativePackageItems:
+    []

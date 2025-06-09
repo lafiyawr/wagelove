@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    cb4b0638-7610-4cab-88fe-5e6c553ad72a: 0f14ab23-beda-7486-2131-5f59ccbcfe1b/8de83132209be84cf86650fa08e121f6/Data/mesh_LOD1_0.010_Material1.001_0.mesh
+  Assets:
+    - !<FileMesh/cb4b0638-7610-4cab-88fe-5e6c553ad72a>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 854
+        Vertices: 2562
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 1.783412, y: 1.461596, z: 1.712461}
+  SourceHash: 8de83132209be84cf86650fa08e121f6
+  FileHash: 339ae873d6b9a59755248235b8769bba
+  NativePackageItems:
+    []

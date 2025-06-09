@@ -1,0 +1,310 @@
+- !<AssetCache>
+  AssetFiles:
+    42b01cfc-3e34-49bd-9df3-f24bb11fd4f9: a2d04b7d-faaf-8c57-8294-04c721aff5b7/b0903d554db6276ce83e0237b23184f1/Data/Hologram-Yellow-No Glitch.ss_graph
+  Assets:
+    - !<ShaderGraphPass/42b01cfc-3e34-49bd-9df3-f24bb11fd4f9>
+      PackagePath: ""
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_C_N113:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_D_N113:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 1.000000
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_GSplatPointSize_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_Import_N071:
+          typeIdx: 1
+          value: 0.500000
+        Port_Import_N106:
+          typeIdx: 1
+          value: 20.000000
+        Port_Import_N174:
+          typeIdx: 1
+          value: 20.000000
+        Port_Import_N181:
+          typeIdx: 1
+          value: 1.000000
+        Port_Import_N203:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input0_N009:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input0_N017:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input0_N022:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_Input0_N129:
+          typeIdx: 1
+          value: 1.100000
+        Port_Input1_N020:
+          typeIdx: 1
+          value: 0.400000
+        Port_Input1_N022:
+          typeIdx: 5
+          value: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+        Port_Input1_N049:
+          typeIdx: 1
+          value: 0.400000
+        Port_Input1_N055:
+          typeIdx: 1
+          value: 0.100000
+        Port_Input1_N056:
+          typeIdx: 1
+          value: 1.294000
+        Port_Input1_N058:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input1_N066:
+          typeIdx: 1
+          value: 0.200000
+        Port_Input1_N072:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input1_N078:
+          typeIdx: 1
+          value: 0.002000
+        Port_Input1_N117:
+          typeIdx: 1
+          value: 20.000000
+        Port_Input1_N122:
+          typeIdx: 1
+          value: 1.300000
+        Port_Input1_N125:
+          typeIdx: 1
+          value: 4.000000
+        Port_Input1_N126:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input1_N140:
+          typeIdx: 1
+          value: 1.300000
+        Port_Input1_N141:
+          typeIdx: 1
+          value: 4.000000
+        Port_Input1_N182:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input2_N014:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input2_N058:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input2_N072:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input2_N110:
+          typeIdx: 1
+          value: 0.180000
+        Port_Input2_N126:
+          typeIdx: 1
+          value: 1.000000
+        Port_Input2_N182:
+          typeIdx: 1
+          value: 1.000000
+        Port_LODValue_N013:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMaxA_N002:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxA_N034:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxA_N063:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxA_N067:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxA_N103:
+          typeIdx: 1
+          value: 1.000000
+        Port_RangeMaxB_N002:
+          typeIdx: 1
+          value: 2.000000
+        Port_RangeMaxB_N034:
+          typeIdx: 1
+          value: 2.000000
+        Port_RangeMaxB_N063:
+          typeIdx: 1
+          value: 20.000000
+        Port_RangeMaxB_N067:
+          typeIdx: 1
+          value: 100.000000
+        Port_RangeMaxB_N103:
+          typeIdx: 1
+          value: 100.000000
+        Port_RangeMinA_N002:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N034:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N063:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N067:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinA_N103:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinB_N002:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinB_N034:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinB_N063:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinB_N067:
+          typeIdx: 1
+          value: 0.000000
+        Port_RangeMinB_N103:
+          typeIdx: 1
+          value: 0.000000
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Scale_N041:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_Scale_N164:
+          typeIdx: 3
+          value: {x: 1.000000, y: 1.000000}
+        Port_UVCoord_N013:
+          typeIdx: 3
+          value: {x: 0.000000, y: 0.000000}
+        Port_Value3_N060:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N060:
+          typeIdx: 1
+          value: 0.000000
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_WorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 1.000000}
+      PassUiData: !<PassUiData>
+        ExtraDefines:
+          - SC_ENABLE_RT_CASTER
+        PassBindings:
+          - mLabel: Graph Parameters
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Opacity
+            mType: Property
+            mName: Opacity
+            mWidget: slider
+            mHint: "Property: Opacity"
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: Color
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Tint
+            mType: Property
+            mName: rimTint
+            mWidget: color
+            mHint: "Property: rimTint"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: |-
+              Property: alphaTestThreshold
+              
+              When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear.
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.001000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+        ShaderType: Mesh3d
+      ShaderPath: a2d04b7d-faaf-8c57-8294-04c721aff5b7/b0903d554db6276ce83e0237b23184f1/Data/81578ed/Hologram-Yellow-No Glitch.glsl
+      Defines:
+        []
+      Properties:
+        {}
+  SourceHash: b0903d554db6276ce83e0237b23184f1
+  FileHash: 4118b64550176b147210d9503b07d12f
+  NativePackageItems:
+    []

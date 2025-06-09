@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    8c40a4a2-bdf2-45fc-a368-18092481a221: fc98c820-6f15-4fef-9bf8-1e376dc3afe0/1b01ac371b29daac5cb9c906ab08c76b/Data/wrldspace_donut.mesh
+  Assets:
+    - !<FileMesh/8c40a4a2-bdf2-45fc-a368-18092481a221>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 3152
+        Vertices: 6209
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 342.950806, y: 129.107407, z: 344.673431}
+  SourceHash: 1b01ac371b29daac5cb9c906ab08c76b
+  FileHash: d2e9d38bef28c55fccee9ec1f45c618b
+  NativePackageItems:
+    []

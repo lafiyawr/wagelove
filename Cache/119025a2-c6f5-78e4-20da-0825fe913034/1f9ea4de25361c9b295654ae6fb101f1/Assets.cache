@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    c3aa6265-b2c7-4dcf-a891-de49d8023a83: 119025a2-c6f5-78e4-20da-0825fe913034/1f9ea4de25361c9b295654ae6fb101f1/Data/LoadingBarGrey.png
+  Assets:
+    - !<FileTexture/c3aa6265-b2c7-4dcf-a891-de49d8023a83>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 128
+        Height: 128
+  SourceHash: 1f9ea4de25361c9b295654ae6fb101f1
+  FileHash: f20a3336597011312cff38c6686d6c11
+  NativePackageItems:
+    []

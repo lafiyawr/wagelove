@@ -1,0 +1,2226 @@
+- !<ObjectPrefab/6f50834e-677b-4491-be73-9416f90dda2a>
+  PackagePath: ""
+  objects:
+    - !<own> 73bf7e4d-f8cf-43af-ae46-38afae724e87
+  LazyLoading: false
+  RetainAssets: true
+- !<RenderMeshVisual/007a01e2-5404-46d5-91f6-6d7f15bfb7c0>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c051bf6c-b222-4d35-a8d8-dca301c92a95
+  Mesh: !<reference> c79f6252-ac73-4bfa-bae2-66867a067c98
+  Skin: !<reference> a67b7747-8fe2-4b6d-93e9-8e63dd3122d6
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/07215618-6942-4ec6-a0fd-bed3e2f35d80>
+  PrefabRemaps:
+    []
+  Name: thumb-1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.067615, y: 3.518868, z: 0.000095}
+    rotation: {x: 14.081632, y: -0.000034, z: -0.000013}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 205f5f13-6cbf-4824-9f91-2d26f3948af2
+  Components:
+    []
+- !<SceneObject/092cd8bd-e4e4-4d45-9eed-1d0dce0ecadd>
+  PrefabRemaps:
+    []
+  Name: mid-3_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 3.166730, z: 0.000001}
+    rotation: {x: 0.000103, y: 0.000102, z: 0.000010}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> bc49a50f-20d7-4909-b0d5-d4fc490d912e
+  Components:
+    []
+- !<SceneObject/0ad0d910-e0c7-4d2b-920f-577167330110>
+  PrefabRemaps:
+    []
+  Name: ring-1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.002705, y: 3.534422, z: -0.000008}
+    rotation: {x: 1.238044, y: -0.000494, z: 0.017060}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 78ef2dd7-7a6e-43c2-a7bf-b4ede0b9e731
+  Components:
+    []
+- !<SceneObject/0ebf08df-b8d1-41b0-8dd3-bec8a3a78698>
+  PrefabRemaps:
+    []
+  Name: index-3_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 2.837167, z: 0.000001}
+    rotation: {x: -0.000113, y: 0.000000, z: -0.000031}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> c6fa77ae-e88c-4fd1-8d16-e3d6cc4f9c67
+  Components:
+    []
+- !<SceneObject/101500e2-0662-46ae-85fb-fce03c530c17>
+  PrefabRemaps:
+    []
+  Name: RightHandMesh
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 77020406-8e8c-4428-a4f4-0aa6dbdc45bd
+- !<RenderMeshVisual/1039b722-ef20-4913-bff4-8897a3846c97>
+  PrefabRemaps:
+    []
+  Name: s.574
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ae47c6a3-463b-4c6b-8626-098fa31f9cf0
+  Mesh: !<reference> cebda493-f3a3-40dc-adbb-f30a59636302
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/10667c4f-390f-4c3a-a069-e8b883d9e3c0>
+  PrefabRemaps:
+    []
+  Name: index-0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000001, y: 11.787850, z: -0.000005}
+    rotation: {x: 0.059034, y: 19.848232, z: -15.906439}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 36812701-40a0-451f-bc8b-3e63bb810c58
+  Components:
+    []
+- !<SceneObject/10fb052e-2975-49de-8546-ae040348575d>
+  PrefabRemaps:
+    []
+  Name: thumb-3_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 3.549802, z: -0.000002}
+    rotation: {x: 0.000000, y: 0.000028, z: 0.000033}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1f26212a-99f5-44d4-8ab2-6848e6537da5
+  Components:
+    []
+- !<SceneObject/1a8a74dc-562d-4fdd-8615-5548a6a21c57>
+  PrefabRemaps:
+    []
+  Name: LeftHandModel
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6281ff68-c689-432e-b571-31acec4c58c4
+    - !<own> 3d66b756-ec13-4ae8-a2ee-39377234e039
+  Components:
+    - !<own> a67b7747-8fe2-4b6d-93e9-8e63dd3122d6
+- !<SceneObject/1b21690d-4609-4dee-a269-dfd96290bcfd>
+  PrefabRemaps:
+    []
+  Name: pinky-3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.008175, y: 2.218149, z: 0.000011}
+    rotation: {x: 83.676964, y: -4.512028, z: -172.722351}
+    scale: {x: 0.999999, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> b751eafe-3091-40ef-9e74-a5f9c20018bc
+  Components:
+    []
+- !<SceneObject/1ca6cdf9-f487-406e-b776-69bd6a7e428c>
+  PrefabRemaps:
+    []
+  Name: thumb-3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.122141, y: 3.547711, z: 0.009542}
+    rotation: {x: -59.788219, y: 5.800904, z: 165.218079}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 557abe03-285b-4fe4-906c-9e8e00358121
+  Components:
+    []
+- !<SceneObject/1d9d384d-16cd-44b2-8d45-0a898859f467>
+  PrefabRemaps:
+    []
+  Name: pinky-3_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 2.218163, z: 0.000000}
+    rotation: {x: -0.000051, y: -0.000000, z: 0.000012}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> b67c59a5-f22b-4341-8388-864987b6808c
+  Components:
+    []
+- !<SceneObject/1de9d772-b6fe-4baa-b573-40dbff99cbab>
+  PrefabRemaps:
+    []
+  Name: mid-0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 11.483028, z: -0.000001}
+    rotation: {x: 1.265796, y: 6.113893, z: -3.274571}
+    scale: {x: 1.000000, y: 1.000001, z: 1.000001}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> c472d019-d546-4104-9650-74c75d446954
+  Components:
+    []
+- !<SceneObject/1dfc6f5d-8638-419b-b999-19bb613b02f9>
+  PrefabRemaps:
+    []
+  Name: pinky-3_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.218168, z: 0.000000}
+    rotation: {x: -0.000148, y: 0.000148, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3de37244-3e10-4da8-a912-a7eb544ab44f
+  Components:
+    []
+- !<SceneObject/1f26212a-99f5-44d4-8ab2-6848e6537da5>
+  PrefabRemaps:
+    []
+  Name: thumb-3_end_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 3.549803, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/205f5f13-6cbf-4824-9f91-2d26f3948af2>
+  PrefabRemaps:
+    []
+  Name: thumb-2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.054883, y: 3.957044, z: -0.000166}
+    rotation: {x: -2.622437, y: -0.000180, z: -0.000073}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 34837d6f-28c7-4280-83e2-c81615fd817c
+  Components:
+    []
+- !<SceneObject/24b6e703-b0a7-4602-81ea-d4df1f6aea29>
+  PrefabRemaps:
+    []
+  Name: thumb-3_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 3.549806, z: -0.000001}
+    rotation: {x: 0.000118, y: -23.667288, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e5e00de5-b708-4d0d-8955-30572107d4f1
+  Components:
+    []
+- !<SceneObject/272d569b-36ef-423c-ada3-bc6e2eae680c>
+  PrefabRemaps:
+    []
+  Name: thumb-2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.054705, y: 3.957049, z: -0.004463}
+    rotation: {x: -2.614394, y: -0.009460, z: -0.205101}
+    scale: {x: 0.999999, y: 1.000001, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1ca6cdf9-f487-406e-b776-69bd6a7e428c
+  Components:
+    []
+- !<SceneObject/2858c988-7fd8-4605-9956-b32e9cb87c74>
+  PrefabRemaps:
+    []
+  Name: mid-3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.010478, y: 3.166714, z: 0.000270}
+    rotation: {x: -86.458305, y: -5.335184, z: -5.675666}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2de2cbc1-2823-42c0-bc21-973818da6cab
+  Components:
+    []
+- !<SceneObject/2a2015df-232c-447d-b070-cef72b0156af>
+  PrefabRemaps:
+    []
+  Name: index-3_end_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.837167, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/2c474fdb-1570-43d1-9f7b-fb163cdcc6fe>
+  PrefabRemaps:
+    []
+  Name: pinky-3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.008174, y: 2.218150, z: 0.000077}
+    rotation: {x: 84.965065, y: 6.336932, z: -173.675354}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f7408431-a2f6-444e-969f-b5b73e9dcdc0
+  Components:
+    []
+- !<SceneObject/2de2cbc1-2823-42c0-bc21-973818da6cab>
+  PrefabRemaps:
+    []
+  Name: mid-3_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 3.166730, z: 0.000002}
+    rotation: {x: -0.000207, y: -0.000205, z: -0.000014}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 092cd8bd-e4e4-4d45-9eed-1d0dce0ecadd
+  Components:
+    []
+- !<SceneObject/2ef383e1-5473-492a-94ab-c78405226a90>
+  PrefabRemaps:
+    []
+  Name: flower-test2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -1.225409, y: -9.451270, z: -2.124828}
+    rotation: {x: -89.999672, y: 2.385900, z: -179.998184}
+    scale: {x: 0.090000, y: 0.090000, z: 0.090000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> af923f9f-a746-4f63-a3b8-7ed6abd5fc01
+    - !<own> 63cf2638-b08c-414b-b738-33620a528a8a
+  Components:
+    []
+- !<SceneObject/2f78a2f1-2424-48b1-b604-c05c6909b3d6>
+  PrefabRemaps:
+    []
+  Name: RightHandModel
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 769ac7f9-0245-48f7-b84c-a3e43076f763
+    - !<own> 101500e2-0662-46ae-85fb-fce03c530c17
+  Components:
+    - !<own> b4be0757-0a60-4a40-bf55-769e090aa281
+- !<SceneObject/34837d6f-28c7-4280-83e2-c81615fd817c>
+  PrefabRemaps:
+    []
+  Name: thumb-3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.122509, y: 3.547690, z: -0.000037}
+    rotation: {x: -119.536644, y: -11.132397, z: -6.501384}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 46b43d22-537c-456b-b039-b6d112036e3c
+  Components:
+    []
+- !<SceneObject/355d95d6-2f9e-48fa-a74a-453833661150>
+  PrefabRemaps:
+    []
+  Name: wrist_to_ring
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000001, y: -0.000005, z: 0.000002}
+    rotation: {x: 0.192331, y: 6.274083, z: -6.174474}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f42701e4-2878-4625-809f-022f91f79dff
+  Components:
+    []
+- !<SceneObject/36812701-40a0-451f-bc8b-3e63bb810c58>
+  PrefabRemaps:
+    []
+  Name: index-1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.017407, y: 3.481387, z: 0.001771}
+    rotation: {x: -8.084736, y: -0.103266, z: -0.728727}
+    scale: {x: 0.999999, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 67bd89e8-859d-4517-8a5a-65d14f26ad6e
+  Components:
+    []
+- !<SceneObject/3b93d9c0-f446-4c24-8b42-fd0891ddb563>
+  PrefabRemaps:
+    []
+  Name: mid-2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.002905, y: 3.650323, z: -0.000094}
+    rotation: {x: -2.676471, y: 0.000075, z: -0.000412}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2858c988-7fd8-4605-9956-b32e9cb87c74
+  Components:
+    []
+- !<SceneObject/3bf7e182-48c0-4c3b-b92f-545b6efd363d>
+  PrefabRemaps:
+    []
+  Name: index-1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.017495, y: 3.481403, z: 0.000180}
+    rotation: {x: -8.118593, y: -0.000575, z: 0.000047}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> b0b35830-7148-42df-ac2e-557a6110b517
+  Components:
+    []
+- !<SceneObject/3d66b756-ec13-4ae8-a2ee-39377234e039>
+  PrefabRemaps:
+    []
+  Name: LeftHandMesh
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000001, y: -0.000001, z: -0.000001}
+    rotation: {x: -90.000000, y: -0.000000, z: -0.000000}
+    scale: {x: 0.999999, y: 0.999999, z: 0.999999}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 007a01e2-5404-46d5-91f6-6d7f15bfb7c0
+- !<SceneObject/3de37244-3e10-4da8-a912-a7eb544ab44f>
+  PrefabRemaps:
+    []
+  Name: pinky-3_end_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.218167, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<ObjectTracking3D/463299d6-48d3-4599-ae9f-56eec684e52b>
+  PrefabRemaps:
+    []
+  Name: Object Tracking 3D
+  Enabled: true
+  ObjectIndex: 0
+  TrackingMode: ProportionsAndPose
+  TrackPosition: true
+  TrackingAsset: !<reference> 95d3681c-55b5-4825-9c49-f31850d8f70c
+  AttachmentLabels:
+    - wrist
+    - wrist_to_thumb
+    - thumb-0
+    - thumb-1
+    - thumb-2
+    - thumb-3
+    - wrist_to_index
+    - index-0
+    - index-1
+    - index-2
+    - index-3
+    - wrist_to_mid
+    - mid-0
+    - mid-1
+    - mid-2
+    - mid-3
+    - wrist_to_ring
+    - ring-0
+    - ring-1
+    - ring-2
+    - ring-3
+    - wrist_to_pinky
+    - pinky-0
+    - pinky-1
+    - pinky-2
+    - pinky-3
+  AttachedObjects:
+    - !<reference> 60fd376e-b17f-46d0-9868-21cfd7eea9db
+    - !<reference> 9dd192e4-a23e-4564-89fc-8bbb319c99d0
+    - !<reference> a1941836-6ad3-4838-8142-dace66e66f32
+    - !<reference> 07215618-6942-4ec6-a0fd-bed3e2f35d80
+    - !<reference> 205f5f13-6cbf-4824-9f91-2d26f3948af2
+    - !<reference> 34837d6f-28c7-4280-83e2-c81615fd817c
+    - !<reference> 54f818ca-aa70-4cf4-a94f-16794d416dcd
+    - !<reference> 6fa1f6bf-591e-46db-abdc-42430de91914
+    - !<reference> 3bf7e182-48c0-4c3b-b92f-545b6efd363d
+    - !<reference> b0b35830-7148-42df-ac2e-557a6110b517
+    - !<reference> cd12216b-417b-4118-b388-9269b433261c
+    - !<reference> 5cc30289-2d88-4121-851f-ce119920207f
+    - !<reference> f5b0623f-3aec-4c36-8ee7-90f3663663c3
+    - !<reference> a0b88692-5a16-408a-84a0-a53778a320ae
+    - !<reference> 3b93d9c0-f446-4c24-8b42-fd0891ddb563
+    - !<reference> 2858c988-7fd8-4605-9956-b32e9cb87c74
+    - !<reference> b1f686e0-0d51-4aed-8b97-0e929b1c3be3
+    - !<reference> f71ddbcf-90cc-40bd-ab12-92275b30fa1b
+    - !<reference> bd9005c9-4f3f-4a51-b9f2-75aaed13547d
+    - !<reference> db3701dd-863b-4e94-8434-dc8f1771564f
+    - !<reference> a7eb3f20-b97b-475c-a789-ccc953f33037
+    - !<reference> c2e7e1aa-ac0a-455f-8a58-c8b86d6d1fad
+    - !<reference> 57556575-eac6-4dde-8dfa-e1e76befdb21
+    - !<reference> d4158512-f926-4dcd-8090-21afd530f7c8
+    - !<reference> 4b9f764c-68fe-4012-8a4d-fa4f49b3ba10
+    - !<reference> 2c474fdb-1570-43d1-9f7b-fb163cdcc6fe
+- !<SceneObject/46b43d22-537c-456b-b039-b6d112036e3c>
+  PrefabRemaps:
+    []
+  Name: thumb-3_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 3.549806, z: 0.000001}
+    rotation: {x: -0.000096, y: -0.000037, z: 0.000014}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 486ae5cc-dc1f-4877-a858-da86c049a260
+  Components:
+    []
+- !<SceneObject/486ae5cc-dc1f-4877-a858-da86c049a260>
+  PrefabRemaps:
+    []
+  Name: thumb-3_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 3.549804, z: -0.000001}
+    rotation: {x: 0.000059, y: -0.000014, z: -0.000073}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 10fb052e-2975-49de-8546-ae040348575d
+  Components:
+    []
+- !<SceneObject/4b90b9f5-8008-432d-99cf-b9d7331e4de5>
+  PrefabRemaps:
+    []
+  Name: hands3d-flower-leaves.003
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000572, y: -0.002032, z: 0.002656}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.000000, y: 0.000000, z: 0.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c0d65b01-012f-4e87-966d-109c9d67fec3
+- !<SceneObject/4b9f764c-68fe-4012-8a4d-fa4f49b3ba10>
+  PrefabRemaps:
+    []
+  Name: pinky-2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.005382, y: 2.681953, z: -0.000140}
+    rotation: {x: -5.666389, y: -0.000025, z: -0.000013}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2c474fdb-1570-43d1-9f7b-fb163cdcc6fe
+  Components:
+    []
+- !<SceneObject/54f818ca-aa70-4cf4-a94f-16794d416dcd>
+  PrefabRemaps:
+    []
+  Name: wrist_to_index
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000001, y: -0.000006, z: 0.000002}
+    rotation: {x: -0.143141, y: -18.425201, z: -17.555954}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6fa1f6bf-591e-46db-abdc-42430de91914
+  Components:
+    []
+- !<SceneObject/550965eb-fab2-487b-84ef-35dc9be60c61>
+  PrefabRemaps:
+    []
+  Name: ring-3_end_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.703725, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/557abe03-285b-4fe4-906c-9e8e00358121>
+  PrefabRemaps:
+    []
+  Name: thumb-3_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 3.549807, z: -0.000001}
+    rotation: {x: -0.000121, y: 23.491257, z: -0.000033}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 24b6e703-b0a7-4602-81ea-d4df1f6aea29
+  Components:
+    []
+- !<SceneObject/565dda86-d308-4e77-b73d-0a9f52b40031>
+  PrefabRemaps:
+    []
+  Name: ring-3_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.703726, z: -0.000001}
+    rotation: {x: -0.000081, y: -0.000080, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 550965eb-fab2-487b-84ef-35dc9be60c61
+  Components:
+    []
+- !<SceneObject/57556575-eac6-4dde-8dfa-e1e76befdb21>
+  PrefabRemaps:
+    []
+  Name: pinky-0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000007, y: 11.453506, z: 0.000008}
+    rotation: {x: 1.584786, y: -17.344025, z: -21.859076}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> d4158512-f926-4dcd-8090-21afd530f7c8
+  Components:
+    []
+- !<SceneObject/59aa195f-78de-4718-a59a-e73c03bd5c05>
+  PrefabRemaps:
+    []
+  Name: index-3_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 2.837154, z: -0.000001}
+    rotation: {x: 0.000000, y: -0.000000, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> b4b45513-281e-4b42-9a5a-f5b9fd676e6d
+  Components:
+    []
+- !<SceneObject/59d6645c-7ede-4b14-befa-87bc9b5d06f6>
+  PrefabRemaps:
+    []
+  Name: index-3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.009104, y: 2.837156, z: -0.000745}
+    rotation: {x: -88.447807, y: 0.630570, z: -5.443095}
+    scale: {x: 1.000000, y: 1.000000, z: 0.999998}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0ebf08df-b8d1-41b0-8dd3-bec8a3a78698
+  Components:
+    []
+- !<SceneObject/5cc30289-2d88-4121-851f-ce119920207f>
+  PrefabRemaps:
+    []
+  Name: wrist_to_mid
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000001, y: -0.000006, z: 0.000002}
+    rotation: {x: -0.519322, y: -5.969350, z: -5.521842}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f5b0623f-3aec-4c36-8ee7-90f3663663c3
+  Components:
+    []
+- !<RenderMeshVisual/5cc90328-34f0-4228-a2eb-1a6620f87e17>
+  PrefabRemaps:
+    []
+  Name: s.584
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ae47c6a3-463b-4c6b-8626-098fa31f9cf0
+  Mesh: !<reference> 62a468bb-d493-4faf-81fa-f989b512193f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/60fd376e-b17f-46d0-9868-21cfd7eea9db>
+  PrefabRemaps:
+    []
+  Name: wrist
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000006, y: -0.000000, z: -0.000002}
+    rotation: {x: -176.653503, y: -5.519800, z: -92.680084}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9dd192e4-a23e-4564-89fc-8bbb319c99d0
+    - !<own> 54f818ca-aa70-4cf4-a94f-16794d416dcd
+    - !<own> 5cc30289-2d88-4121-851f-ce119920207f
+    - !<own> b1f686e0-0d51-4aed-8b97-0e929b1c3be3
+    - !<own> c2e7e1aa-ac0a-455f-8a58-c8b86d6d1fad
+  Components:
+    []
+- !<SceneObject/6281ff68-c689-432e-b571-31acec4c58c4>
+  PrefabRemaps:
+    []
+  Name: LeftHandRig
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 0.999999, y: 0.999999, z: 0.999999}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> cc534d61-767b-4b1b-8b78-9e3c9cb18c2a
+  Components:
+    []
+- !<SceneObject/62c9386e-8660-41e1-845f-871d95baa15e>
+  PrefabRemaps:
+    []
+  Name: mid-3_end_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 3.166730, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/63cf2638-b08c-414b-b738-33620a528a8a>
+  PrefabRemaps:
+    []
+  Name: s.327
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 93f13937-d207-4da0-a03e-80e2fa0c67f2
+    - !<own> fe3bd8ab-2b71-4b7e-8b7c-e8dda3082b06
+- !<SceneObject/67bd89e8-859d-4517-8a5a-65d14f26ad6e>
+  PrefabRemaps:
+    []
+  Name: index-2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.008350, y: 3.222923, z: -0.000875}
+    rotation: {x: -0.656684, y: 0.000193, z: -0.059364}
+    scale: {x: 1.000000, y: 1.000001, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 59d6645c-7ede-4b14-befa-87bc9b5d06f6
+  Components:
+    []
+- !<SceneObject/6937447e-cc73-4288-9f0e-59b428c4d6c4>
+  PrefabRemaps:
+    []
+  Name: Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 850fbb7d-803e-448a-a649-ce43dbe9f9f1
+    - !<own> 9e3a6ac9-b7a0-44cd-a333-45ff38702415
+    - !<own> adcfeee3-d363-4462-97f3-1d56701ea146
+    - !<own> 4b90b9f5-8008-432d-99cf-b9d7331e4de5
+    - !<own> 99c03775-ea19-4505-98ad-7185d1837885
+    - !<own> 80eadfc5-69cf-4ef7-8933-5401ae453726
+  Components:
+    - !<own> fcf36fd7-45f0-482c-95d4-115d3b0339cd
+- !<SceneObject/6979d232-bc6a-42f8-836a-3f554b56861c>
+  PrefabRemaps:
+    []
+  Name: thumb-3_end_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 3.549805, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/6b04bfed-7e98-4fbf-911b-303eed0320bc>
+  PrefabRemaps:
+    []
+  Name: pinky-1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.002793, y: 3.304377, z: 0.000052}
+    rotation: {x: 1.238251, y: -0.000460, z: 0.010196}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f5514d19-a416-4148-bbad-df71e511013f
+  Components:
+    []
+- !<SceneObject/6e65f29f-1c0a-48bd-9e1d-b4c4602ae0bc>
+  PrefabRemaps:
+    []
+  Name: wrist_to_pinky
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000001, y: -0.000005, z: 0.000002}
+    rotation: {x: 0.905911, y: 15.703551, z: -17.047667}
+    scale: {x: 1.000000, y: 1.000001, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9c1c6789-06c1-4b6d-97e2-6e38865072a5
+  Components:
+    []
+- !<SceneObject/6fa1f6bf-591e-46db-abdc-42430de91914>
+  PrefabRemaps:
+    []
+  Name: index-0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000003, y: 11.787855, z: -0.000003}
+    rotation: {x: 9.215317, y: 17.707483, z: 16.168671}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3bf7e182-48c0-4c3b-b92f-545b6efd363d
+  Components:
+    []
+- !<SceneObject/7254652b-865a-4a06-9fe6-0294633ea094>
+  PrefabRemaps:
+    []
+  Name: ring-3_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.703713, z: 0.000002}
+    rotation: {x: 0.000000, y: 0.000000, z: -0.000033}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> ff6919e6-2a13-414f-97e1-4fa50675a6f3
+  Components:
+    []
+- !<SceneObject/73bf7e4d-f8cf-43af-ae46-38afae724e87>
+  PrefabRemaps:
+    []
+  Name: 3D Hand Tracking
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e2a00eef-ecf0-44da-8e52-f385ccbfd5ed
+    - !<own> 889d0e33-d5d6-4f68-9d52-c91ce2b2d3ad
+  Components:
+    []
+- !<SceneObject/769ac7f9-0245-48f7-b84c-a3e43076f763>
+  PrefabRemaps:
+    []
+  Name: RightHandRig
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 60fd376e-b17f-46d0-9868-21cfd7eea9db
+  Components:
+    []
+- !<RenderMeshVisual/77020406-8e8c-4428-a4f4-0aa6dbdc45bd>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c051bf6c-b222-4d35-a8d8-dca301c92a95
+  Mesh: !<reference> adfc2efb-b421-4d1c-9dfe-35a950cc376c
+  Skin: !<reference> b4be0757-0a60-4a40-bf55-769e090aa281
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/78ef2dd7-7a6e-43c2-a7bf-b4ede0b9e731>
+  PrefabRemaps:
+    []
+  Name: ring-2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.001204, y: 3.309405, z: 0.000061}
+    rotation: {x: 0.145060, y: 0.000496, z: 0.002001}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e334b124-0e43-4715-82e3-620d137f2a92
+  Components:
+    []
+- !<SceneObject/80eadfc5-69cf-4ef7-8933-5401ae453726>
+  PrefabRemaps:
+    []
+  Name: hands3d-flower-leaves.005
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.001782, y: 0.000018, z: -0.004094}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.000000, y: 0.000000, z: 0.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 8ee62382-9a26-4049-879f-9bdf768f056c
+- !<SceneObject/84a4d9ff-dba8-4c69-91b5-467ddeb23eb6>
+  PrefabRemaps:
+    []
+  Name: index-3_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.837154, z: -0.000002}
+    rotation: {x: -0.000039, y: -0.000040, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> feda9e98-b1a7-4d91-99f2-0ccba623f369
+  Components:
+    []
+- !<SceneObject/850fbb7d-803e-448a-a649-ce43dbe9f9f1>
+  PrefabRemaps:
+    []
+  Name: hand3d-flower.001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000824, y: 0.002302, z: -0.000030}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.000000, y: 0.000000, z: 0.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a25fa58b-5025-4a51-93b9-99a5cf85f766
+- !<SceneObject/886441fe-38f6-4daa-8090-521cdac5bf74>
+  PrefabRemaps:
+    []
+  Name: ring-3_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 2.703725, z: -0.000000}
+    rotation: {x: 0.000283, y: 0.000276, z: 0.000012}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 565dda86-d308-4e77-b73d-0a9f52b40031
+  Components:
+    []
+- !<SceneObject/889d0e33-d5d6-4f68-9d52-c91ce2b2d3ad>
+  PrefabRemaps:
+    []
+  Name: 3D Hand Tracking Left
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1a8a74dc-562d-4fdd-8615-5548a6a21c57
+  Components:
+    - !<own> d5180e30-ea7b-422f-b923-9427c053f168
+- !<SceneObject/8cd79c0f-c73e-42e0-b24c-5492334f7494>
+  PrefabRemaps:
+    []
+  Name: mid-3_end_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 3.166712, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/8dd84a40-db69-4d18-ab89-ad9c24306c9e>
+  PrefabRemaps:
+    []
+  Name: mid-3_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 3.166710, z: -0.000003}
+    rotation: {x: -179.999969, y: -0.000000, z: 180.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8cd79c0f-c73e-42e0-b24c-5492334f7494
+  Components:
+    []
+- !<RenderMeshVisual/8ee62382-9a26-4049-879f-9bdf768f056c>
+  PrefabRemaps:
+    []
+  Name: s.624
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> aeea07cc-8056-43ec-9b2f-2c03865ee7fe
+  Mesh: !<reference> 7fd31f8c-62f8-44dc-942d-b3da9c3ff939
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/93f13937-d207-4da0-a03e-80e2fa0c67f2>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 60544a66-dbda-41c1-b4d0-06b72eda9db4
+  Mesh: !<reference> 800c9ab2-86f0-4ffb-88a9-72224a0c0f82
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/99c03775-ea19-4505-98ad-7185d1837885>
+  PrefabRemaps:
+    []
+  Name: hands3d-flower-leaves.004
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.000000, y: 0.000000, z: 0.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e808e5f9-1b28-40a1-be4a-e17745fe3bc1
+- !<SceneObject/9c1c6789-06c1-4b6d-97e2-6e38865072a5>
+  PrefabRemaps:
+    []
+  Name: pinky-0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000004, y: 11.453491, z: 0.000011}
+    rotation: {x: -10.793674, y: -13.884825, z: 21.429596}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6b04bfed-7e98-4fbf-911b-303eed0320bc
+  Components:
+    []
+- !<SceneObject/9d27117d-e6b5-42ea-849b-0a594b35b449>
+  PrefabRemaps:
+    []
+  Name: ring-3_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 2.703713, z: 0.000001}
+    rotation: {x: -0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f7826008-9924-424b-9944-fdd5c40379a1
+  Components:
+    []
+- !<SceneObject/9dd192e4-a23e-4564-89fc-8bbb319c99d0>
+  PrefabRemaps:
+    []
+  Name: wrist_to_thumb
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000001, y: -0.000006, z: 0.000002}
+    rotation: {x: 27.434427, y: -41.097206, z: -59.864635}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> a1941836-6ad3-4838-8142-dace66e66f32
+  Components:
+    []
+- !<SceneObject/9e3a6ac9-b7a0-44cd-a333-45ff38702415>
+  PrefabRemaps:
+    []
+  Name: hands3d-flower-tendrils.003
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.008359, y: 0.002468, z: -0.000431}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.000000, y: 0.000000, z: 0.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1039b722-ef20-4913-bff4-8897a3846c97
+- !<SceneObject/a0b88692-5a16-408a-84a0-a53778a320ae>
+  PrefabRemaps:
+    []
+  Name: mid-1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.013406, y: 3.861873, z: 0.000154}
+    rotation: {x: -4.535299, y: 0.000290, z: 0.000017}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3b93d9c0-f446-4c24-8b42-fd0891ddb563
+  Components:
+    []
+- !<SceneObject/a1941836-6ad3-4838-8142-dace66e66f32>
+  PrefabRemaps:
+    []
+  Name: thumb-0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000009, y: 4.399182, z: 0.000004}
+    rotation: {x: 1.097871, y: 44.900917, z: 1.556591}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 07215618-6942-4ec6-a0fd-bed3e2f35d80
+  Components:
+    []
+- !<RenderMeshVisual/a25fa58b-5025-4a51-93b9-99a5cf85f766>
+  PrefabRemaps:
+    []
+  Name: s.573
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e9657f1f-d361-45f4-80f2-334597c71be6
+  Mesh: !<reference> 009a240d-2dc6-4139-b811-5af4f43032d3
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/a3b862f6-2cf7-48eb-8aa6-11e72d6acaa8>
+  PrefabRemaps:
+    []
+  Name: mid-3_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 3.166713, z: -0.000003}
+    rotation: {x: 0.000035, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8dd84a40-db69-4d18-ab89-ad9c24306c9e
+  Components:
+    []
+- !<Skin/a67b7747-8fe2-4b6d-93e9-8e63dd3122d6>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  skinBones:
+    LeftHandMesh: !<reference> 3d66b756-ec13-4ae8-a2ee-39377234e039
+    LeftHandModel: !<reference> 1a8a74dc-562d-4fdd-8615-5548a6a21c57
+    LeftHandRig: !<reference> 6281ff68-c689-432e-b571-31acec4c58c4
+    index-0: !<reference> 10667c4f-390f-4c3a-a069-e8b883d9e3c0
+    index-1: !<reference> 36812701-40a0-451f-bc8b-3e63bb810c58
+    index-2: !<reference> 67bd89e8-859d-4517-8a5a-65d14f26ad6e
+    index-3: !<reference> 59d6645c-7ede-4b14-befa-87bc9b5d06f6
+    index-3_end: !<reference> 0ebf08df-b8d1-41b0-8dd3-bec8a3a78698
+    index-3_end_end: !<reference> c6fa77ae-e88c-4fd1-8d16-e3d6cc4f9c67
+    index-3_end_end_end: !<reference> caaabfb8-23d1-44ab-b8a8-f26870fdff57
+    index-3_end_end_end_end: !<reference> 2a2015df-232c-447d-b070-cef72b0156af
+    mid-0: !<reference> 1de9d772-b6fe-4baa-b573-40dbff99cbab
+    mid-1: !<reference> c472d019-d546-4104-9650-74c75d446954
+    mid-2: !<reference> d95f54f3-b6d2-488d-8b90-53b592ac73e2
+    mid-3: !<reference> fd918d32-5f48-448e-af30-72896477d599
+    mid-3_end: !<reference> cd211893-d32c-41dc-9381-1776ec8537f8
+    mid-3_end_end: !<reference> a3b862f6-2cf7-48eb-8aa6-11e72d6acaa8
+    mid-3_end_end_end: !<reference> 8dd84a40-db69-4d18-ab89-ad9c24306c9e
+    mid-3_end_end_end_end: !<reference> 8cd79c0f-c73e-42e0-b24c-5492334f7494
+    pinky-0: !<reference> 9c1c6789-06c1-4b6d-97e2-6e38865072a5
+    pinky-1: !<reference> 6b04bfed-7e98-4fbf-911b-303eed0320bc
+    pinky-2: !<reference> f5514d19-a416-4148-bbad-df71e511013f
+    pinky-3: !<reference> 1b21690d-4609-4dee-a269-dfd96290bcfd
+    pinky-3_end: !<reference> b751eafe-3091-40ef-9e74-a5f9c20018bc
+    pinky-3_end_end: !<reference> fab3dabf-9a1c-4ee5-af10-939528636bf8
+    pinky-3_end_end_end: !<reference> 1d9d384d-16cd-44b2-8d45-0a898859f467
+    pinky-3_end_end_end_end: !<reference> b67c59a5-f22b-4341-8388-864987b6808c
+    ring-0: !<reference> f42701e4-2878-4625-809f-022f91f79dff
+    ring-1: !<reference> 0ad0d910-e0c7-4d2b-920f-577167330110
+    ring-2: !<reference> 78ef2dd7-7a6e-43c2-a7bf-b4ede0b9e731
+    ring-3: !<reference> e334b124-0e43-4715-82e3-620d137f2a92
+    ring-3_end: !<reference> 7254652b-865a-4a06-9fe6-0294633ea094
+    ring-3_end_end: !<reference> ff6919e6-2a13-414f-97e1-4fa50675a6f3
+    ring-3_end_end_end: !<reference> 9d27117d-e6b5-42ea-849b-0a594b35b449
+    ring-3_end_end_end_end: !<reference> f7826008-9924-424b-9944-fdd5c40379a1
+    thumb-0: !<reference> a8f04151-97d9-4516-85e8-b9eff01e29c5
+    thumb-1: !<reference> fbb53a00-d635-48c6-a417-fb03bbbd7a0e
+    thumb-2: !<reference> 272d569b-36ef-423c-ada3-bc6e2eae680c
+    thumb-3: !<reference> 1ca6cdf9-f487-406e-b776-69bd6a7e428c
+    thumb-3_end: !<reference> 557abe03-285b-4fe4-906c-9e8e00358121
+    thumb-3_end_end: !<reference> 24b6e703-b0a7-4602-81ea-d4df1f6aea29
+    thumb-3_end_end_end: !<reference> e5e00de5-b708-4d0d-8955-30572107d4f1
+    thumb-3_end_end_end_end: !<reference> 6979d232-bc6a-42f8-836a-3f554b56861c
+    wrist: !<reference> cc534d61-767b-4b1b-8b78-9e3c9cb18c2a
+    wrist_to_index: !<reference> f64cf3fc-0f71-4f1a-9ad7-06390ddb41cd
+    wrist_to_mid: !<reference> f37ed16f-7849-436d-adc3-b576c14fb201
+    wrist_to_pinky: !<reference> 6e65f29f-1c0a-48bd-9e1d-b4c4602ae0bc
+    wrist_to_ring: !<reference> 355d95d6-2f9e-48fa-a74a-453833661150
+    wrist_to_thumb: !<reference> fd3b230c-f745-4f06-99ea-c37bc1be9f58
+- !<SceneObject/a7eb3f20-b97b-475c-a789-ccc953f33037>
+  PrefabRemaps:
+    []
+  Name: ring-3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.001444, y: 2.703717, z: 0.000001}
+    rotation: {x: 88.027298, y: -5.497921, z: 5.333356}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> c07ef1b3-9042-4eab-99da-594c5db00552
+  Components:
+    []
+- !<SceneObject/a8f04151-97d9-4516-85e8-b9eff01e29c5>
+  PrefabRemaps:
+    []
+  Name: thumb-0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000005, y: 4.399178, z: -0.000010}
+    rotation: {x: -1.007355, y: 44.900501, z: -1.551621}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> fbb53a00-d635-48c6-a417-fb03bbbd7a0e
+  Components:
+    []
+- !<SceneObject/adcfeee3-d363-4462-97f3-1d56701ea146>
+  PrefabRemaps:
+    []
+  Name: hands3d-flower-tendrils.004
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.008359, y: 0.002468, z: -0.000431}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.000000, y: 0.000000, z: 0.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5cc90328-34f0-4228-a2eb-1a6620f87e17
+- !<SceneObject/af923f9f-a746-4f63-a3b8-7ed6abd5fc01>
+  PrefabRemaps:
+    []
+  Name: flower-solo Left2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -17.104544, y: -14.107422, z: 7.520942}
+    rotation: {x: 0.000013, y: -0.000114, z: -101.373566}
+    scale: {x: 500.000000, y: 499.999878, z: 500.000153}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> c7b6cc6a-36cf-4a3e-be17-ff96c5dade2e
+  Components:
+    []
+- !<SceneObject/b0b35830-7148-42df-ac2e-557a6110b517>
+  PrefabRemaps:
+    []
+  Name: index-2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.008392, y: 3.222928, z: -0.000121}
+    rotation: {x: -0.204897, y: -0.651952, z: -2.287251}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> cd12216b-417b-4118-b388-9269b433261c
+  Components:
+    []
+- !<SceneObject/b1f686e0-0d51-4aed-8b97-0e929b1c3be3>
+  PrefabRemaps:
+    []
+  Name: wrist_to_ring
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000001, y: -0.000006, z: 0.000002}
+    rotation: {x: 0.192402, y: 6.380902, z: 6.216873}
+    scale: {x: 1.000000, y: 0.999999, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f71ddbcf-90cc-40bd-ab12-92275b30fa1b
+  Components:
+    []
+- !<SceneObject/b4b45513-281e-4b42-9a5a-f5b9fd676e6d>
+  PrefabRemaps:
+    []
+  Name: index-3_end_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.837154, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<Skin/b4be0757-0a60-4a40-bf55-769e090aa281>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  skinBones:
+    RightHandMesh: !<reference> 101500e2-0662-46ae-85fb-fce03c530c17
+    RightHandModel: !<reference> 2f78a2f1-2424-48b1-b604-c05c6909b3d6
+    RightHandRig: !<reference> 769ac7f9-0245-48f7-b84c-a3e43076f763
+    index-0: !<reference> 6fa1f6bf-591e-46db-abdc-42430de91914
+    index-1: !<reference> 3bf7e182-48c0-4c3b-b92f-545b6efd363d
+    index-2: !<reference> b0b35830-7148-42df-ac2e-557a6110b517
+    index-3: !<reference> cd12216b-417b-4118-b388-9269b433261c
+    index-3_end: !<reference> 84a4d9ff-dba8-4c69-91b5-467ddeb23eb6
+    index-3_end_end: !<reference> feda9e98-b1a7-4d91-99f2-0ccba623f369
+    index-3_end_end_end: !<reference> 59aa195f-78de-4718-a59a-e73c03bd5c05
+    index-3_end_end_end_end: !<reference> b4b45513-281e-4b42-9a5a-f5b9fd676e6d
+    mid-0: !<reference> f5b0623f-3aec-4c36-8ee7-90f3663663c3
+    mid-1: !<reference> a0b88692-5a16-408a-84a0-a53778a320ae
+    mid-2: !<reference> 3b93d9c0-f446-4c24-8b42-fd0891ddb563
+    mid-3: !<reference> 2858c988-7fd8-4605-9956-b32e9cb87c74
+    mid-3_end: !<reference> 2de2cbc1-2823-42c0-bc21-973818da6cab
+    mid-3_end_end: !<reference> 092cd8bd-e4e4-4d45-9eed-1d0dce0ecadd
+    mid-3_end_end_end: !<reference> bc49a50f-20d7-4909-b0d5-d4fc490d912e
+    mid-3_end_end_end_end: !<reference> 62c9386e-8660-41e1-845f-871d95baa15e
+    pinky-0: !<reference> 57556575-eac6-4dde-8dfa-e1e76befdb21
+    pinky-1: !<reference> d4158512-f926-4dcd-8090-21afd530f7c8
+    pinky-2: !<reference> 4b9f764c-68fe-4012-8a4d-fa4f49b3ba10
+    pinky-3: !<reference> 2c474fdb-1570-43d1-9f7b-fb163cdcc6fe
+    pinky-3_end: !<reference> f7408431-a2f6-444e-969f-b5b73e9dcdc0
+    pinky-3_end_end: !<reference> bd8b68ab-8ace-40ae-86f2-80769b624c9e
+    pinky-3_end_end_end: !<reference> 1dfc6f5d-8638-419b-b999-19bb613b02f9
+    pinky-3_end_end_end_end: !<reference> 3de37244-3e10-4da8-a912-a7eb544ab44f
+    ring-0: !<reference> f71ddbcf-90cc-40bd-ab12-92275b30fa1b
+    ring-1: !<reference> bd9005c9-4f3f-4a51-b9f2-75aaed13547d
+    ring-2: !<reference> db3701dd-863b-4e94-8434-dc8f1771564f
+    ring-3: !<reference> a7eb3f20-b97b-475c-a789-ccc953f33037
+    ring-3_end: !<reference> c07ef1b3-9042-4eab-99da-594c5db00552
+    ring-3_end_end: !<reference> 886441fe-38f6-4daa-8090-521cdac5bf74
+    ring-3_end_end_end: !<reference> 565dda86-d308-4e77-b73d-0a9f52b40031
+    ring-3_end_end_end_end: !<reference> 550965eb-fab2-487b-84ef-35dc9be60c61
+    thumb-0: !<reference> a1941836-6ad3-4838-8142-dace66e66f32
+    thumb-1: !<reference> 07215618-6942-4ec6-a0fd-bed3e2f35d80
+    thumb-2: !<reference> 205f5f13-6cbf-4824-9f91-2d26f3948af2
+    thumb-3: !<reference> 34837d6f-28c7-4280-83e2-c81615fd817c
+    thumb-3_end: !<reference> 46b43d22-537c-456b-b039-b6d112036e3c
+    thumb-3_end_end: !<reference> 486ae5cc-dc1f-4877-a858-da86c049a260
+    thumb-3_end_end_end: !<reference> 10fb052e-2975-49de-8546-ae040348575d
+    thumb-3_end_end_end_end: !<reference> 1f26212a-99f5-44d4-8ab2-6848e6537da5
+    wrist: !<reference> 60fd376e-b17f-46d0-9868-21cfd7eea9db
+    wrist_to_index: !<reference> 54f818ca-aa70-4cf4-a94f-16794d416dcd
+    wrist_to_mid: !<reference> 5cc30289-2d88-4121-851f-ce119920207f
+    wrist_to_pinky: !<reference> c2e7e1aa-ac0a-455f-8a58-c8b86d6d1fad
+    wrist_to_ring: !<reference> b1f686e0-0d51-4aed-8b97-0e929b1c3be3
+    wrist_to_thumb: !<reference> 9dd192e4-a23e-4564-89fc-8bbb319c99d0
+- !<SceneObject/b67c59a5-f22b-4341-8388-864987b6808c>
+  PrefabRemaps:
+    []
+  Name: pinky-3_end_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.218163, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/b751eafe-3091-40ef-9e74-a5f9c20018bc>
+  PrefabRemaps:
+    []
+  Name: pinky-3_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 2.218163, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000011, z: -0.000012}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> fab3dabf-9a1c-4ee5-af10-939528636bf8
+  Components:
+    []
+- !<SceneObject/bc49a50f-20d7-4909-b0d5-d4fc490d912e>
+  PrefabRemaps:
+    []
+  Name: mid-3_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 3.166730, z: 0.000000}
+    rotation: {x: 0.000104, y: 0.000103, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 62c9386e-8660-41e1-845f-871d95baa15e
+  Components:
+    []
+- !<SceneObject/bd8b68ab-8ace-40ae-86f2-80769b624c9e>
+  PrefabRemaps:
+    []
+  Name: pinky-3_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 2.218169, z: 0.000000}
+    rotation: {x: 0.000050, y: -0.000056, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1dfc6f5d-8638-419b-b999-19bb613b02f9
+  Components:
+    []
+- !<SceneObject/bd9005c9-4f3f-4a51-b9f2-75aaed13547d>
+  PrefabRemaps:
+    []
+  Name: ring-1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.002705, y: 3.534422, z: 0.000029}
+    rotation: {x: 1.238158, y: -0.000262, z: -0.000026}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> db3701dd-863b-4e94-8434-dc8f1771564f
+  Components:
+    []
+- !<SceneObject/c07ef1b3-9042-4eab-99da-594c5db00552>
+  PrefabRemaps:
+    []
+  Name: ring-3_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.703726, z: -0.000002}
+    rotation: {x: -0.000202, y: -0.000189, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 886441fe-38f6-4daa-8090-521cdac5bf74
+  Components:
+    []
+- !<RenderMeshVisual/c0d65b01-012f-4e87-966d-109c9d67fec3>
+  PrefabRemaps:
+    []
+  Name: s.622
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> aeea07cc-8056-43ec-9b2f-2c03865ee7fe
+  Mesh: !<reference> 7aed083a-c1a8-4cbe-bc4f-2e559a3c3513
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/c2e7e1aa-ac0a-455f-8a58-c8b86d6d1fad>
+  PrefabRemaps:
+    []
+  Name: wrist_to_pinky
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000001, y: -0.000006, z: 0.000002}
+    rotation: {x: 0.918454, y: 18.264393, z: 17.580742}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 57556575-eac6-4dde-8dfa-e1e76befdb21
+  Components:
+    []
+- !<SceneObject/c472d019-d546-4104-9650-74c75d446954>
+  PrefabRemaps:
+    []
+  Name: mid-1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.013405, y: 3.861874, z: 0.000233}
+    rotation: {x: -4.535238, y: -0.003456, z: -0.026343}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> d95f54f3-b6d2-488d-8b90-53b592ac73e2
+  Components:
+    []
+- !<SceneObject/c6fa77ae-e88c-4fd1-8d16-e3d6cc4f9c67>
+  PrefabRemaps:
+    []
+  Name: index-3_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 2.837167, z: 0.000001}
+    rotation: {x: 0.000189, y: -0.000000, z: 0.000044}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> caaabfb8-23d1-44ab-b8a8-f26870fdff57
+  Components:
+    []
+- !<SceneObject/c7b6cc6a-36cf-4a3e-be17-ff96c5dade2e>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6937447e-cc73-4288-9f0e-59b428c4d6c4
+  Components:
+    []
+- !<SceneObject/caaabfb8-23d1-44ab-b8a8-f26870fdff57>
+  PrefabRemaps:
+    []
+  Name: index-3_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.837167, z: 0.000002}
+    rotation: {x: -0.000076, y: -0.000000, z: -0.000013}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2a2015df-232c-447d-b070-cef72b0156af
+  Components:
+    []
+- !<SceneObject/cc534d61-767b-4b1b-8b78-9e3c9cb18c2a>
+  PrefabRemaps:
+    []
+  Name: wrist
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000006, y: -0.000002, z: -0.000000}
+    rotation: {x: 157.400284, y: -83.865051, z: 115.817253}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> fd3b230c-f745-4f06-99ea-c37bc1be9f58
+    - !<own> f64cf3fc-0f71-4f1a-9ad7-06390ddb41cd
+    - !<own> f37ed16f-7849-436d-adc3-b576c14fb201
+    - !<own> 355d95d6-2f9e-48fa-a74a-453833661150
+    - !<own> 6e65f29f-1c0a-48bd-9e1d-b4c4602ae0bc
+  Components:
+    []
+- !<SceneObject/cd12216b-417b-4118-b388-9269b433261c>
+  PrefabRemaps:
+    []
+  Name: index-3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.009134, y: 2.837147, z: 0.000078}
+    rotation: {x: -87.845512, y: -5.462181, z: -5.671886}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 84a4d9ff-dba8-4c69-91b5-467ddeb23eb6
+  Components:
+    []
+- !<SceneObject/cd211893-d32c-41dc-9381-1776ec8537f8>
+  PrefabRemaps:
+    []
+  Name: mid-3_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000001, y: 3.166712, z: 0.000002}
+    rotation: {x: -0.000000, y: 0.000019, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> a3b862f6-2cf7-48eb-8aa6-11e72d6acaa8
+  Components:
+    []
+- !<SceneObject/d4158512-f926-4dcd-8090-21afd530f7c8>
+  PrefabRemaps:
+    []
+  Name: pinky-1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.002791, y: 3.304376, z: 0.000029}
+    rotation: {x: 1.238301, y: 0.000079, z: -0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4b9f764c-68fe-4012-8a4d-fa4f49b3ba10
+  Components:
+    []
+- !<ObjectTracking3D/d5180e30-ea7b-422f-b923-9427c053f168>
+  PrefabRemaps:
+    []
+  Name: Object Tracking 3D
+  Enabled: true
+  ObjectIndex: 0
+  TrackingMode: ProportionsAndPose
+  TrackPosition: true
+  TrackingAsset: !<reference> 536918f1-ac85-4bd8-8d77-4cbbde160059
+  AttachmentLabels:
+    - wrist
+    - wrist_to_thumb
+    - thumb-0
+    - thumb-1
+    - thumb-2
+    - thumb-3
+    - wrist_to_index
+    - index-0
+    - index-1
+    - index-2
+    - index-3
+    - wrist_to_mid
+    - mid-0
+    - mid-1
+    - mid-2
+    - mid-3
+    - wrist_to_ring
+    - ring-0
+    - ring-1
+    - ring-2
+    - ring-3
+    - wrist_to_pinky
+    - pinky-0
+    - pinky-1
+    - pinky-2
+    - pinky-3
+  AttachedObjects:
+    - !<reference> cc534d61-767b-4b1b-8b78-9e3c9cb18c2a
+    - !<reference> fd3b230c-f745-4f06-99ea-c37bc1be9f58
+    - !<reference> a8f04151-97d9-4516-85e8-b9eff01e29c5
+    - !<reference> fbb53a00-d635-48c6-a417-fb03bbbd7a0e
+    - !<reference> 272d569b-36ef-423c-ada3-bc6e2eae680c
+    - !<reference> 1ca6cdf9-f487-406e-b776-69bd6a7e428c
+    - !<reference> f64cf3fc-0f71-4f1a-9ad7-06390ddb41cd
+    - !<reference> 10667c4f-390f-4c3a-a069-e8b883d9e3c0
+    - !<reference> 36812701-40a0-451f-bc8b-3e63bb810c58
+    - !<reference> 67bd89e8-859d-4517-8a5a-65d14f26ad6e
+    - !<reference> 59d6645c-7ede-4b14-befa-87bc9b5d06f6
+    - !<reference> f37ed16f-7849-436d-adc3-b576c14fb201
+    - !<reference> 1de9d772-b6fe-4baa-b573-40dbff99cbab
+    - !<reference> c472d019-d546-4104-9650-74c75d446954
+    - !<reference> d95f54f3-b6d2-488d-8b90-53b592ac73e2
+    - !<reference> fd918d32-5f48-448e-af30-72896477d599
+    - !<reference> 355d95d6-2f9e-48fa-a74a-453833661150
+    - !<reference> f42701e4-2878-4625-809f-022f91f79dff
+    - !<reference> 0ad0d910-e0c7-4d2b-920f-577167330110
+    - !<reference> 78ef2dd7-7a6e-43c2-a7bf-b4ede0b9e731
+    - !<reference> e334b124-0e43-4715-82e3-620d137f2a92
+    - !<reference> 6e65f29f-1c0a-48bd-9e1d-b4c4602ae0bc
+    - !<reference> 9c1c6789-06c1-4b6d-97e2-6e38865072a5
+    - !<reference> 6b04bfed-7e98-4fbf-911b-303eed0320bc
+    - !<reference> f5514d19-a416-4148-bbad-df71e511013f
+    - !<reference> 1b21690d-4609-4dee-a269-dfd96290bcfd
+- !<SceneObject/d95f54f3-b6d2-488d-8b90-53b592ac73e2>
+  PrefabRemaps:
+    []
+  Name: mid-2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.002904, y: 3.650311, z: -0.000110}
+    rotation: {x: -2.676432, y: -0.000566, z: -0.015133}
+    scale: {x: 0.999999, y: 0.999999, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> fd918d32-5f48-448e-af30-72896477d599
+  Components:
+    []
+- !<SceneObject/db3701dd-863b-4e94-8434-dc8f1771564f>
+  PrefabRemaps:
+    []
+  Name: ring-2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.001204, y: 3.309392, z: 0.000044}
+    rotation: {x: 0.145073, y: -0.000050, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> a7eb3f20-b97b-475c-a789-ccc953f33037
+  Components:
+    []
+- !<SceneObject/e2a00eef-ecf0-44da-8e52-f385ccbfd5ed>
+  PrefabRemaps:
+    []
+  Name: 3D Hand Tracking Right
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2f78a2f1-2424-48b1-b604-c05c6909b3d6
+  Components:
+    - !<own> 463299d6-48d3-4599-ae9f-56eec684e52b
+- !<SceneObject/e334b124-0e43-4715-82e3-620d137f2a92>
+  PrefabRemaps:
+    []
+  Name: ring-3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.001444, y: 2.703709, z: 0.000020}
+    rotation: {x: 88.973007, y: 4.975883, z: 4.973150}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7254652b-865a-4a06-9fe6-0294633ea094
+  Components:
+    []
+- !<SceneObject/e5e00de5-b708-4d0d-8955-30572107d4f1>
+  PrefabRemaps:
+    []
+  Name: thumb-3_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000001, y: 3.549806, z: -0.000001}
+    rotation: {x: -0.000000, y: 0.176026, z: -0.000014}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6979d232-bc6a-42f8-836a-3f554b56861c
+  Components:
+    []
+- !<RenderMeshVisual/e808e5f9-1b28-40a1-be4a-e17745fe3bc1>
+  PrefabRemaps:
+    []
+  Name: s.623
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> aeea07cc-8056-43ec-9b2f-2c03865ee7fe
+  Mesh: !<reference> 280027aa-5e3e-47b4-aa76-14ea1b6e092c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/f37ed16f-7849-436d-adc3-b576c14fb201>
+  PrefabRemaps:
+    []
+  Name: wrist_to_mid
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000001, y: -0.000005, z: 0.000002}
+    rotation: {x: -0.519103, y: -5.758139, z: 5.627936}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1de9d772-b6fe-4baa-b573-40dbff99cbab
+  Components:
+    []
+- !<SceneObject/f42701e4-2878-4625-809f-022f91f79dff>
+  PrefabRemaps:
+    []
+  Name: ring-0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 11.824831, z: 0.000000}
+    rotation: {x: -4.158417, y: -5.389359, z: 8.544326}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0ad0d910-e0c7-4d2b-920f-577167330110
+  Components:
+    []
+- !<SceneObject/f5514d19-a416-4148-bbad-df71e511013f>
+  PrefabRemaps:
+    []
+  Name: pinky-2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.005385, y: 2.681947, z: -0.000095}
+    rotation: {x: -5.666186, y: -0.004601, z: -0.046291}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1b21690d-4609-4dee-a269-dfd96290bcfd
+  Components:
+    []
+- !<SceneObject/f5b0623f-3aec-4c36-8ee7-90f3663663c3>
+  PrefabRemaps:
+    []
+  Name: mid-0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 11.483050, z: -0.000001}
+    rotation: {x: 1.935391, y: 5.930264, z: 3.282899}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> a0b88692-5a16-408a-84a0-a53778a320ae
+  Components:
+    []
+- !<SceneObject/f64cf3fc-0f71-4f1a-9ad7-06390ddb41cd>
+  PrefabRemaps:
+    []
+  Name: wrist_to_index
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000001, y: -0.000005, z: 0.000002}
+    rotation: {x: -0.140613, y: -15.148769, z: 17.637947}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 10667c4f-390f-4c3a-a069-e8b883d9e3c0
+  Components:
+    []
+- !<SceneObject/f71ddbcf-90cc-40bd-ab12-92275b30fa1b>
+  PrefabRemaps:
+    []
+  Name: ring-0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 11.824839, z: -0.000000}
+    rotation: {x: -2.274929, y: -6.337840, z: -8.604532}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> bd9005c9-4f3f-4a51-b9f2-75aaed13547d
+  Components:
+    []
+- !<SceneObject/f7408431-a2f6-444e-969f-b5b73e9dcdc0>
+  PrefabRemaps:
+    []
+  Name: pinky-3_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.218167, z: 0.000001}
+    rotation: {x: 0.000101, y: -0.000115, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> bd8b68ab-8ace-40ae-86f2-80769b624c9e
+  Components:
+    []
+- !<SceneObject/f7826008-9924-424b-9944-fdd5c40379a1>
+  PrefabRemaps:
+    []
+  Name: ring-3_end_end_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.703712, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2ef383e1-5473-492a-94ab-c78405226a90
+  Components:
+    []
+- !<SceneObject/fab3dabf-9a1c-4ee5-af10-939528636bf8>
+  PrefabRemaps:
+    []
+  Name: pinky-3_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.218163, z: -0.000003}
+    rotation: {x: 0.000050, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1d9d384d-16cd-44b2-8d45-0a898859f467
+  Components:
+    []
+- !<SceneObject/fbb53a00-d635-48c6-a417-fb03bbbd7a0e>
+  PrefabRemaps:
+    []
+  Name: thumb-1
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.067402, y: 3.518867, z: -0.005366}
+    rotation: {x: 14.034805, y: -0.274095, z: 1.092325}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 272d569b-36ef-423c-ada3-bc6e2eae680c
+  Components:
+    []
+- !<AnimationPlayer/fcf36fd7-45f0-482c-95d4-115d3b0339cd>
+  PrefabRemaps:
+    []
+  Name: component_6
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 5d82d15b-2a9a-41d8-abba-798717240093
+      Name: hands3d-flower-leaves.005Action
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 124.999992
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Single
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 800d2aef-8b2e-4efb-bf6e-3883b2d3db68
+      Name: hands3d-flower-leaves.003Action
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 124.999992
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Single
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 460fe396-174b-4c79-beaf-a9be0dcdd39b
+      Name: hands3d-flower-leaves.001Action.001
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 124.999992
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Single
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 22d148a4-d8fa-493f-8d0b-1d1a7c6bc74d
+      Name: hands3d-flower-tendrils.003Action
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 124.999992
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Single
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 8fd98747-049f-48da-8706-87cf184bad42
+      Name: hands3d-flower-tendrils.004Action
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 124.999992
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Single
+    - !<AnimationClip>
+      AnimationAsset: !<reference> 0f57319d-438e-477c-a5e8-d15d5543bb4a
+      Name: hand3d-flower.001Action
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 124.999992
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Single
+- !<SceneObject/fd3b230c-f745-4f06-99ea-c37bc1be9f58>
+  PrefabRemaps:
+    []
+  Name: wrist_to_thumb
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000001, y: -0.000005, z: 0.000002}
+    rotation: {x: 26.024057, y: -37.686905, z: 24.403383}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000001}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> a8f04151-97d9-4516-85e8-b9eff01e29c5
+  Components:
+    []
+- !<SceneObject/fd918d32-5f48-448e-af30-72896477d599>
+  PrefabRemaps:
+    []
+  Name: mid-3
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.010479, y: 3.166699, z: 0.000210}
+    rotation: {x: -87.477280, y: 5.565587, z: -5.001890}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000001}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> cd211893-d32c-41dc-9381-1776ec8537f8
+  Components:
+    []
+- !<RenderMeshVisual/fe3bd8ab-2b71-4b7e-8b7c-e8dda3082b06>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> be094229-76a5-4274-8830-d9a7b8fc366a
+  Mesh: !<reference> 61ec2f0e-bcd7-474f-ab79-63f5cbefa056
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/feda9e98-b1a7-4d91-99f2-0ccba623f369>
+  PrefabRemaps:
+    []
+  Name: index-3_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 2.837154, z: -0.000000}
+    rotation: {x: 0.000038, y: 0.000042, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 59aa195f-78de-4718-a59a-e73c03bd5c05
+  Components:
+    []
+- !<SceneObject/ff6919e6-2a13-414f-97e1-4fa50675a6f3>
+  PrefabRemaps:
+    []
+  Name: ring-3_end_end
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.000000, y: 2.703711, z: 0.000000}
+    rotation: {x: -0.000000, y: -0.000000, z: 0.000025}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9d27117d-e6b5-42ea-849b-0a594b35b449
+  Components:
+    []

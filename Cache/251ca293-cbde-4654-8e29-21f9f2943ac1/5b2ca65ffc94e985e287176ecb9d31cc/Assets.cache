@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    3cdb55df-5992-40f4-9428-383e0ed350d1: 251ca293-cbde-4654-8e29-21f9f2943ac1/5b2ca65ffc94e985e287176ecb9d31cc/Data/WatchStrap.mesh
+  Assets:
+    - !<FileMesh/3cdb55df-5992-40f4-9428-383e0ed350d1>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 6024
+        Vertices: 3888
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 18.665482, y: 29.961336, z: 49.496910}
+  SourceHash: 5b2ca65ffc94e985e287176ecb9d31cc
+  FileHash: bdefab3c7bc1101ad42c251c7d82bafc
+  NativePackageItems:
+    []

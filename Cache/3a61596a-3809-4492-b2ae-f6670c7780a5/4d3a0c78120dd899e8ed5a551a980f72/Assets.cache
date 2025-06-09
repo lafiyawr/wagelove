@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    33b1ac3f-f5de-4e56-bf54-e109ece5df94: 3a61596a-3809-4492-b2ae-f6670c7780a5/4d3a0c78120dd899e8ed5a551a980f72/Data/WatchBandParams.png
+  Assets:
+    - !<FileTexture/33b1ac3f-f5de-4e56-bf54-e109ece5df94>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 2048
+        Height: 2048
+  SourceHash: 4d3a0c78120dd899e8ed5a551a980f72
+  FileHash: 2fb7455ccfaa187601648abc10a5ece2
+  NativePackageItems:
+    []

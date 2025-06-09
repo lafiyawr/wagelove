@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    6c78f8ff-95ed-4350-866a-ce1743417aed: 04d51cb2-4c0e-4e63-894a-6e2d8b4da6bf/d78e24c3a6ecf7ece4bb8192656e7ca2/Data/pearly gold B normal.png
+  Assets:
+    - !<FileTexture/6c78f8ff-95ed-4350-866a-ce1743417aed>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 2048
+        Height: 2048
+  SourceHash: d78e24c3a6ecf7ece4bb8192656e7ca2
+  FileHash: c902b7af0fd7c1655ffc916f9e040b9a
+  NativePackageItems:
+    []

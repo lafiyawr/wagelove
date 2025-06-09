@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    06345c21-487f-4489-a2d4-05c58adf98e8: f9e72494-fe67-41a4-8e3e-e59af849ba27/44e6e7339efecb809ed97629a59c51bf/Data/Diamond normalMap texture.jpg
+  Assets:
+    - !<FileTexture/06345c21-487f-4489-a2d4-05c58adf98e8>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1
+        Height: 1
+  SourceHash: 44e6e7339efecb809ed97629a59c51bf
+  FileHash: 534f614f7a37b2546e962db6b012a7fb
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    9033bfd2-c145-489a-80cd-132ad07d1525: 9d0234e4-0788-6475-0696-97660d992304/6c0dd0838187f519b08d7dac735df384/Data/SizeRamp InOut.png
+  Assets:
+    - !<FileTexture/9033bfd2-c145-489a-80cd-132ad07d1525>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 128
+        Height: 2
+  SourceHash: 6c0dd0838187f519b08d7dac735df384
+  FileHash: 53fa0eb5a8d740d07eb56afc736fe1f3
+  NativePackageItems:
+    []

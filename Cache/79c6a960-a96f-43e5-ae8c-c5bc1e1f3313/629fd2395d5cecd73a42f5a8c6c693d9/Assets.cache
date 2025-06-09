@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    c5a627e6-895c-43fb-ad04-68834e1681c6: 79c6a960-a96f-43e5-ae8c-c5bc1e1f3313/629fd2395d5cecd73a42f5a8c6c693d9/Data/FriendshipBraceletLetters.jpg
+  Assets:
+    - !<FileTexture/c5a627e6-895c-43fb-ad04-68834e1681c6>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 629fd2395d5cecd73a42f5a8c6c693d9
+  FileHash: 4e68cbf7fa0dd3af6c1f3909e6b63ed3
+  NativePackageItems:
+    []

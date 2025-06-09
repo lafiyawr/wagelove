@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    baf7e664-cbbd-4cf7-9a1c-012387f6b2aa: 2caf69e3-5dce-7986-f64b-4ea1e4639ea2/e9a3979b450cb5b56fdc04159943a232/Data/Urbanist-VariableFont_wght.ttf
+  Assets:
+    - !<Font/baf7e664-cbbd-4cf7-9a1c-012387f6b2aa>
+      PackagePath: ""
+  SourceHash: e9a3979b450cb5b56fdc04159943a232
+  FileHash: 21ea819658708bce53142309b40c4e8d
+  NativePackageItems:
+    []

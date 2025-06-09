@@ -1,0 +1,16 @@
+- !<AssetImportMetadata/2b0d7d99-0abf-4863-b314-b9b37dec2fbd>
+  ImportedAssetIds:
+    AnimationAsset: !<reference> fbb374b1-c058-4d5b-980c-92c193500f15
+  ImporterName: AnimationAssetImporter
+  PrimaryAsset: !<reference> fbb374b1-c058-4d5b-980c-92c193500f15
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

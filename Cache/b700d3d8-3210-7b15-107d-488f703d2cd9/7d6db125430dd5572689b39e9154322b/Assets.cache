@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    90119cd3-14e7-4293-a075-6587cec3048c: b700d3d8-3210-7b15-107d-488f703d2cd9/7d6db125430dd5572689b39e9154322b/Data/roots_normal.jpg
+  Assets:
+    - !<FileTexture/90119cd3-14e7-4293-a075-6587cec3048c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 7d6db125430dd5572689b39e9154322b
+  FileHash: 3ca5129463b8bb314082ed2060609d49
+  NativePackageItems:
+    []

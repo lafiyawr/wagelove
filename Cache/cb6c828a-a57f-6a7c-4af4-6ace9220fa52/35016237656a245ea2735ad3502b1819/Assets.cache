@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    5515890c-039d-4aff-8215-e3d0ee0af4d5: cb6c828a-a57f-6a7c-4af4-6ace9220fa52/35016237656a245ea2735ad3502b1819/Data/flame.png
+  Assets:
+    - !<FileTexture/5515890c-039d-4aff-8215-e3d0ee0af4d5>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 500
+        Height: 500
+  SourceHash: 35016237656a245ea2735ad3502b1819
+  FileHash: 93ce03f975c1a54befe3d9eb2a75003a
+  NativePackageItems:
+    []

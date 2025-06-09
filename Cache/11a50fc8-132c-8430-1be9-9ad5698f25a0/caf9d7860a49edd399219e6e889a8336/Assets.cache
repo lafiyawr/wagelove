@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    31f26e19-ca33-4590-b84f-e191a564e3b4: 11a50fc8-132c-8430-1be9-9ad5698f25a0/caf9d7860a49edd399219e6e889a8336/Data/sardine.png
+  Assets:
+    - !<FileTexture/31f26e19-ca33-4590-b84f-e191a564e3b4>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: caf9d7860a49edd399219e6e889a8336
+  FileHash: da3143f6cced180403d494de067bd19f
+  NativePackageItems:
+    []

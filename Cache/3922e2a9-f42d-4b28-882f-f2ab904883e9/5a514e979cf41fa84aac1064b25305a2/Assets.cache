@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    267f41d9-acdf-4f62-855a-1447ad0dd223: 3922e2a9-f42d-4b28-882f-f2ab904883e9/5a514e979cf41fa84aac1064b25305a2/Data/WatchFace.mesh
+  Assets:
+    - !<FileMesh/267f41d9-acdf-4f62-855a-1447ad0dd223>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 850
+        Vertices: 1093
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 25.534458, y: 0.704176, z: 25.484074}
+  SourceHash: 5a514e979cf41fa84aac1064b25305a2
+  FileHash: e3ed58cbf2f46e1e26aebe57dba85280
+  NativePackageItems:
+    []

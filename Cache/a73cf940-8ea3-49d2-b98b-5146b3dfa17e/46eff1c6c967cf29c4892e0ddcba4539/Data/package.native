@@ -1,0 +1,34 @@
+- !<NativePackageDescriptor/cd2bc4d4-f4c0-405f-a50e-576807d11239>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 9
+    patch: 1
+    build: 25051422
+    type: Unset
+  Description: "This asset demonstrates how to emit custom multi-mesh with VFX.\nYou can replace the mesh with any custom geometry under the\nasset inspector.\n"
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  InternalVersion: 12
+  VersionMajor: 1
+  VersionMinor: 1
+  VersionPatch: 0
+  UpdateCheckpoint: 57
+  ExportUid: 3f18cd69-c582-4c84-b0b7-690a08a63817
+  ComponentUid: 2d11391a-d61c-40b4-a4f7-99ab5c226752
+  CurrentVisibility: Locked
+  MaxVisibility: Editable
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0
+  coreVersion: 309
+  clientVersion: 13.3800001

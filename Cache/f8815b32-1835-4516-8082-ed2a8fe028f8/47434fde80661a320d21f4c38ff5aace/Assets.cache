@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    dfbbccac-a0a4-4c35-be35-eec42562d4ce: f8815b32-1835-4516-8082-ed2a8fe028f8/47434fde80661a320d21f4c38ff5aace/Data/Wrldspace_Alien.mesh
+  Assets:
+    - !<FileMesh/dfbbccac-a0a4-4c35-be35-eec42562d4ce>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 5766
+        Vertices: 5002
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 57.592056, y: 87.320473, z: 69.763824}
+  SourceHash: 47434fde80661a320d21f4c38ff5aace
+  FileHash: 7b309503417a901485b57f7ab39bf769
+  NativePackageItems:
+    []

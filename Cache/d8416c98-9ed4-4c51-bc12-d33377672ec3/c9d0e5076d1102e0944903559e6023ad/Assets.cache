@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    19f9080b-f049-4d9f-b5e1-b0441db74ef2: d8416c98-9ed4-4c51-bc12-d33377672ec3/c9d0e5076d1102e0944903559e6023ad/Data/theprotector.png
+  Assets:
+    - !<FileTexture/19f9080b-f049-4d9f-b5e1-b0441db74ef2>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: c9d0e5076d1102e0944903559e6023ad
+  FileHash: da3a6b3e8eacca91f55d571c1de313e3
+  NativePackageItems:
+    []

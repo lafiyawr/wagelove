@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    7ee2d46b-51a1-4442-b5ba-7daa9aa42e02: 48968c36-e815-625c-3ca2-993ac980b1e0/155b3f6d012c39825edd3247ac2e490f/Data/Smoke BaseTex - Realistic Small.png
+  Assets:
+    - !<FileTexture/7ee2d46b-51a1-4442-b5ba-7daa9aa42e02>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 128
+        Height: 128
+  SourceHash: 155b3f6d012c39825edd3247ac2e490f
+  FileHash: fa9cda5955d3fe846c157575025bcfcd
+  NativePackageItems:
+    []

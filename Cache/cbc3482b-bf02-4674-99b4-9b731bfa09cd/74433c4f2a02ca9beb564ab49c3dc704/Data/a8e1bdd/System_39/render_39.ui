@@ -1,0 +1,86 @@
+{ 
+	"ui": 
+	[
+		{
+        	"label": "Graph Parameters",
+        	"widget": "group_start"
+        },
+{
+                	"label": "Splash",
+                	"widget": "group_start"
+                },                    
+                    { 
+                    	"bindingName": "baseTex", 
+                    	"label":       "Splash Texture", 
+                    	"widget":      "texture_group",
+                    	"sortIndex":   "0",
+                    	"hint":        ""
+                    },
+                    
+                    {
+                    	"bindingName": "Tweak_N114",
+                    	"label":       "Max Frames",
+                    	"widget":      "spinbox",
+                    	"step":        1,
+                    	"sortIndex":   "0",
+                    	"hint":        ""
+                    },
+                {
+                	"widget": "group_end"
+                },
+                
+                {
+                	"label": "Soap bubble",
+                	"widget": "group_start"
+                },                    
+                    { 
+                    	"bindingName": "Tweak_N8", 
+                    	"label":       "Soap Bubble Texture", 
+                    	"widget":      "texture_group",
+                    	"sortIndex":   "0",
+                    	"hint":        ""
+                    },
+                    
+                    { 
+                    	"bindingName": "Tweak_N104", 
+                    	"label":       "Flow Texture", 
+                    	"widget":      "texture_group",
+                    	"sortIndex":   "0",
+                    	"hint":        ""
+                    },
+                    
+                    { 
+                    	"bindingName": "Tweak_N10", 
+                    	"label":       "Specular Texture", 
+                    	"widget":      "texture_group",
+                    	"sortIndex":   "0",
+                    	"hint":        ""
+                    },
+                {
+                	"widget": "group_end"
+                },
+
+        {
+        	"widget": "group_end"
+        },
+        
+		
+	{
+		"bindingName": "alphaTestThreshold",
+		"widget": "slider",
+		"min" : 0.0,
+		"max" : 1.0,
+		"step": 0.001,
+		"default": 0.5,
+		"hint": "When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear."
+	}
+	
+	],
+	
+	"shaderType": "PostProcessing",
+	
+	"extraDefines":
+	[
+		
+	]
+}

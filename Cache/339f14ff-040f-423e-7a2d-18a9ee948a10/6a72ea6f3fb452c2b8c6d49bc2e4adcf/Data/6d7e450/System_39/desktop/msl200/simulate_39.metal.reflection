@@ -1,0 +1,65 @@
+//SG_REFLECTION_BEGIN(200)
+//attribute vec4 position 0
+//attribute vec2 texture0 3
+//attribute vec2 texture1 4
+//attribute vec3 normal 1
+//attribute vec4 tangent 2
+//output vec4 FragColor0 0
+//output vec4 FragColor1 1
+//output vec4 FragColor2 2
+//output vec4 FragColor3 3
+//sampler sampler renderTarget0SmpSC 0:20
+//sampler sampler renderTarget1SmpSC 0:21
+//sampler sampler renderTarget2SmpSC 0:22
+//sampler sampler renderTarget3SmpSC 0:23
+//texture texture2D renderTarget0 0:1:0:20
+//texture texture2D renderTarget1 0:2:0:21
+//texture texture2D renderTarget2 0:3:0:22
+//texture texture2D renderTarget3 0:4:0:23
+//ubo int UserUniforms 0:31:7328 {
+//float4 sc_Time 1376
+//float4 sc_UniformConstants 1392
+//float4 sc_StereoClipPlanes 3664:[2]:16
+//int overrideTimeEnabled 3980
+//float overrideTimeElapsed 3984:[32]:4
+//float overrideTimeDelta 4112
+//bool vfxBatchEnable 4120:[32]:4
+//bool vfxEmitParticle 4248:[32]:4
+//float4x4 vfxModelMatrix 4384:[32]:64
+//float3 vfxLocalAabbMin 6624
+//float3 vfxLocalAabbMax 6640
+//int vfxOffsetInstancesRead 7108
+//int vfxOffsetInstancesWrite 7112
+//float2 vfxTargetSizeRead 7120
+//float2 vfxTargetSizeWrite 7128
+//int vfxTargetWidth 7136
+//float Port_Import_N036 7140
+//float3 Port_Import_N037 7152
+//float3 Port_Import_N005 7168
+//float Port_Import_N041 7184
+//float3 Port_Import_N193 7200
+//float3 Port_Import_N194 7216
+//float3 Port_Import_N195 7232
+//float3 Port_Import_N196 7248
+//float2 Port_Scale_N198 7264
+//float2 Port_Scale_N199 7272
+//float2 Port_Scale_N200 7280
+//float3 Port_Input1_N202 7296
+//float Port_Import_N092 7312
+//float Port_Import_N108 7316
+//float Port_Import_N109 7320
+//float Port_Import_N111 7324
+//}
+//spec_const bool renderTarget0HasSwappedViews 0 0
+//spec_const bool renderTarget1HasSwappedViews 1 0
+//spec_const bool renderTarget2HasSwappedViews 2 0
+//spec_const bool renderTarget3HasSwappedViews 3 0
+//spec_const int SC_DEVICE_CLASS 4 -1
+//spec_const int renderTarget0Layout 5 0
+//spec_const int renderTarget1Layout 6 0
+//spec_const int renderTarget2Layout 7 0
+//spec_const int renderTarget3Layout 8 0
+//spec_const int sc_ShaderCacheConstant 9 0
+//spec_const int sc_StereoRenderingMode 10 0
+//spec_const int sc_StereoRendering_IsClipDistanceEnabled 11 0
+//SG_REFLECTION_END

@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    df052d34-7f01-4955-a678-75a14361f90f: 9d75aa47-bee1-b51b-f5a8-708ea3535c9f/26f02fe3071830dc96b2f9b9e2cbd031/Data/SM_Tropical_Plant_Hand_Painted_001_HandPaintedMaterial01_0.mesh
+  Assets:
+    - !<FileMesh/df052d34-7f01-4955-a678-75a14361f90f>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 266
+        Vertices: 200
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 2.223075, y: 3.776721, z: 3.485364}
+  SourceHash: 26f02fe3071830dc96b2f9b9e2cbd031
+  FileHash: d1c69d8e6505e2aad2df951985398774
+  NativePackageItems:
+    []

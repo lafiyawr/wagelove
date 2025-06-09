@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    d0a80685-49b9-4c25-a44a-a3d1e690d075: c040eedd-a2a5-431e-8eb8-7ab12e639aa4/9280197ff3d84a73af45e596e77b3c1b/Data/ring-UI-reach.png
+  Assets:
+    - !<FileTexture/d0a80685-49b9-4c25-a44a-a3d1e690d075>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 874
+        Height: 151
+  SourceHash: 9280197ff3d84a73af45e596e77b3c1b
+  FileHash: 2cbe0d305c97c29b72ff4f7988654f59
+  NativePackageItems:
+    []

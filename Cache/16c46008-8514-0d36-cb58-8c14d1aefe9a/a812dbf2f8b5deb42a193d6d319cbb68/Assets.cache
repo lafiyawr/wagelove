@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f9e49071-cf7e-4cfa-9435-d73af307f925: 16c46008-8514-0d36-cb58-8c14d1aefe9a/a812dbf2f8b5deb42a193d6d319cbb68/Data/Grass.jpg
+  Assets:
+    - !<FileTexture/f9e49071-cf7e-4cfa-9435-d73af307f925>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: a812dbf2f8b5deb42a193d6d319cbb68
+  FileHash: 112f3344d0bc871b468f6767ef572ee6
+  NativePackageItems:
+    []

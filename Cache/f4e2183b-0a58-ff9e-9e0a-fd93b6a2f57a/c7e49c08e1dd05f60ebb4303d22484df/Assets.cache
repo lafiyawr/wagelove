@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f42641b5-88e9-436d-bb26-3b2f6e2fa779: f4e2183b-0a58-ff9e-9e0a-fd93b6a2f57a/c7e49c08e1dd05f60ebb4303d22484df/Data/UI-Pinch-BG.png
+  Assets:
+    - !<FileTexture/f42641b5-88e9-436d-bb26-3b2f6e2fa779>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 877
+        Height: 1024
+  SourceHash: c7e49c08e1dd05f60ebb4303d22484df
+  FileHash: 9bce9cc6e0c437786d56c18681d09e26
+  NativePackageItems:
+    []

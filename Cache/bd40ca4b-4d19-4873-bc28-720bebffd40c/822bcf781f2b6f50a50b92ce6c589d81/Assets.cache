@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    8996af00-d43f-40c8-97ae-18884c754564: bd40ca4b-4d19-4873-bc28-720bebffd40c/822bcf781f2b6f50a50b92ce6c589d81/Data/Gold params texture.png
+  Assets:
+    - !<FileTexture/8996af00-d43f-40c8-97ae-18884c754564>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1
+        Height: 1
+  SourceHash: 822bcf781f2b6f50a50b92ce6c589d81
+  FileHash: e00417eae9517da8b78a5fc5b850bc2a
+  NativePackageItems:
+    []

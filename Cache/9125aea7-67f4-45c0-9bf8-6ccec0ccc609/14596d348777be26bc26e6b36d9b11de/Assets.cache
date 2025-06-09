@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    0d704e26-e389-4db9-bd75-dfe926fbd241: 9125aea7-67f4-45c0-9bf8-6ccec0ccc609/14596d348777be26bc26e6b36d9b11de/Data/thehealer.png
+  Assets:
+    - !<FileTexture/0d704e26-e389-4db9-bd75-dfe926fbd241>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 512
+        Height: 512
+  SourceHash: 14596d348777be26bc26e6b36d9b11de
+  FileHash: fb67ee06e5941119bdcd6d150ec812e6
+  NativePackageItems:
+    []

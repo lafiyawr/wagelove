@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    ce2ee0f7-181f-40f6-9b08-6ab8675e38c6: bedec722-44d2-aab3-f0f5-a1517681c35e/90b73ce8b26f93d4c6ec633b00f3255e/Data/ColorRamp Smoke Fade.png
+  Assets:
+    - !<FileTexture/ce2ee0f7-181f-40f6-9b08-6ab8675e38c6>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 128
+        Height: 1
+  SourceHash: 90b73ce8b26f93d4c6ec633b00f3255e
+  FileHash: ad6ab5643a8ac966b8359c5980fa22d8
+  NativePackageItems:
+    []

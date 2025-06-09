@@ -1,0 +1,143 @@
+- !<AssetCache>
+  AssetFiles:
+    5c367d39-e7f6-4a76-9aa8-576ec181dd98: "ec12efbf-cde6-d51b-0696-68e6c4a00191/a83167ee59502f0fbeb8fafaa98d1565/Data/Wrist Occluder Shadow [[EDIT_ME]].ss_graph"
+  Assets:
+    - !<ShaderGraphPass/5c367d39-e7f6-4a76-9aa8-576ec181dd98>
+      PackagePath: ""
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 1.000000
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+        Port_GSplatPointSize_N004:
+          typeIdx: 1
+          value: 0.000000
+        Port_Input1_N009:
+          typeIdx: 1
+          value: 0.400000
+        Port_Input1_N010:
+          typeIdx: 1
+          value: 0.200000
+        Port_LODValue_N000:
+          typeIdx: 1
+          value: 0.000000
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_Value3_N003:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value3_N006:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N003:
+          typeIdx: 1
+          value: 0.000000
+        Port_Value4_N006:
+          typeIdx: 1
+          value: 0.000000
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 1.000000, z: 0.000000}
+        Port_WorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 0.000000}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0.000000, y: 0.000000, z: 1.000000}
+      PassUiData: !<PassUiData>
+        ExtraDefines:
+          - SC_ENABLE_RT_CASTER
+        PassBindings:
+          - mLabel: Graph Parameters
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Shadow Texture
+            mType: Property
+            mName: shadowTexture
+            mWidget: texture_group
+            mHint: "Property: shadowTexture"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Shadow Position
+            mType: Property
+            mName: shadowPosition
+            mWidget: slider
+            mHint: "Property: shadowPosition"
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.010000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+          - mLabel: Shadow Opacity
+            mType: Property
+            mName: shadowOpacity
+            mWidget: slider
+            mHint: "Property: shadowOpacity"
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.010000
+            mDefaultVal: 1.000000
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: |-
+              Property: alphaTestThreshold
+              
+              When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear.
+            mMin: 0.000000
+            mMax: 1.000000
+            mStep: 0.001000
+            mDefaultVal: 0.500000
+            mValues:
+              []
+        ShaderType: Mesh3d
+      ShaderPath: "ec12efbf-cde6-d51b-0696-68e6c4a00191/a83167ee59502f0fbeb8fafaa98d1565/Data/81578ed/Wrist Occluder Shadow [[EDIT_ME]].glsl"
+      Defines:
+        []
+      Properties:
+        {}
+  SourceHash: a83167ee59502f0fbeb8fafaa98d1565
+  FileHash: fa3947ae8313fd2cebcb3bc1905913b6
+  NativePackageItems:
+    []

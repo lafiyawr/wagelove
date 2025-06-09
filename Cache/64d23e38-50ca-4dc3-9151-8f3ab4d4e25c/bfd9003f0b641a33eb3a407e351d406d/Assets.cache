@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    3f094eb0-68da-40d3-97b3-0fd8bcd8287c: 64d23e38-50ca-4dc3-9151-8f3ab4d4e25c/bfd9003f0b641a33eb3a407e351d406d/Data/LeftHandMesh.mesh
+  Assets:
+    - !<FileMesh/3f094eb0-68da-40d3-97b3-0fd8bcd8287c>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 3818
+        Vertices: 2412
+        Blendshapes:
+          []
+        Joints: 41
+        AabbSize: {x: 21.936039, y: 8.986035, z: 14.084342}
+  SourceHash: bfd9003f0b641a33eb3a407e351d406d
+  FileHash: 0753b8215e0d5a52d43a6f35dedf7853
+  NativePackageItems:
+    []

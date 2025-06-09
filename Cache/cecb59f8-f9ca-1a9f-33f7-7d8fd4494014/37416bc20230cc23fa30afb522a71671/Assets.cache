@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    dedda246-d3a5-4131-b7bd-03abcaf6783b: cecb59f8-f9ca-1a9f-33f7-7d8fd4494014/37416bc20230cc23fa30afb522a71671/Data/BaseTex.png
+  Assets:
+    - !<FileTexture/dedda246-d3a5-4131-b7bd-03abcaf6783b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 224
+        Height: 224
+  SourceHash: 37416bc20230cc23fa30afb522a71671
+  FileHash: 0298101652655684911485a14b2ec86d
+  NativePackageItems:
+    []

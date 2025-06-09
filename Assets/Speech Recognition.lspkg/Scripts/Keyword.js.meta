@@ -1,0 +1,63 @@
+- !<AssetImportMetadata/ba9b3d0c-e3ae-a2c7-6417-59569c4597a7>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 82f7cf02-c599-4769-b72a-574b8b8818fa
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 82f7cf02-c599-4769-b72a-574b8b8818fa
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> f8aab449-173c-42c7-9f87-ca777bade292
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  ExtraData:
+    AssetLibraryId: 4m6xd46NyhXMMrXlwUD67f
+- !<ScriptAssetData/f8aab449-173c-42c7-9f87-ca777bade292>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 1
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 9820c49f-880a-4ca3-8265-cd7ce486f33c
+  ExportUid: 000618e6-2f0f-c85c-0000-000000027a1d
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    categoryAliasesEnglish: false
+    categoryAliasesFrench: false
+    categoryAliasesGerman: false
+    categoryAliasesSpanish: false
+    keywordEnglish: false
+    keywordFrench: false
+    keywordGerman: false
+    keywordSpanish: false
+    onKeywordTriggeredGlobalBehaviors: false
+    sendTriggers: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - keywordEnglish: ""
+      categoryAliasesEnglish: !<string[]>
+        []
+      keywordSpanish: ""
+      categoryAliasesSpanish: !<string[]>
+        []
+      keywordFrench: ""
+      categoryAliasesFrench: !<string[]>
+        []
+      keywordGerman: ""
+      categoryAliasesGerman: !<string[]>
+        []
+      sendTriggers: false
+      onKeywordTriggeredGlobalBehaviors: !<reference.ScriptComponent[]>
+        []
+  ScriptTypes:
+    -
+      {}
+  SetupScript:
+    code: ""
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000

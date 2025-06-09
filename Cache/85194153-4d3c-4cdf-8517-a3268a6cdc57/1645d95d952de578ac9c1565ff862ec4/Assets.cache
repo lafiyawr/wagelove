@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    061cb687-90e1-4251-8cb7-ea00658fba48: 85194153-4d3c-4cdf-8517-a3268a6cdc57/1645d95d952de578ac9c1565ff862ec4/Data/WatchMinuteHand.mesh
+  Assets:
+    - !<FileMesh/061cb687-90e1-4251-8cb7-ea00658fba48>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 1036
+        Vertices: 459
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.011809, y: 0.002768, z: 0.108106}
+  SourceHash: 1645d95d952de578ac9c1565ff862ec4
+  FileHash: 44f05c5d6db2a2a5bf103fc3306da75c
+  NativePackageItems:
+    []

@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    e935d027-d2a8-4ae4-a81b-9201264e415e: 330f42eb-8328-f6f0-398a-5b6c8fd2678f/1cf3c04c6b44b064bea72ff087df4a4e/Data/Particles Mesh.mesh
+  Assets:
+    - !<FileMesh/e935d027-d2a8-4ae4-a81b-9201264e415e>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 2
+        Vertices: 4
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 1.000000, y: 1.000000, z: 0.000000}
+  SourceHash: 1cf3c04c6b44b064bea72ff087df4a4e
+  FileHash: c7bc0cea1b6270985ca82f7280136d14
+  NativePackageItems:
+    []

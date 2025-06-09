@@ -1,0 +1,27 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 01f45518-1993-4019-a8c2-0ebd97b2a3ab: /Volumes/SandWorm/Main/Art/Wage Love/audio/Ancestor-Music.mp3
+    - 0e0b63f1-2789-4b9f-9d79-e3c4104c895f: "D:/Documents/AR/Ancestors/VO-20250605T032051Z-1-001/VO/WageLoveVO6.mp3"
+    - 0f01a041-dfac-45fd-8998-2b0e225c0971: "D:/Documents/AR/Ancestors/Placeholders/finalform.mp3"
+    - 15d38e7b-bbb8-4a7a-8a60-2bfb86e37f1d: "D:/Documents/AR/Ancestors/Placeholders/halooutline.png"
+    - 4aa91e12-c0b5-4a58-888f-0cf25f530136: "D:/Downloads/fireflies2.mp3"
+    - 55e87a99-0295-4078-bdd4-e64c93835aab: "D:/Documents/AR/Ancestors/VO-20250605T032051Z-1-001/VO/WageLoveVO1ver2.mp3"
+    - 5c990550-73a0-4f28-9659-69dd263cdab0: "D:/Documents/AR/Ancestors/acestors-share.mp3"
+    - 5d37ac32-2d17-4ef6-b49c-d5b5d60633da: "D:/Documents/AR/Ancestors/ancesorsreadyfuse.mp3"
+    - 789615db-dd48-4f3c-a367-f81de01fd2ef: "D:/Documents/AR/Ancestors/VO-20250605T032051Z-1-001/VO/WageLoveVO3.mp3"
+    - 7b431b5b-04d6-4686-8883-efe4aa956a2c: "D:/Documents/AR/Ancestors/Placeholders/thesage.png"
+    - 7cde3fa0-949d-41d2-838d-c1894ee71c53: "D:/Documents/AR/Ancestors/Placeholders/ending.mp3"
+    - 7fd433f5-644a-4435-972f-1be3ca4117a1: "D:/Documents/AR/Ancestors/VO-20250605T032051Z-1-001/VO/WageLoveVO1.mp3"
+    - 8f860698-a407-4834-bbe4-2873008a12c5: /Users/hcds/Downloads/karnivore/KARNIBLA.ttf
+    - 9125aea7-67f4-45c0-9bf8-6ccec0ccc609: "D:/Documents/AR/Ancestors/Placeholders/thehealer.png"
+    - 9edde9e5-9a4c-4992-a6f0-53478f38387f: "D:/Documents/AR/Ancestors/VO-20250605T032051Z-1-001/VO/WageLoveVO2.mp3"
+    - acd94f19-d648-4adf-b14f-972e43a7dbf0: /Volumes/SandWorm/Main/Art/Wage Love/textures/earth-healthy.jpg
+    - adf0ce3c-70b5-4a95-b8af-fac37c8e48f9: "D:/Documents/AR/Ancestors/VO-20250605T032051Z-1-001/VO/WageLoveVO4.mp3"
+    - b0016f2a-d9c7-4c95-9b33-89852dd8020a: "D:/Documents/AR/Ancestors/Placeholders/halo.png"
+    - bbf1089a-b165-426e-bfe8-c63cd86d6abb: "D:/Documents/AR/Ancestors/VO-20250605T032051Z-1-001/VO/WageLoveVO5.mp3"
+    - c5657db5-06a1-43cb-8bc9-8df104e4e039: "D:/Downloads/340368__hargissssound__bird-sanctuary-nj-loop.mp3"
+    - d8416c98-9ed4-4c51-bc12-d33377672ec3: "D:/Documents/AR/Ancestors/Placeholders/theprotector.png"
+    - e3ae2d3e-6dc5-4124-96f6-d581040d1580: /Volumes/SandWorm/Main/Art/Wage Love/textures/earth-unhealthy.jpg
+    - f707fee3-480f-4089-acf4-5e6086f0fb17: "D:/Downloads/world-creativity-and-innovation-day.gif"
+  options: 4

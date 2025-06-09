@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    43fc8bfb-6aa3-47ce-b603-069aae9ea547: 4e44a891-271e-603a-98e0-2f0140a938d5/3fcdb70947cb36ddec614589f3ff297d/Data/Image_2.jpg
+  Assets:
+    - !<FileTexture/43fc8bfb-6aa3-47ce-b603-069aae9ea547>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 256
+        Height: 256
+  SourceHash: 3fcdb70947cb36ddec614589f3ff297d
+  FileHash: 32e1b5958d74514bb97fc5d4913c855d
+  NativePackageItems:
+    []

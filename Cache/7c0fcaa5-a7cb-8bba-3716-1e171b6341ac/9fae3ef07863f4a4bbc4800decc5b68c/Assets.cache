@@ -1,0 +1,235 @@
+- !<AssetCache>
+  AssetFiles:
+    {}
+  Assets:
+    []
+  SourceHash: 9fae3ef07863f4a4bbc4800decc5b68c
+  FileHash: bf382cdd48b8279953c16d627b55f9ca
+  NativePackageItems:
+    - !<own> f2aeb015-008a-1f6b-22e6-5cacf5059143
+    - !<own> bb0b498d-4c4d-6ffd-fb3e-970eede9ad74
+    - !<own> d1da3ce6-f886-48a9-77ef-9ae3f9d42972
+    - !<own> d63245bf-90e7-1de0-c0f0-bbef1e44a847
+    - !<own> 92865680-0215-6c27-cdd6-505d6fd9aafe
+    - !<own> edd92895-8d82-1bb6-f3d3-505374b531e9
+    - !<own> a9307d9c-469e-3fab-4a6f-50ce50a0785b
+    - !<own> 8f73ceed-9372-9522-9b28-61c9a76e6ced
+- !<ObjectPrefab/4af991b1-ca0c-4164-88c6-d813f52dee77>
+  PackagePath: ""
+  objects:
+    - !<own> e5a4c81b-a75d-4efb-8b36-92e8ea44ef9e
+  LazyLoading: false
+  RetainAssets: true
+- !<AssetImportMetadata/8f73ceed-9372-9522-9b28-61c9a76e6ced>
+  ImportedAssetIds:
+    NativePackageDescriptor: !<reference> 51872c21-e134-4213-bbce-bcf935e99c86
+  ImporterName: NativePackageDescriptorImporter
+  PrimaryAsset: !<reference> 51872c21-e134-4213-bbce-bcf935e99c86
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/92865680-0215-6c27-cdd6-505d6fd9aafe>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> d879e9d7-29e1-4181-b26c-bbb1cd0fa630
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> d879e9d7-29e1-4181-b26c-bbb1cd0fa630
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> a53a7789-a4c3-48f6-8ea2-50a6c7f59e83
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefabAssetData/a53a7789-a4c3-48f6-8ea2-50a6c7f59e83>
+  SourceRemaps:
+    - 2d7abd50-d708-4cf6-9257-2ac5a42fe861: e5a4c81b-a75d-4efb-8b36-92e8ea44ef9e
+    - 48db6653-fe17-4058-afa2-fd297d0c94bf: ce1607f5-8971-4973-bf69-edac0b718061
+    - d879e9d7-29e1-4181-b26c-bbb1cd0fa630: 4af991b1-ca0c-4164-88c6-d813f52dee77
+  SourceState: !<own> 4af991b1-ca0c-4164-88c6-d813f52dee77
+- !<AssetImportMetadata/a9307d9c-469e-3fab-4a6f-50ce50a0785b>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 1780ab97-6d2f-45db-bbab-2dd8015c784c
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 1780ab97-6d2f-45db-bbab-2dd8015c784c
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/bb0b498d-4c4d-6ffd-fb3e-970eede9ad74>
+  ImportedAssetIds:
+    Texture: !<reference> 3ebd9c01-1444-418d-8e09-222f4a7a823a
+  ImporterName: FileTextureImporter
+  PrimaryAsset: !<reference> 3ebd9c01-1444-418d-8e09-222f4a7a823a
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: Performance
+    CompressionSettings: !<TextureCompressionMipmapSettings>
+      Level: Medium
+      Mipmap: false
+- !<ScriptComponent/ce1607f5-8971-4973-bf69-edac0b718061>
+  PrefabRemaps:
+    []
+  Name: GPU Particles Trail Mesh Builder
+  Enabled: true
+  ScriptAsset: !<reference> f4998dc6-b488-4556-98af-56f661119eec
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      particleTrailsMaterial: !<reference.Material> 0fb13147-d949-40d7-b83f-bbdc1e87cb72
+      segmentCount: 25
+      addHead: true
+  ScriptTypes:
+    "":
+      {}
+- !<AssetImportMetadata/d1da3ce6-f886-48a9-77ef-9ae3f9d42972>
+  ImportedAssetIds:
+    Texture: !<reference> 0255a065-3c72-4bfd-b80b-897a7704a56d
+  ImporterName: FileTextureImporter
+  PrimaryAsset: !<reference> 0255a065-3c72-4bfd-b80b-897a7704a56d
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: Performance
+    CompressionSettings: !<TextureCompressionMipmapSettings>
+      Level: Medium
+      Mipmap: false
+- !<AssetImportMetadata/d63245bf-90e7-1de0-c0f0-bbef1e44a847>
+  ImportedAssetIds:
+    Material: !<reference> 0fb13147-d949-40d7-b83f-bbdc1e87cb72
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> 0fb13147-d949-40d7-b83f-bbdc1e87cb72
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/d93d16ee-8581-4343-8ed0-25159fa10454>
+  SvgIcon: |
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M10.9287 1.24275C10.8384 1.09215 10.6756 1 10.5 1C10.3244 1 10.1616 1.09215 10.0713 1.24275L8.63557 3.63557L6.24275 5.07125C6.09215 5.16162 6 5.32437 6 5.5C6 5.67563 6.09215 5.83838 6.24275 5.92875L8.63557 7.36443L10.0713 9.75725C10.1616 9.90785 10.3244 10 10.5 10C10.6756 10 10.8384 9.90785 10.9287 9.75725L12.3644 7.36443L14.7572 5.92875C14.9079 5.83838 15 5.67563 15 5.5C15 5.32437 14.9079 5.16162 14.7572 5.07125L12.3644 3.63557L10.9287 1.24275ZM9.42875 4.25725L10.5 2.47183L11.5713 4.25725C11.6135 4.32762 11.6724 4.38652 11.7428 4.42875L13.5282 5.5L11.7428 6.57125C11.6724 6.61348 11.6135 6.67238 11.5713 6.74275L10.5 8.52817L9.42875 6.74275C9.38652 6.67238 9.32762 6.61348 9.25725 6.57125L7.47183 5.5L9.25725 4.42875C9.32762 4.38652 9.38652 4.32762 9.42875 4.25725ZM5.85355 7.85355C6.04882 7.65829 6.04882 7.34171 5.85355 7.14645C5.65829 6.95118 5.34171 6.95118 5.14645 7.14645L1.14645 11.1464C0.951184 11.3417 0.951184 11.6583 1.14645 11.8536C1.34171 12.0488 1.65829 12.0488 1.85355 11.8536L5.85355 7.85355ZM7.85355 8.14645C8.04882 8.34171 8.04882 8.65829 7.85355 8.85355L1.85355 14.8536C1.65829 15.0488 1.34171 15.0488 1.14645 14.8536C0.951184 14.6583 0.951184 14.3417 1.14645 14.1464L7.14645 8.14645C7.34171 7.95118 7.65829 7.95118 7.85355 8.14645ZM8.85355 10.8536C9.04882 10.6583 9.04882 10.3417 8.85355 10.1464C8.65829 9.95118 8.34171 9.95118 8.14645 10.1464L4.14645 14.1464C3.95118 14.3417 3.95118 14.6583 4.14645 14.8536C4.34171 15.0488 4.65829 15.0488 4.85355 14.8536L8.85355 10.8536Z" fill="#FCE94E"/>
+    </svg>
+
+  Description: |-
+    Creates a trail mesh for GPU Particles material that uses Trails.
+    
+    This script is useful for when you need a different amount of segments than the default GPU Particles Trails mesh, which has 100 segments.
+    - lowering the segment count helps with performance by reducing the amount of vertices used.
+    - increasing segment count fixes visual artifacts such as noticeable segmentation or ends of trails popping in or out.
+    - for best results, try to use as few segments as needed to create your effect. Particles with shorter and straighter paths require less segments, while particles with longer or curved paths require more.
+  InternalVersion: 5
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 3
+  ComponentUid: b4425ca6-5916-411a-a86a-3cdda7637a36
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    addHead: false
+    particleTrailsMaterial: false
+    segmentCount: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - particleTrailsMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      segmentCount: 20
+      addHead: false
+  ScriptTypes:
+    -
+      {}
+  SetupScript:
+    code: ""
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/e5a4c81b-a75d-4efb-8b36-92e8ea44ef9e>
+  PrefabRemaps:
+    []
+  Name: GPU Particles Trails__PLACE_IN_SCENE
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ce1607f5-8971-4973-bf69-edac0b718061
+- !<AssetImportMetadata/edd92895-8d82-1bb6-f3d3-505374b531e9>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> f4998dc6-b488-4556-98af-56f661119eec
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> f4998dc6-b488-4556-98af-56f661119eec
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> d93d16ee-8581-4343-8ed0-25159fa10454
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/f2aeb015-008a-1f6b-22e6-5cacf5059143>
+  ImportedAssetIds:
+    Texture: !<reference> fae7912b-4c55-416f-af2f-5b42fab10c33
+  ImporterName: FileTextureImporter
+  PrimaryAsset: !<reference> fae7912b-4c55-416f-af2f-5b42fab10c33
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

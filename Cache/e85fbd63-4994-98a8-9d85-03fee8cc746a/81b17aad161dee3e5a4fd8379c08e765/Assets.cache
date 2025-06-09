@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    d9830ba7-7e3b-4f4b-92dd-5d05695e9fd2: e85fbd63-4994-98a8-9d85-03fee8cc746a/81b17aad161dee3e5a4fd8379c08e765/Data/MappingSuccess.wav
+  Assets:
+    - !<FileAudioTrack/d9830ba7-7e3b-4f4b-92dd-5d05695e9fd2>
+      PackagePath: ""
+  SourceHash: 81b17aad161dee3e5a4fd8379c08e765
+  FileHash: 8035aa3fc1609626acfa736f7767a00b
+  NativePackageItems:
+    []

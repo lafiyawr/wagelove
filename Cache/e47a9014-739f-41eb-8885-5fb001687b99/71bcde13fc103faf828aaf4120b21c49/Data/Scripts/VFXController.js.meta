@@ -1,0 +1,40 @@
+- !<AssetImportMetadata/6f4bcf35-cce1-4857-aa0a-9634c0111fdf>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 8baf302a-81e2-40d7-a0df-a7ae6266761d
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 8baf302a-81e2-40d7-a0df-a7ae6266761d
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> e749e1c3-13ae-4ffd-b46a-731083b97b89
+  DependentFiles: []
+  ImporterSettings: !<AssetImporterSettings/1de92a01-5d21-49ed-a217-5c2848c0e333> {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/e749e1c3-13ae-4ffd-b46a-731083b97b89>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: e0597bc3-c025-4a11-b8bd-5c02d619f052
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    curlCoefficient: false
+    setFollowHandHelper: false
+    spreadDirection: false
+    strengthScale: false
+    triggerRange: false
+    vfx: false
+  ScriptTypesHidden: {}
+  DefaultScriptInputs:
+    - setFollowHandHelper: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      vfx: !<reference.VFXAsset> 00000000-0000-0000-0000-000000000000
+      curlCoefficient: !<float> 0.000000
+      triggerRange: 45
+      strengthScale: 100
+      spreadDirection: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+  ScriptTypes:
+    - {}

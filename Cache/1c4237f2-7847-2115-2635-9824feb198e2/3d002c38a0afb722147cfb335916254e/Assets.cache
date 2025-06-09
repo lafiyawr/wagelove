@@ -1,0 +1,30 @@
+- !<AssetCache>
+  AssetFiles:
+    edcb23d7-1328-4a78-8a33-53a9744cdaf9: 1c4237f2-7847-2115-2635-9824feb198e2/3d002c38a0afb722147cfb335916254e/Data/halo-white2.t3d
+    fddc1d16-07f1-4507-9bc2-98f92fac50f6: 1c4237f2-7847-2115-2635-9824feb198e2/3d002c38a0afb722147cfb335916254e/Data/atlas_0.png
+  Assets:
+    - !<AnimatedTexture/edcb23d7-1328-4a78-8a33-53a9744cdaf9>
+      PackagePath: ""
+      keyFrames:
+        default:
+          - time: 0.000000
+            value: 0
+          - time: 3.000000
+            value: 36
+      ReverseSupported: true
+      FrameSize: {x: 341, y: 341}
+      AnimationSequences:
+        default: 36
+      AutoPlay: false
+      Reversed: true
+      PingPong: true
+      CurrentSequence: default
+    - !<FileTexture/fddc1d16-07f1-4507-9bc2-98f92fac50f6>
+      PackagePath: atlas_0.png
+      FileInfo: !<FileTextureInfo>
+        Width: 2046
+        Height: 2046
+  SourceHash: 3d002c38a0afb722147cfb335916254e
+  FileHash: f3653d61b8d4a8d6b2f4b2ce695c99ca
+  NativePackageItems:
+    []

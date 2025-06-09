@@ -1,0 +1,388 @@
+- !<AssetCache>
+  AssetFiles:
+    {}
+  Assets:
+    []
+  SourceHash: a450918e2126b66ac70cfc589757721f
+  FileHash: 6cf5b17558cd229c1b6a237f5937574e
+  NativePackageItems:
+    - !<own> dcd72ac9-b130-d82d-989d-8c47d3a22426
+    - !<own> 0ae93cfb-6951-3e74-078b-02c2b65e34ef
+    - !<own> 4ef06107-8908-f27d-328d-d0f99c934609
+    - !<own> d8038090-d1b0-984e-e465-bd8c97815043
+    - !<own> a7771bf4-9350-21b2-cf8e-244fc7534b5e
+    - !<own> a5b35642-c390-4983-379f-6bfcdbae0aeb
+    - !<own> ec12efbf-cde6-d51b-0696-68e6c4a00191
+    - !<own> 25117950-3526-9b79-612f-c6953d071e7e
+    - !<own> 4b71cf5e-f933-3da9-86ca-3b9a9500e9e1
+    - !<own> 7e456c9b-58ef-809b-a188-10a9569ec4b3
+- !<AssetImportMetadata/0ae93cfb-6951-3e74-078b-02c2b65e34ef>
+  ImportedAssetIds:
+    Material: !<reference> c7e8b9bb-77fc-45b6-9414-f773f5b8cd94
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> c7e8b9bb-77fc-45b6-9414-f773f5b8cd94
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/10d66d0c-01a0-413a-82e7-28b2b65a2a1b>
+  PrefabRemaps:
+    []
+  Name: Wrist Occluder__PLACE_UNDER_WRIST_BINDING
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 40.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 10.000000, y: 5.000000, z: 10.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 4cfbfdde-7aeb-4281-9055-acf1267f74d1
+    - !<own> 5f034283-3d8b-4109-b847-de2a99740729
+  Components:
+    - !<own> 7ee20fc8-b4e6-40f7-9fc8-2e9d773e4f4f
+- !<AssetImportMetadata/25117950-3526-9b79-612f-c6953d071e7e>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 9599741d-bec2-4a38-9b30-93c584fdf12c
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 9599741d-bec2-4a38-9b30-93c584fdf12c
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefab/2ef6ea43-e51b-4b3f-bd3e-cf735348aee2>
+  PackagePath: ""
+  objects:
+    - !<own> 10d66d0c-01a0-413a-82e7-28b2b65a2a1b
+  LazyLoading: false
+  RetainAssets: true
+- !<AssetImportMetadata/4b71cf5e-f933-3da9-86ca-3b9a9500e9e1>
+  ImportedAssetIds:
+    Texture: !<reference> 38312786-ee9b-439d-a30c-1ff0c0432071
+  ImporterName: FileTextureImporter
+  PrimaryAsset: !<reference> 38312786-ee9b-439d-a30c-1ff0c0432071
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: Performance
+    CompressionSettings: !<TextureCompressionMipmapSettings>
+      Level: Medium
+      Mipmap: false
+- !<SceneObject/4cfbfdde-7aeb-4281-9055-acf1267f74d1>
+  PrefabRemaps:
+    []
+  Name: Wrist Occluder
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: -0.000000}
+    scale: {x: 2.540000, y: 2.539999, z: 2.540000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> fc9ce4fb-1409-43db-aa3e-6ed196cbf368
+- !<AssetImportMetadata/4ef06107-8908-f27d-328d-d0f99c934609>
+  ImportedAssetIds:
+    FileMesh: !<reference> b7574cd7-e5aa-48e7-b02a-2e11cec90de3
+  ImporterName: FileMeshImporter
+  PrimaryAsset: !<reference> b7574cd7-e5aa-48e7-b02a-2e11cec90de3
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<FileMeshImporterSettings>
+    ModifiedVertexFormats:
+      normal: Float
+      position: Float
+      tangent: Float
+      texture0: Float
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/5f034283-3d8b-4109-b847-de2a99740729>
+  PrefabRemaps:
+    []
+  Name: Wrist Occluder Shadow
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: -0.000000}
+    scale: {x: 2.540001, y: 2.540000, z: 2.540001}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 80547739-b33d-45d3-938a-2ab0dab7a4c4
+- !<ScriptAssetData/708c2d78-bfaa-4b38-a33a-581bd27dd88c>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 4fc1f642-d25d-4739-9b8c-0d130319b94e
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    blendShape: false
+    wristOccluder: false
+    wristOccluderShadow: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - wristOccluder: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      wristOccluderShadow: !<reference.RenderMeshVisual> 00000000-0000-0000-0000-000000000000
+      blendShape: 0.500000
+  ScriptTypes:
+    -
+      {}
+  SetupScript:
+    code: ""
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/7e456c9b-58ef-809b-a188-10a9569ec4b3>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> d4602a11-8c14-4494-992e-1247cac44fe1
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> d4602a11-8c14-4494-992e-1247cac44fe1
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> be391b56-1423-4e32-8889-51f73d8e2a03
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptComponent/7ee20fc8-b4e6-40f7-9fc8-2e9d773e4f4f>
+  PrefabRemaps:
+    []
+  Name: WristOccluderController
+  Enabled: true
+  ScriptAsset: !<reference> 91990d48-88e8-46bb-8f3c-5d3d9bd96996
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      wristOccluder: !<reference.RenderMeshVisual> fc9ce4fb-1409-43db-aa3e-6ed196cbf368
+      wristOccluderShadow: !<reference.RenderMeshVisual> 80547739-b33d-45d3-938a-2ab0dab7a4c4
+      blendShape: 0.300000
+  ScriptTypes:
+    "":
+      {}
+- !<RenderMeshVisual/80547739-b33d-45d3-938a-2ab0dab7a4c4>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 356fe643-757d-4a44-b3ac-c2a43c8271b8
+  Mesh: !<reference> b7574cd7-e5aa-48e7-b02a-2e11cec90de3
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    Thickness: 0.500000
+  RayTracing: !<RayTracingVisualSettings>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: true
+        roughHarden: 0.500000
+        roughCurve: 2.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false
+- !<AssetImportMetadata/a5b35642-c390-4983-379f-6bfcdbae0aeb>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 91990d48-88e8-46bb-8f3c-5d3d9bd96996
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 91990d48-88e8-46bb-8f3c-5d3d9bd96996
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 708c2d78-bfaa-4b38-a33a-581bd27dd88c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/a7771bf4-9350-21b2-cf8e-244fc7534b5e>
+  ImportedAssetIds:
+    NativePackageDescriptor: !<reference> 82ac036d-4dd7-4628-a665-595d88b68752
+  ImporterName: NativePackageDescriptorImporter
+  PrimaryAsset: !<reference> 82ac036d-4dd7-4628-a665-595d88b68752
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefabAssetData/be391b56-1423-4e32-8889-51f73d8e2a03>
+  SourceRemaps:
+    - 06c6c847-f381-4831-8240-3d6c087c78ab: 10d66d0c-01a0-413a-82e7-28b2b65a2a1b
+    - 45c45bd5-7ae1-47e8-b4d1-6e08b8e614c5: 80547739-b33d-45d3-938a-2ab0dab7a4c4
+    - 4db268c4-b317-4399-9dd3-5b9738e5532e: 5f034283-3d8b-4109-b847-de2a99740729
+    - c34d0d00-6e50-43bc-8be4-f99cbee6fc3e: 4cfbfdde-7aeb-4281-9055-acf1267f74d1
+    - d4602a11-8c14-4494-992e-1247cac44fe1: 2ef6ea43-e51b-4b3f-bd3e-cf735348aee2
+    - d7ac1a3e-ee37-4c63-b6a9-eaf843615a9d: fc9ce4fb-1409-43db-aa3e-6ed196cbf368
+    - f525b632-6e0a-4381-a5a4-7931dec13eb3: 7ee20fc8-b4e6-40f7-9fc8-2e9d773e4f4f
+  SourceState: !<own> 2ef6ea43-e51b-4b3f-bd3e-cf735348aee2
+- !<AssetImportMetadata/d8038090-d1b0-984e-e465-bd8c97815043>
+  ImportedAssetIds:
+    FileMesh: !<reference> b6d9f6e6-4053-44af-936c-31b3e15f8988
+  ImporterName: FileMeshImporter
+  PrimaryAsset: !<reference> b6d9f6e6-4053-44af-936c-31b3e15f8988
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<FileMeshImporterSettings>
+    ModifiedVertexFormats:
+      normal: Float
+      position: Float
+      tangent: Float
+      texture0: Float
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/dcd72ac9-b130-d82d-989d-8c47d3a22426>
+  ImportedAssetIds:
+    Material: !<reference> 356fe643-757d-4a44-b3ac-c2a43c8271b8
+  ImporterName: MaterialImporter
+  PrimaryAsset: !<reference> 356fe643-757d-4a44-b3ac-c2a43c8271b8
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AssetImportMetadata/ec12efbf-cde6-d51b-0696-68e6c4a00191>
+  ImportedAssetIds:
+    ShaderGraph: !<reference> 5c367d39-e7f6-4a76-9aa8-576ec181dd98
+  ImporterName: ShaderGraphPassImporter
+  PrimaryAsset: !<reference> 5c367d39-e7f6-4a76-9aa8-576ec181dd98
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<RenderMeshVisual/fc9ce4fb-1409-43db-aa3e-6ed196cbf368>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c7e8b9bb-77fc-45b6-9414-f773f5b8cd94
+  Mesh: !<reference> b6d9f6e6-4053-44af-936c-31b3e15f8988
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    Thickness: 0.500000
+  RayTracing: !<RayTracingVisualSettings>
+    Reflections:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+      planar:
+        enabled: true
+        roughHarden: 0.500000
+        roughCurve: 2.000000
+    IndirectDiffuse:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    AmbientOcclusion:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Shadows:
+      caster: false
+      receiver: false
+      receiverLayers: 1
+    Material: !<reference> 00000000-0000-0000-0000-000000000000
+    HideFromCamera: false

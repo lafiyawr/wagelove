@@ -1,0 +1,51 @@
+- !<AssetImportMetadata/19506646-ab33-43e4-90b9-3bbfcfbf557c>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 57c901a8-fc39-4131-b857-05c64e0bee3c
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 57c901a8-fc39-4131-b857-05c64e0bee3c
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    AssetLibraryId: B8Ub8LTPhorzR0YD28voD
+  AssetDataMap:
+    JavaScriptAsset: !<own> 36717d83-2e2f-4696-bf06-6747f3220518
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/36717d83-2e2f-4696-bf06-6747f3220518>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 2828634e-17ac-4c8e-a6dd-1a09689dff8a
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    handJoints: false
+    handType: false
+    pauseName: false
+    pauseOnHandLost: false
+    propertyName: false
+    vfxAsset: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - handType: 0
+      handJoints: !<string[]>
+        []
+      vfxAsset: !<reference.VFXAsset> 00000000-0000-0000-0000-000000000000
+      propertyName: ""
+      pauseOnHandLost: false
+      pauseName: ""
+  ScriptTypes:
+    -
+      {}

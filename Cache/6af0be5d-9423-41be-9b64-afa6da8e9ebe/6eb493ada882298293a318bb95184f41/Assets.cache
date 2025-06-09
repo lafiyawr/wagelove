@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    b585e276-9687-4a74-b982-875cdecec096: 6af0be5d-9423-41be-9b64-afa6da8e9ebe/6eb493ada882298293a318bb95184f41/Data/WatchGlass.mesh
+  Assets:
+    - !<FileMesh/b585e276-9687-4a74-b982-875cdecec096>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 3020
+        Vertices: 1860
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 25.886806, y: 1.167538, z: 25.886806}
+  SourceHash: 6eb493ada882298293a318bb95184f41
+  FileHash: 60bdc89d29e66f2688b769d35e38c4d8
+  NativePackageItems:
+    []

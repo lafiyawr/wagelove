@@ -1,0 +1,124 @@
+{ 
+	"ui": 
+	[
+		{
+        	"label": "Graph Parameters",
+        	"widget": "group_start"
+        },
+{ 
+                	"bindingName": "noiseTex", 
+                	"label":       "3D Noise Texture", 
+                	"widget":      "texture_group",
+                	"sortIndex":   "-3",
+                	"hint":        ""
+                },
+                
+                {
+                	"label": "Repel",
+                	"widget": "group_start"
+                },                    
+                    {
+                    	"bindingName": "colorA",
+                    	"label":       "Color A",
+                    	"widget":      "color",
+                    	"sortIndex":   "26",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "colorB",
+                    	"label":       "Color B",
+                    	"widget":      "color",
+                    	"sortIndex":   "27",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "colorC",
+                    	"label":       "Color C",
+                    	"widget":      "color",
+                    	"sortIndex":   "28",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "colorD",
+                    	"label":       "Color D",
+                    	"widget":      "color",
+                    	"sortIndex":   "29",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "colorE",
+                    	"label":       "Color E",
+                    	"widget":      "color",
+                    	"sortIndex":   "30",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                {
+                	"widget": "group_end"
+                },
+                
+                {
+                	"label": "Data from Script",
+                	"widget": "group_start"
+                },                    
+                    {
+                    	"bindingName": "isIdle",
+                    	"label":       "Is Idle",
+                    	"widget":      "checkbox",
+                    	"sortIndex":   "50",
+                    	"hint":        ""
+                    },
+                    
+                    {
+                    	"bindingName": "influencePosition",
+                    	"label":       "Influence Position",
+                    	"widget":      "spinbox",
+                    	"step":        "0.01",
+                    	"sortIndex":   "50",
+                    	"hint":        "",
+                    	"default":     "1.0"
+                    },
+                    
+                    {
+                    	"bindingName": "isAttracting",
+                    	"label":       "Is Attracting",
+                    	"widget":      "checkbox",
+                    	"sortIndex":   "50",
+                    	"hint":        ""
+                    },
+                {
+                	"widget": "group_end"
+                },
+
+        {
+        	"widget": "group_end"
+        },
+        
+		
+	{
+		"bindingName": "alphaTestThreshold",
+		"widget": "slider",
+		"min" : 0.0,
+		"max" : 1.0,
+		"step": 0.001,
+		"default": 0.5,
+		"hint": "When the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear."
+	}
+	
+	],
+	
+	"shaderType": "PostProcessing",
+	
+	"extraDefines":
+	[
+		
+	]
+}

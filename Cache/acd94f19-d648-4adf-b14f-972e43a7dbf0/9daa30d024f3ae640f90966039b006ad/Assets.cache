@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    f8638698-bc08-4f64-9d36-302e819bdd53: acd94f19-d648-4adf-b14f-972e43a7dbf0/9daa30d024f3ae640f90966039b006ad/Data/earth-healthy.jpg
+  Assets:
+    - !<FileTexture/f8638698-bc08-4f64-9d36-302e819bdd53>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 2048
+        Height: 2048
+  SourceHash: 9daa30d024f3ae640f90966039b006ad
+  FileHash: 9a896fcc2bc2f9ae43524271383e6b68
+  NativePackageItems:
+    []

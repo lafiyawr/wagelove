@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    cb5699f9-9cdb-4b9c-9712-69412db5b013: a8337d0f-7629-4880-8b33-ff708b597e6e/9f95bdee0060266a681499b86701f934/Data/tap_click3.mp3
+  Assets:
+    - !<FileAudioTrack/cb5699f9-9cdb-4b9c-9712-69412db5b013>
+      PackagePath: ""
+  SourceHash: 9f95bdee0060266a681499b86701f934
+  FileHash: e0cff5c10db0a0ea274c3472283a6839
+  NativePackageItems:
+    []

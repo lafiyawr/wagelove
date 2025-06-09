@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    e8e46499-9b07-49e4-acb7-6ac7783c8264: d01431c6-ac0d-2435-0cde-90a3b08d29ff/9c98bb6ebb536a1d73178b46f14e4afd/Data/Realistic_White_Female_Low_Poly3.002.mesh
+  Assets:
+    - !<FileMesh/e8e46499-9b07-49e4-acb7-6ac7783c8264>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 30
+        Vertices: 90
+        Blendshapes:
+          []
+        Joints: 33
+        AabbSize: {x: 0.622306, y: 0.622306, z: 0.000000}
+  SourceHash: 9c98bb6ebb536a1d73178b46f14e4afd
+  FileHash: c4cc339fce4803a3eed6896c9502a3fe
+  NativePackageItems:
+    []
